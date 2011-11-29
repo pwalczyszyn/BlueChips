@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Graphic version="2.0" viewHeight="54" viewWidth="1978" ai:appVersion="15.1.0.39" ATE:version="1.0.0" flm:version="1.0.0" d:using="" xmlns="http://ns.adobe.com/fxg/2008" xmlns:ATE="http://ns.adobe.com/ate/2009" xmlns:ai="http://ns.adobe.com/ai/2009" xmlns:d="http://ns.adobe.com/fxg/2008/dt" xmlns:flm="http://ns.adobe.com/flame/2008">
+  <Library/>
+  <Group ai:seqID="1" d:layerType="page" d:pageHeight="54" d:pageWidth="1978" d:type="layer" d:userLabel="Artboard 6">
+    <Group ai:seqID="2" d:type="layer" d:userLabel="Layer 1">
+      <Rect width="1978" height="54" ai:seqID="3">
+        <fill>
+          <LinearGradient x="0" y="27" scaleX="1978">
+            <GradientEntry ratio="0" alpha="0"/>
+            <GradientEntry ratio="0.5"/>
+            <GradientEntry ratio="1" alpha="0"/>
+          </LinearGradient>
+        </fill>
+      </Rect>
+    </Group>
+  </Group>
+  <Private/>
+</Graphic>

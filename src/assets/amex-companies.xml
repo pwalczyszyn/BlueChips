@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<companies>
+	<company symbol="AA^" name="Alcoa Inc." />
+	<company symbol="AAU" name="Almaden Minerals, Ltd." />
+	<company symbol="ABL" name="American Biltrite Inc." />
+	<company symbol="ACU" name="Acme United Corporation." />
+	<company symbol="ACY" name="AeroCentury Corp." />
+	<company symbol="ADGE" name="American DG Energy Inc." />
+	<company symbol="ADK" name="Adcare Health Systems Inc" />
+	<company symbol="ADK/WS" name="Adcare Health Systems Inc" />
+	<company symbol="AE" name="Adams Resources &amp; Energy, Inc." />
+	<company symbol="AEN" name="Adeona Pharmaceuticals, Inc." />
+	<company symbol="AGX" name="Argan, Inc." />
+	<company symbol="AIM" name="Aerosonic Corporation" />
+	<company symbol="AIP" name="American Israeli Paper Mills, Ltd." />
+	<company symbol="AIS" name="Antares Pharma, Inc." />
+	<company symbol="ALN" name="American Lorain Corporation" />
+	<company symbol="AMS" name="American Shared Hospital Services" />
+	<company symbol="ANO" name="Anooraq Resources Corporation" />
+	<company symbol="ANV" name="Allied Nevada Gold Corp" />
+	<company symbol="ANX" name="ADVENTRX Pharmaceuticals, Inc." />
+	<company symbol="API" name="Advanced Photonix, Inc." />
+	<company symbol="APP" name="American Apparel Inc" />
+	<company symbol="APT" name="Alpha Pro Tech, Ltd." />
+	<company symbol="APTS" name="Preferred Apartment Communities, Inc." />
+	<company symbol="AQQ" name="American Spectrum Realty, Inc." />
+	<company symbol="ARR/WS" name="Armour Residential R" />
+	<company symbol="ASM" name="Avino Silver" />
+	<company symbol="ATC" name="Cycle Country Accessories Corporation" />
+	<company symbol="ATSC" name="ATS Corporation" />
+	<company symbol="AUMN" name="Golden Minerals Co." />
+	<company symbol="AVL" name="Avalon Rare Metals, Inc." />
+	<company symbol="AWX" name="Avalon Holdings Corporation" />
+	<company symbol="AXK" name="Accelr8 Technology Corporation" />
+	<company symbol="AXN" name="China Aoxing Pharmaceutical Company, Inc." />
+	<company symbol="AXU" name="Alexco Resource Corp" />
+	<company symbol="AZC" name="Augusta Resource Corporation" />
+	<company symbol="AZK" name="Aurizon Mines, Ltd." />
+	<company symbol="BAA" name="BANRO CORPORATION" />
+	<company symbol="BAA/WS" name="BANRO CORPORATION" />
+	<company symbol="BCV" name="Bancroft Convertible Fund, Inc." />
+	<company symbol="BDL" name="Flanigan&#39;s Enterprises, Inc." />
+	<company symbol="BDR" name="Blonder Tongue Laboratories, Inc." />
+	<company symbol="BFY" name="BlackRock New York Municipal Income Trust II" />
+	<company symbol="BHB" name="Bar Harbor Bankshares, Inc." />
+	<company symbol="BHO" name="B+H Ocean Carriers Ltd." />
+	<company symbol="BHV" name="BlackRock Virginia Municipal Bond Trust" />
+	<company symbol="BIR^A" name="Berkshire Income Realty, Inc." />
+	<company symbol="BKJ" name="Bancorp of New Jersey, Inc" />
+	<company symbol="BKR" name="Baker (Michael) Corporation" />
+	<company symbol="BLD" name="Baldwin Technology Company, Inc." />
+	<company symbol="BLE" name="BlackRock Municipal Income Trust II" />
+	<company symbol="BLJ" name="Blackrock New Jersey Municipal Bond Trust" />
+	<company symbol="BMJ" name="Birks &amp; Mayors Inc." />
+	<company symbol="BNX" name="Banks.com, Inc" />
+	<company symbol="BONE" name="Bacterin International Holdings, Inc." />
+	<company symbol="BPS" name="BlackRock Pennsylvania Strategic Municipal Trust (The)" />
+	<company symbol="BQI" name="Oilsands Quest Inc" />
+	<company symbol="BQI~" name="Oilsands Quest Inc" />
+	<company symbol="BQY" name="S&amp;P Quality Rankings Glbl Equ Mngd Tr" />
+	<company symbol="BRD" name="Apollo Gold Corporation" />
+	<company symbol="BRN" name="Barnwell Industries, Inc." />
+	<company symbol="BTC" name="Community Bankers Trust Corporation." />
+	<company symbol="BTI" name="British American Tobacco  Industries, p.l.c." />
+	<company symbol="BTN" name="Ballantyne Strong, Inc" />
+	<company symbol="BTX" name="BioTime, Inc." />
+	<company symbol="BVX" name="Bovie Medical Corporation" />
+	<company symbol="BWL/A" name="Bowl America, Inc." />
+	<company symbol="BZC" name="Breeze-Eastern Corporation" />
+	<company symbol="BZM" name="BlackRock Maryland Municipal Bond Trust" />
+	<company symbol="CAK" name="CAMAC Energy Inc." />
+	<company symbol="CAW" name="CCA Industries, Inc." />
+	<company symbol="CBP" name="China Botanic Pharmaceutical Inc." />
+	<company symbol="CCA" name="MFS California Insured Municipal Trust" />
+	<company symbol="CCF" name="Chase Corporation" />
+	<company symbol="CDY" name="Cardero Resource Corporation" />
+	<company symbol="CEF" name="Central Fund of Canada Limited" />
+	<company symbol="CET" name="Central Securities Corporation" />
+	<company symbol="CEV" name="Eaton Vance California Municipal Income Trust" />
+	<company symbol="CFD" name="Nuveen Diversified Commodity Fund" />
+	<company symbol="CFP" name="Cornerstone Progressive Return Fund" />
+	<company symbol="CFW" name="Cano Petroleum, Inc." />
+	<company symbol="CGL/A" name="Cagle&#39;s, Inc." />
+	<company symbol="CGR" name="Claude Resources, Inc." />
+	<company symbol="CH" name="Aberdeen Chile Fund, Inc." />
+	<company symbol="CHGS" name="China GengSheng Minerals, Inc." />
+	<company symbol="CIK" name="Credit Suisse Asset Management Income Fund, Inc." />
+	<company symbol="CIX" name="CompX International Inc." />
+	<company symbol="CKX" name="CKX Lands, Inc." />
+	<company symbol="CLM" name="Cornerstone Strategic Value Fund, Inc." />
+	<company symbol="CMFO" name="China Marine Food Group Limited" />
+	<company symbol="CMT" name="Core Molding Technologies Inc" />
+	<company symbol="CNAM" name="China Armco Metals, Inc." />
+	<company symbol="CNGL" name="China Nutrifruit Group Limited" />
+	<company symbol="CNR" name="China Metro-Rural Holdings Limited" />
+	<company symbol="CONM" name="Conmed Healthcare Management, Inc." />
+	<company symbol="COVR" name="Cover-All Technologies Inc." />
+	<company symbol="CPHI" name="China Pharma Holdings, Inc." />
+	<company symbol="CQP" name="Cheniere Energy Partners, LP" />
+	<company symbol="CRC" name="Chromcraft Revington, Inc." />
+	<company symbol="CRF" name="Cornerstone Strategic Return Fund, Inc. (The)" />
+	<company symbol="CRMD" name="CorMedix Inc" />
+	<company symbol="CRMD/WS" name="CorMedix Inc" />
+	<company symbol="CRV" name="Coast Distribution System, Inc. (The)" />
+	<company symbol="CRVP" name="Crystal Rock Holdings, Inc." />
+	<company symbol="CTO" name="Consolidated-Tomoka Land Co." />
+	<company symbol="CTP" name="CTPartners Executive Search Inc." />
+	<company symbol="CUO" name="Continental Materials Corporation" />
+	<company symbol="CUR" name="Neuralstem, Inc." />
+	<company symbol="CVM" name="Cel-Sci Corporation" />
+	<company symbol="CVR" name="Chicago Rivet &amp; Machine Co." />
+	<company symbol="CVU" name="CPI Aerostructures, Inc." />
+	<company symbol="CXM" name="Cardium Therapeutics, Inc." />
+	<company symbol="CXZ" name="Crosshair Exploration &amp; Mining Corp" />
+	<company symbol="DEJ" name="Dejour Energy Inc." />
+	<company symbol="DGSE" name="DGSE Companies, Inc." />
+	<company symbol="DHY" name="Credit Suisse High Yield Bond Fund" />
+	<company symbol="DIT" name="AMCON Distributing Company" />
+	<company symbol="DLA" name="Delta Apparel, Inc." />
+	<company symbol="DMF" name="Dreyfus Municipal Income, Inc." />
+	<company symbol="DNN" name="Intl Uranium Corp" />
+	<company symbol="DPW" name="Digital Power Corporation" />
+	<company symbol="DRJ" name="Dreams, Inc." />
+	<company symbol="DSS" name="Document Security Systems, Inc." />
+	<company symbol="DXR" name="Daxor Corporation" />
+	<company symbol="EAD" name="Wells Fargo Advantage Income Opportunities Fund" />
+	<company symbol="EAG" name="American Defense Systems, Inc" />
+	<company symbol="ECF" name="Ellsworth Convertible Growth and Income Fund, Inc." />
+	<company symbol="EGAS" name="Gas Natural Inc." />
+	<company symbol="EGI" name="Entree Gold Inc" />
+	<company symbol="EGT" name="Entertainment Gaming Asia Incorporated" />
+	<company symbol="EGX" name="Engex, Inc." />
+	<company symbol="EIA" name="Eaton Vance California Municipal Bond Fund II" />
+	<company symbol="EIM" name="Eaton Vance Municipal Bond Fund" />
+	<company symbol="EIO" name="Eaton Vance Ohio Municipal Bond Fund" />
+	<company symbol="EIP" name="Eaton Vance Pennsylvania Municipal Bond Fund" />
+	<company symbol="EIV" name="Eaton Vance Municipal Bond Fund II" />
+	<company symbol="ELC" name="Eastern Light Capital, Incorporated" />
+	<company symbol="ELLI" name="Ellie Mae, Inc." />
+	<company symbol="ELLO" name="Ellomay Capital Ltd." />
+	<company symbol="EMAN" name="eMagin Corporation" />
+	<company symbol="EMI" name="Eaton Vance Michigan Municipal Income Trust" />
+	<company symbol="EMJ" name="Eaton Vance New Jersey Municipal Bond Fund" />
+	<company symbol="EML" name="Eastern Company (The)" />
+	<company symbol="ENA" name="Enova Systems Inc." />
+	<company symbol="ENX" name="Eaton Vance New York Municipal Bond Fund" />
+	<company symbol="EPM" name="Evolution Petroleum Corporation, Inc." />
+	<company symbol="EPM^A" name="Evolution Petroleum Corporation, Inc." />
+	<company symbol="ERC" name="Wells Fargo Advantage Multi-Sector Income Fund" />
+	<company symbol="ERH" name="Wells Fargo Advantage Utilities and High Income Fund" />
+	<company symbol="ESA" name="Energy Services Acquisition Corp" />
+	<company symbol="ESA/U" name="Energy Services Acquisition Corp" />
+	<company symbol="ESA/WS" name="Energy Services Acquisition Corp" />
+	<company symbol="ESP" name="Espey Mfg. &amp; Electronics Corp." />
+	<company symbol="ETF" name="Aberdeen Emerging Markets Telecommunications and Infrastructur" />
+	<company symbol="EVBN" name="Evans Bancorp, Inc." />
+	<company symbol="EVI" name="EnviroStarm, Inc." />
+	<company symbol="EVJ" name="Eaton Vance New Jersey Municipal Income Trust" />
+	<company symbol="EVK" name="Ever-Glory International Group, Inc." />
+	<company symbol="EVM" name="Eaton Vance California Municipal Bond Fund" />
+	<company symbol="EVO" name="Eaton Vance Ohio Municipal Income Trust" />
+	<company symbol="EVP" name="Eaton Vance Pennsylvania Municipal Income Trust" />
+	<company symbol="EVV" name="Eaton Vance Limited Duration Income Fund" />
+	<company symbol="EVY" name="Eaton Vance New York Municipal Income Trust" />
+	<company symbol="EXE" name="Crexendo, Inc." />
+	<company symbol="FAX" name="Aberdeen Asia-Pacific Income Fund Inc" />
+	<company symbol="FCO" name="Aberdeen Global Income Fund, Inc." />
+	<company symbol="FEN" name="Energy Income and Growth Fund" />
+	<company symbol="FFI" name="Fortune Diversified Industries, Inc." />
+	<company symbol="FLL" name="Full House Resorts, Inc." />
+	<company symbol="FNV/U" name="First Class Navigation Corporation" />
+	<company symbol="FOH" name="Frederick&#39;s of Hollywood Group" />
+	<company symbol="FPP" name="FieldPoint Petroleum Corporation" />
+	<company symbol="FRD" name="Friedman Industries Inc." />
+	<company symbol="FRS" name="Frisch&#39;s Restaurants, Inc." />
+	<company symbol="FSI" name="Flexible Solutions International Inc." />
+	<company symbol="FSP" name="Franklin Street Properties Corp." />
+	<company symbol="FTF" name="Franklin Templeton Limited Duration Income Trust" />
+	<company symbol="FWV" name="First West Virginia Bancorp, Inc." />
+	<company symbol="GBG" name="Great Basin Gold, Ltd." />
+	<company symbol="GBR" name="New Concept Energy, Inc" />
+	<company symbol="GGN" name="The Gabelli Global Goldn Natural Resources &amp; Income Trust" />
+	<company symbol="GGN^A" name="The Gabelli Global Goldn Natural Resources &amp; Income Trust" />
+	<company symbol="GGR" name="GeoGlobal Resources Inc." />
+	<company symbol="GHM" name="Graham Corporation" />
+	<company symbol="GLA" name="Clark Holdings Inc" />
+	<company symbol="GLO" name="Clough Global Opportunities Fund" />
+	<company symbol="GLQ" name="Clough Global Equity Fund" />
+	<company symbol="GLU" name="Gabelli Global Utility" />
+	<company symbol="GLV" name="Clough Global Allocation Fund" />
+	<company symbol="GMO" name="General Moly, Inc" />
+	<company symbol="GOK" name="Geokinetics, Inc." />
+	<company symbol="GORO" name="Gold Resource Corporation" />
+	<company symbol="GPL" name="Great Panther Silver Limited" />
+	<company symbol="GPR" name="GeoPetro Resources Co" />
+	<company symbol="GRC" name="Gorman-Rupp Company (The)" />
+	<company symbol="GRF" name="Eagle Capital Growth Fund, Inc." />
+	<company symbol="GRH" name="GreenHunter Energy Inc" />
+	<company symbol="GRZ" name="Gold Reserve Inc" />
+	<company symbol="GSB" name="GlobalSCAPE, Inc." />
+	<company symbol="GSS" name="Golden Star Resources, Ltd" />
+	<company symbol="GST" name="Gastar Exploration" />
+	<company symbol="GST^A" name="Gastar Exploration" />
+	<company symbol="GSX" name="GASCO ENERGY INC" />
+	<company symbol="GTE" name="Gran Tierra Energy Inc." />
+	<company symbol="GTU" name="Central Gold Trust" />
+	<company symbol="GV" name="Goldfield Corporation (The)" />
+	<company symbol="GVP" name="GSE Systems, Inc." />
+	<company symbol="HBP" name="Helix Biopherma Cp" />
+	<company symbol="HEB" name="Hemispherx BioPharma, Inc." />
+	<company symbol="HH" name="Hooper Holmes, Inc." />
+	<company symbol="HKN" name="HKN, Inc." />
+	<company symbol="HLM^" name="Hillman Group Capital Trust" />
+	<company symbol="HMG" name="HMG/Courtland Properties, Inc." />
+	<company symbol="HNB" name="Herald National Bank" />
+	<company symbol="HNW" name="Pioneer Diversified High Income Trust" />
+	<company symbol="HRT" name="Arrhythmia Research Technology Inc." />
+	<company symbol="HTM" name="U.S. Geothermal Inc." />
+	<company symbol="HUSA" name="Houston American Energy Corporation" />
+	<company symbol="HWG" name="Hallwood Group Incorporated" />
+	<company symbol="IAF" name="Aberdeen Australia Equity Fund Inc" />
+	<company symbol="IBIO" name="iBio, Inc." />
+	<company symbol="IBO" name="IBO (Listing Market - NYSE Amex Network B F)" />
+	<company symbol="ICH" name="Investors Capital Holdings, Ltd." />
+	<company symbol="IDI" name="SearchMedia Holdings Limited" />
+	<company symbol="IDI/U" name="SearchMedia Holdings Limited" />
+	<company symbol="IDI/WS" name="SearchMedia Holdings Limited" />
+	<company symbol="IDN" name="Intellicheck Mobilisia, Inc." />
+	<company symbol="IEC" name="IEC Electronics Corp." />
+	<company symbol="IF" name="Aberdeen Indonesia Fund, Inc." />
+	<company symbol="IFMI" name="Institutional Financial Markets, Inc." />
+	<company symbol="IG" name="IGI Laboratories, Inc." />
+	<company symbol="IGC" name="India Globalization Capital Inc." />
+	<company symbol="IGC/U" name="India Globalization Capital Inc." />
+	<company symbol="IGC/WS" name="India Globalization Capital Inc." />
+	<company symbol="IHT" name="InnSuites Hospitality Trust" />
+	<company symbol="IMH" name="Impac Mortgage Holdings, Inc." />
+	<company symbol="IMO" name="Imperial Oil Limited" />
+	<company symbol="INFU" name="InfuSystems Holdings, Inc." />
+	<company symbol="INO" name="Inovio Pharmaceuticals, Inc." />
+	<company symbol="INS" name="Intelligent Systems Corporation" />
+	<company symbol="INUV" name="Inuvo, Inc" />
+	<company symbol="INV" name="Innovaro Inc" />
+	<company symbol="IOT" name="Income Opportunity Realty Trust" />
+	<company symbol="IPB" name="Merrill Lynch &amp; Co., Inc." />
+	<company symbol="IPT" name="iParty Corporation" />
+	<company symbol="ISL" name="Aberdeen Israel Fund, Inc." />
+	<company symbol="ISR" name="IsoRay, Inc." />
+	<company symbol="ITI" name="Iteris, Inc." />
+	<company symbol="IVD" name="IVAX Diagnostics, Inc." />
+	<company symbol="JFP" name="Nuveen Tax-Advantaged Floating Rate Fund" />
+	<company symbol="JOB" name="General Employment Enterprises, Inc." />
+	<company symbol="JRS" name="Nuveen Real Estate Fund" />
+	<company symbol="KAD" name="Arcadia Resources, Inc." />
+	<company symbol="KAZ" name="BMB Munai, Inc." />
+	<company symbol="KBX" name="Kimber Resources Inc" />
+	<company symbol="KGN" name="Keegan Resources Inc" />
+	<company symbol="KUN" name="China Shenghuo Pharmaceutical Holdings, Inc" />
+	<company symbol="KXM" name="Kobex Minerals Inc." />
+	<company symbol="LAQ" name="Latin America Equity Fund, Inc. (The)" />
+	<company symbol="LBY" name="Libbey, Inc." />
+	<company symbol="LCI" name="Lannett Co Inc" />
+	<company symbol="LEI" name="Lucas Energy, Inc." />
+	<company symbol="LGL" name="LGL Group, Inc. (The)" />
+	<company symbol="LNG" name="Cheniere Energy, Inc." />
+	<company symbol="LODE" name="Comstock Mining, Inc." />
+	<company symbol="LON" name="Loncor Resources Inc" />
+	<company symbol="LOV" name="Spark Networks, Inc." />
+	<company symbol="LPH" name="Longwei Petroleum Investment Holding Limited" />
+	<company symbol="LSG" name="Lake Shore Gold Corp" />
+	<company symbol="LTS" name="Ladenburg Thalmann Financial Services Inc" />
+	<company symbol="MAB" name="Eaton Vance Massachusetts Municipal Bond Fund" />
+	<company symbol="MBA" name="CIBT Education Group Inc." />
+	<company symbol="MBR" name="Mercantile Bancorp, Inc. (Quincey, IL)" />
+	<company symbol="MCF" name="Contango Oil &amp; Gas Company" />
+	<company symbol="MCZ" name="Mad Catz Interactive Inc" />
+	<company symbol="MDF" name="Metropolitan Health Networks, Inc." />
+	<company symbol="MDGN" name="Medgenics, Inc." />
+	<company symbol="MDGN/WS" name="Medgenics, Inc." />
+	<company symbol="MDM" name="Mountain Province Diamonds Inc." />
+	<company symbol="MDW" name="Midway Gold Corporation" />
+	<company symbol="MEA" name="Metalico Inc" />
+	<company symbol="MFN" name="MineFinders Corp. Ltd." />
+	<company symbol="MGH" name="Minco Gold Corporation" />
+	<company symbol="MGN" name="Mines Management, Inc." />
+	<company symbol="MGT" name="MGT Capital Investments Inc" />
+	<company symbol="MHE" name="Massachusetts Health and Education Tax-Exempt Trust" />
+	<company symbol="MHH" name="Mastech Holdings, Inc" />
+	<company symbol="MHR^C" name="Magnum Hunter Resources Corporation" />
+	<company symbol="MHR^D" name="Magnum Hunter Resources Corporation" />
+	<company symbol="MIW" name="Eaton Vance Michigan Municipal Bond Fund" />
+	<company symbol="MMV" name="Eaton Vance Massachusetts Municipal Income Trust" />
+	<company symbol="MMZ^K" name="SiM Internal Test 6" />
+	<company symbol="MOC" name="Command Security Corporation" />
+	<company symbol="MSL" name="MidSouth Bancorp" />
+	<company symbol="MSN" name="Emerson Radio Corporation" />
+	<company symbol="MVF" name="MuniVest Fund, Inc." />
+	<company symbol="MVG" name="Mag Silver Corporation" />
+	<company symbol="MXA" name="Minnesota Municipal Income Portfolio Inc." />
+	<company symbol="MXC" name="Mexco Energy Corporation" />
+	<company symbol="MXN" name="First American Minnesota Municipal Income Fund II, Inc." />
+	<company symbol="MZA" name="MuniYield Arizona Fund, Inc." />
+	<company symbol="NAK" name="Northern Dynasty Minerals, Ltd." />
+	<company symbol="NBH" name="Neuberger Berman Intermediate Municipal Fund Inc." />
+	<company symbol="NBJ" name="Nuveen Ohio Dividend Advantage Municipal Fund 2" />
+	<company symbol="NBJ^A" name="Nuveen Ohio Dividend Advantage Municipal Fund 2" />
+	<company symbol="NBO" name="Neuberger Berman New York Intermediate Municipal Fund Inc." />
+	<company symbol="NBS" name="Neostem, Inc." />
+	<company symbol="NBS/WS" name="Neostem, Inc." />
+	<company symbol="NBW" name="Neuberger Berman California Intermediate Municipal Fund Inc." />
+	<company symbol="NBY" name="NovaBay Pharmaceuticals, Inc." />
+	<company symbol="NCB" name="Nuveen California Municipal Value Fund 2" />
+	<company symbol="NCU" name="Nuveen California Premium Income Municipal Fund" />
+	<company symbol="NEA" name="Nuveen Insured Tax-Free Advantage Municipal Fund" />
+	<company symbol="NEN" name="New England Realty Associates Limited Partnership" />
+	<company symbol="NEOP" name="Neoprobe Corporation" />
+	<company symbol="NEP" name="China North East Petroleum Holdings Limited" />
+	<company symbol="NEWN" name="New Energy Systems Group." />
+	<company symbol="NFC" name="Nuveen Connecticut Dividend Advantage Municipal Fund" />
+	<company symbol="NFM" name="Nuveen Maryland Dividend Advantage Municipal Fund" />
+	<company symbol="NFZ" name="Nuveen Arizona Dividend Advantage Municipal Fund" />
+	<company symbol="NFZ^C" name="Nuveen Arizona Dividend Advantage Municipal Fund" />
+	<company symbol="NG" name="Novagold Resources Inc New" />
+	<company symbol="NGB" name="Nuveen Virginia Dividend Advantage Municipal Fund" />
+	<company symbol="NGD" name="NEW GOLD INC." />
+	<company symbol="NGK" name="Nuveen Connecticut Dividend Advantage Municipal Fund 2" />
+	<company symbol="NGO" name="Nuveen Connecticut Dividend Advantage Municipal Fund 3" />
+	<company symbol="NGX" name="Nuveen Insured Massachusetts Tax-Free Advantage Municipal Fund" />
+	<company symbol="NHC" name="National HealthCare Corporation" />
+	<company symbol="NHC^A" name="National HealthCare Corporation" />
+	<company symbol="NHS" name="Neuberger Berman High Yield Strategies Fund" />
+	<company symbol="NII" name="Nuveen North Carolina Dividend Advantage Municipal Fund 3" />
+	<company symbol="NJV" name="Nuveen New Jersey Municipal Value Fund" />
+	<company symbol="NKG" name="Nuveen Georgia Dividend Advantage Municipal Fund 2" />
+	<company symbol="NKL" name="Nuveen Insured California Dividend Advantage Municipal Fund" />
+	<company symbol="NKO" name="Nuveen Insured New York Dividend Advantage Municipal Fund" />
+	<company symbol="NKR" name="Nuveen Arizona Dividend Advantage Municipal Fund 2" />
+	<company symbol="NKX" name="Nuveen Insured California Tax-Free Advantage Municipal Fund" />
+	<company symbol="NLP" name="NTS Realty Holdings Limited Partnership" />
+	<company symbol="NMB" name="Nuveen Massachusetts Dividend Advantage Municipal Fund" />
+	<company symbol="NMB^C" name="Nuveen Massachusetts Dividend Advantage Municipal Fund" />
+	<company symbol="NMZ" name="Nuveen Municipal High Income Opportunity Fund" />
+	<company symbol="NNB" name="Nuveen Virginia Dividend Advantage Municipal Fund 2" />
+	<company symbol="NNO" name="Nuveen North Carolina Dividend Advantage Municipal Fund 2" />
+	<company symbol="NOG" name="Northern Oil and Gas, Inc." />
+	<company symbol="NOM" name="Nuveen Missouri Premium Income Municipal Fund" />
+	<company symbol="NPG" name="Nuveen Georgia Premium Income Municipal Fund" />
+	<company symbol="NPN" name="Nuveen Pennsylvania Municipal Value Fund" />
+	<company symbol="NRB" name="Nuveen North Carolina Dividend Advantage Municipal Fund" />
+	<company symbol="NRK" name="Nuveen Insured New York Tax-Free Advantage Municipal Fund" />
+	<company symbol="NRO" name="Neuberger Berman Real Estate Securities Income Fund, Inc." />
+	<company symbol="NSU" name="Nevsun Resources Ltd" />
+	<company symbol="NTN" name="NTN Buzztime, Inc." />
+	<company symbol="NUJ" name="Nuveen New Jersey Dividend Advantage Municipal Fund 2" />
+	<company symbol="NVG" name="Nuveen Insured Dividend Advantage Municipal Fund" />
+	<company symbol="NVJ" name="Nuveen Ohio Dividend Advantage Municipal Fund 3" />
+	<company symbol="NVJ^A" name="Nuveen Ohio Dividend Advantage Municipal Fund 3" />
+	<company symbol="NVX" name="Nuveen California Dividend Advantage Municipal Fund 2" />
+	<company symbol="NVY" name="Nuveen Pennsylvania Dividend Advantage Municipal Fund 2" />
+	<company symbol="NWI" name="Nuveen Maryland Dividend Advantage Municipal Fund 3" />
+	<company symbol="NXE" name="Nuveen Arizona Dividend Advantage Municipal Fund 3" />
+	<company symbol="NXG" name="Northgate Minerals Corporation" />
+	<company symbol="NXI" name="Nuveen Ohio Dividend Advantage Municipal Fund" />
+	<company symbol="NXI^D" name="Nuveen Ohio Dividend Advantage Municipal Fund" />
+	<company symbol="NXJ" name="Nuveen New Jersey Dividend Advantage Municipal Fund" />
+	<company symbol="NXK" name="Nuveen New York Dividend Advantage Municipal Fund 2" />
+	<company symbol="NXM" name="Nuveen Pennsylvania Dividend Advantage Municipal Fund" />
+	<company symbol="NXZ" name="Nuveen Dividend Advantage Municipal Fund 2" />
+	<company symbol="NYH" name="Eaton Vance New York Municipal Bond Fund II" />
+	<company symbol="NYV" name="Nuveen New York Municipal Value Fund 2" />
+	<company symbol="NZF" name="Nuveen Dividend Advantage Municipal Fund 3" />
+	<company symbol="NZH" name="Nuveen California Dividend Advantage Municipal Fund 3" />
+	<company symbol="NZR" name="Nuveen Maryland Dividend Advantage Municipal Fund 2" />
+	<company symbol="NZW" name="Nuveen Michigan Dividend Advantage Municipal Fund" />
+	<company symbol="NZW^C" name="Nuveen Michigan Dividend Advantage Municipal Fund" />
+	<company symbol="NZX" name="Nuveen Georgia Dividend Advantage Municipal Fund" />
+	<company symbol="NZX^C" name="Nuveen Georgia Dividend Advantage Municipal Fund" />
+	<company symbol="OESX" name="Orion Energy Systems, Inc." />
+	<company symbol="OFI" name="Overhill Farms, Inc." />
+	<company symbol="ONP" name="Orient Paper, Inc." />
+	<company symbol="OOZ^K" name="SiM Internal Test 7" />
+	<company symbol="OPK" name="Opko Health Inc" />
+	<company symbol="ORS" name="Orsus Xelent Technolgies, Inc." />
+	<company symbol="PAL" name="North American Palladium, Ltd." />
+	<company symbol="PBM" name="Pacific Booker Minerals Inc" />
+	<company symbol="PBTH" name="PROLOR Biotech, Inc." />
+	<company symbol="PCC" name="PMC Commercial Trust" />
+	<company symbol="PCE" name="Pacific Office Properties Trust, Inc" />
+	<company symbol="PCG^A" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^B" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^C" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^D" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^E" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^G" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^H" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCG^I" name="Pacific Gas &amp; Electric Co." />
+	<company symbol="PCYG" name="Park City Group, Inc." />
+	<company symbol="PDC" name="Pioneer Drilling Co" />
+	<company symbol="PDL/B" name="Presidential Realty Corporation" />
+	<company symbol="PDO" name="Pyramid Oil Co" />
+	<company symbol="PHC" name="PHC, Inc." />
+	<company symbol="PHF" name="Pacholder High Yield Fund, Inc." />
+	<company symbol="PIP" name="PharmAthene, Inc" />
+	<company symbol="PKT" name="Procera Networks, Inc." />
+	<company symbol="PLG" name="Platinum Group Metals Ltd." />
+	<company symbol="PLM" name="Polymet Mining Corp." />
+	<company symbol="PLX" name="Protalix BioTherapeutics, Inc." />
+	<company symbol="PNS" name="Pinnacle Data Systems, Inc." />
+	<company symbol="PPW^" name="PacifiCorp" />
+	<company symbol="PRK" name="Park National Corporation" />
+	<company symbol="PTN" name="Palatin Technologies, Inc." />
+	<company symbol="PTX" name="Pernix Therapeutics Holdings, Inc." />
+	<company symbol="PW" name="Pittsburgh &amp; West Virginia Railroad" />
+	<company symbol="PZG" name="Paramount Gold and Silver Corp." />
+	<company symbol="QBC" name="Cubic Energy Inc" />
+	<company symbol="QMM" name="Quaterra Resources Inc" />
+	<company symbol="QPSA" name="Quepasa Corporation" />
+	<company symbol="QQZ^K" name="SiM Internal Test 8" />
+	<company symbol="QRM" name="Quest Rare Minerals Ltd" />
+	<company symbol="RAP" name="RMR Asia Pacific Real Estate Fund" />
+	<company symbol="RBY" name="Rubicon Minerals Corp" />
+	<company symbol="RCG" name="Renaissance Capital Growth &amp; Income Fund III, Inc." />
+	<company symbol="REE" name="Rare Element Res Ltd" />
+	<company symbol="RFA" name="BlackRock Florida Investment Quality Municipal Trust Inc. (The" />
+	<company symbol="RIC" name="Richmont Mines, Inc." />
+	<company symbol="RIF" name="RMR Real Estate Income Fund (New)" />
+	<company symbol="RNJ" name="BlackRock New Jersey Investment Quality Municipal Trust Inc." />
+	<company symbol="RNN" name="Rexahn Pharmaceuticals, Inc." />
+	<company symbol="RNY" name="BlackRock New York Investment Quality Municipal Trust Inc. (Th" />
+	<company symbol="ROX" name="Castle Brands, Inc." />
+	<company symbol="RPI" name="Roberts Realty Investors, Inc." />
+	<company symbol="RTK" name="Rentech, Inc." />
+	<company symbol="RVM" name="Revett Minerals Inc." />
+	<company symbol="RVP" name="Retractable Technologies, Inc." />
+	<company symbol="RVR" name="White River Capital, Inc." />
+	<company symbol="RWC" name="RELM Wireless Corporation" />
+	<company symbol="SA" name="Seabridge Gold, Inc." />
+	<company symbol="SAL" name="Salisbury Bancorp, Inc." />
+	<company symbol="SARA" name="Saratoga Resources Inc" />
+	<company symbol="SBI" name="Western Asset Intermediate Muni Fund Inc" />
+	<company symbol="SCE^B" name="Southern California Edison Company" />
+	<company symbol="SCE^C" name="Southern California Edison Company" />
+	<company symbol="SCE^D" name="Southern California Edison Company" />
+	<company symbol="SCE^E" name="Southern California Edison Company" />
+	<company symbol="SDO^A" name="San Diego Gas &amp; Electric Company" />
+	<company symbol="SDO^B" name="San Diego Gas &amp; Electric Company" />
+	<company symbol="SDO^C" name="San Diego Gas &amp; Electric Company" />
+	<company symbol="SDO^H" name="San Diego Gas &amp; Electric Company" />
+	<company symbol="SEB" name="Seaboard Corporation" />
+	<company symbol="SED" name="SED International Holdings Inc" />
+	<company symbol="SGA" name="Saga Communications, Inc." />
+	<company symbol="SGB" name="Southwest Georgia Financial Corporation" />
+	<company symbol="SGS" name="Stream Global Services, Inc" />
+	<company symbol="SGS/U" name="Stream Global Services, Inc" />
+	<company symbol="SGS/WS" name="Stream Global Services, Inc" />
+	<company symbol="SHZ" name="China Shen Zhou Mining &amp; Resources, Inc." />
+	<company symbol="SIF" name="SIFCO Industries, Inc." />
+	<company symbol="SIHI" name="SinoHub, Inc" />
+	<company symbol="SILU" name="Sprott Resource Lending Corp." />
+	<company symbol="SIM" name="Grupo Simec, S.A. de C.V." />
+	<company symbol="SLI" name="SL Industries, Inc." />
+	<company symbol="SNT" name="Senesco Technologies Inc" />
+	<company symbol="SOQ" name="Sonde Resources Corp" />
+	<company symbol="SS^K" name="SiM Internal Test 9" />
+	<company symbol="SSE" name="Southern Connecticut Bancorp Inc" />
+	<company symbol="SSN" name="Samson Oil &amp; Gas Limited" />
+	<company symbol="SSY" name="SunLink Health Systems, Inc." />
+	<company symbol="STS" name="Supreme Industries, Inc." />
+	<company symbol="SVBL" name="Silver Bull Resources, Inc." />
+	<company symbol="SVT" name="Servotronics, Inc." />
+	<company symbol="SYRG" name="Synergy Resources Corporation" />
+	<company symbol="TA" name="TravelCenters of America LLC" />
+	<company symbol="TAT" name="Transatlantic Petroleum Ltd" />
+	<company symbol="TCX" name="Tucows Inc." />
+	<company symbol="TF" name="Thai Capital Fund Inc" />
+	<company symbol="TGB" name="Taseko Mines Limited" />
+	<company symbol="TGC" name="Tengasco, Inc." />
+	<company symbol="THM" name="International Tower Hill Mines Ltd" />
+	<company symbol="TIK" name="Tel-Instrument Electronics Corp." />
+	<company symbol="TIS" name="Orchids Paper Products Company" />
+	<company symbol="TIV" name="Tri-Valley Corporation" />
+	<company symbol="TLB/WS" name="Talbots, Inc. (The)" />
+	<company symbol="TLR" name="Timberline Resources Corporation" />
+	<company symbol="TMP" name="Tompkins Financial Corporation" />
+	<company symbol="TOF" name="Tofutti Brands Inc." />
+	<company symbol="TPI" name="Tianyin Pharmaceutical Co., Inc." />
+	<company symbol="TPLM" name="Triangle Petroleum Corporation" />
+	<company symbol="TRT" name="Trio-Tech International" />
+	<company symbol="TRX" name="Tanzanian Royalty Exploration Corporation" />
+	<company symbol="TSH" name="Teche Holding Company" />
+	<company symbol="TTTM" name="T3 Motion Inc" />
+	<company symbol="TTTM/WS/W" name="T3 Motion Inc" />
+	<company symbol="TTTM/WS/Z" name="T3 Motion Inc" />
+	<company symbol="TWO/WS" name="Two Harbors Investments Corp" />
+	<company symbol="UEC" name="Uranium Energy Corp." />
+	<company symbol="ULU" name="Uluru Inc." />
+	<company symbol="UMH" name="UMH Properties, Inc." />
+	<company symbol="UMH^A" name="UMH Properties, Inc." />
+	<company symbol="UPG" name="Universal Power Group Inc" />
+	<company symbol="UQM" name="UQM TECHNOLOGIES INC" />
+	<company symbol="URG" name="Ur Energy Inc" />
+	<company symbol="URZ" name="Uranerz Energy Corporation" />
+	<company symbol="UTG" name="Reaves Utility Income Fund" />
+	<company symbol="UUU" name="Universal Security Instruments, Inc." />
+	<company symbol="UVE" name="UNIVERSAL INSURANCE HOLDINGS INC" />
+	<company symbol="UWN" name="Nevada Gold &amp; Casinos, Inc." />
+	<company symbol="VCF" name="Delaware Investments Colorado Municipal Income Fund, Inc" />
+	<company symbol="VFL" name="Delaware Investments Florida Insured Municipal Income Fund" />
+	<company symbol="VGZ" name="Vista Gold Corporation" />
+	<company symbol="VHC" name="VirnetX Holding Corp" />
+	<company symbol="VII" name="Vicon Industries, Inc." />
+	<company symbol="VKI" name="Invesco Van Kampen Advantage Municipal Income Trust II" />
+	<company symbol="VKL" name="Invesco Van Kampen Select Sector Municipal Trust" />
+	<company symbol="VMM" name="Delaware Investments Minnesota Municipal Income Fund II, Inc." />
+	<company symbol="VMV" name="Invesco Van Kampen Massachusetts Value Municipal Income Trust" />
+	<company symbol="VOG" name="Voyager Oil &amp; Gas, Inc." />
+	<company symbol="VRNG" name="Vringo, Inc." />
+	<company symbol="VRNG/WS" name="Vringo, Inc." />
+	<company symbol="VSR" name="Versar, Inc." />
+	<company symbol="VTG" name="Vantage Drilling Company" />
+	<company symbol="WAC" name="Walter Investment Management Corp." />
+	<company symbol="WEX" name="Winland Electronics, Inc." />
+	<company symbol="WGA" name="Wells-Gardner Electronics Corporation" />
+	<company symbol="WIS^" name="Wisconsin Power &amp; Light Co." />
+	<company symbol="WRN" name="Western Copper Corp" />
+	<company symbol="WSO/B" name="Watsco, Inc." />
+	<company symbol="WSR" name="Whitestone REIT" />
+	<company symbol="WTT" name="Wireless Telecom Group,  Inc." />
+	<company symbol="WWZ^K" name="SiM Internal Test 10" />
+	<company symbol="WYY" name="WidePoint Corporation" />
+	<company symbol="WZE" name="WIZZARD SOFTWARE CORPORATION" />
+	<company symbol="XFN" name="Xfone, Inc." />
+	<company symbol="XG" name="Extorre Gold Mines Ltd." />
+	<company symbol="XPL" name="Solitario Exploration &amp; Royalty Corp" />
+	<company symbol="XPO" name="Express-1 Expedited Solutions, Inc." />
+	<company symbol="XRA" name="Exeter Resource Corporation" />
+	<company symbol="YMI" name="YM BioSciences, Inc." />
+	<company symbol="ZBB" name="ZBB Energy Corporation" />
+	<company symbol="ZXX" name="SM Listed Test 3" />
+	<company symbol="ZXX^F" name="SM Listed Test 3" />
+</companies>

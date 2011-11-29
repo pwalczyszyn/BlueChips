@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:Application xmlns:fx="http://ns.adobe.com/mxml/2009" 
+							xmlns:s="library://ns.adobe.com/flex/spark"
+							resize="resizeHandler(event)"
+							splashScreenImage="@Embed('assets/images/splashscreen.png')">
+	
+	<fx:Style source="Styles.css" />
+
+	<fx:Script>
+		<![CDATA[
+			import mx.events.ResizeEvent;
+			
+			// Update the applications state based on the orientation of the device
+			protected function resizeHandler(event:ResizeEvent):void
+			{
+				currentState = aspectRatio;
+			}
+		]]>
+	</fx:Script>
+	
+	<s:states>
+		<s:State name="portrait"/>
+		<s:State name="landscape"/>
+	</s:states>
+	
+	<s:SplitViewNavigator id="splitNavigator" autoHideFirstViewNavigator="true" 
+						  width="100%" height="100%"
+						  skinClass="com.adobe.demo.blueChips.skins.TexturedApplicationSkin">
+		
+		<s:ViewNavigator width="300" height="100%" firstView="com.adobe.demo.blueChips.views.StocksListView">
+			<s:filters.landscape>
+				<s:DropShadowFilter distance="2" blurX="10" blurY="10" angle="45" alpha="0.5" color="#000000" />
+			</s:filters.landscape>
+		</s:ViewNavigator>
+		
+		<s:ViewNavigator width.portrait="100%" width.landscape="{width - 300}" 
+						 height="100%" firstView="com.adobe.demo.blueChips.views.DetailsView">
+			<s:navigationContent.portrait>
+				<s:Button id="navigatorButton" styleName="normalButton"
+						  label="Stocks" click="splitNavigator.showFirstViewNavigatorInPopUp(navigatorButton)" />
+			</s:navigationContent.portrait>
+		</s:ViewNavigator>
+	</s:SplitViewNavigator>
+	
+<!--	<s:Image width="100%" height="100%" source="assets/images/lines.png" fillMode="repeat"
+			 mouseChildren="false" mouseEnabled="false" alpha="0.2"/>
+-->	
+</s:Application>

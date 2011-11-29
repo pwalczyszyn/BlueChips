@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark" 
+		viewActivate="view_viewActivateHandler(event)"
+		viewDeactivate="view_viewDeactivateHandler(event)">
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			import mx.core.FlexGlobals;
+			
+			import spark.collections.Sort;
+			import spark.collections.SortField;
+			import spark.components.SplitViewNavigator;
+			import spark.components.ViewNavigator;
+			import spark.events.IndexChangeEvent;
+			import spark.events.ViewNavigatorEvent;
+			import spark.managers.PersistenceManager;
+			
+			[Bindable]
+			protected var stocks:ArrayCollection;
+			
+			protected static const DEFAULT_SYMBOLS:Array = ["AAPL", "ADBE", "CSCO", "DELL", "INTC", "MSFT", "ORCL", "IBM"];
+			
+			protected var userSymbols:Array;
+			
+			// Flag indicating that this is first run of the loader
+			protected var initialLoad:Boolean = true;
+			
+			// Interval check timer, default value one minute
+			protected var timer:Timer = new Timer(60000);
+			
+			protected function view_viewActivateHandler(event:ViewNavigatorEvent):void
+			{
+				loadQuotes();
+				
+				if (!timer.hasEventListener(TimerEvent.TIMER))
+					timer.addEventListener(TimerEvent.TIMER, timer_timerHandler);
+
+				if (!timer.running)
+					timer.start();
+
+			}
+			
+			protected function loadQuotes():void
+			{
+				var persistence:PersistenceManager = new PersistenceManager;
+				userSymbols = persistence.getProperty("symbols") as Array;
+				
+				if (!userSymbols)
+					userSymbols = DEFAULT_SYMBOLS;
+				
+				// Yahoo implementation
+//				var query:String = "http://query.yahooapis.com/v1/public/yql?q=" + 
+//					"select Symbol, Change, LastTradeDate, LastTradePriceOnly from yahoo.finance.quotes where symbol in (\"" + userSymbols.join("\", \"") + "\")" +
+//					"&format=json&env=store://datatables.org/alltableswithkeys";
+				
+				// Fake implementation
+				var query:String = "http://riaspace.com/examples/quotes/updates.php?symbols=" + userSymbols.join(":");
+				
+				var loader:URLLoader = new URLLoader;
+				loader.addEventListener(Event.COMPLETE, loader_completeHandler);
+				loader.addEventListener(IOErrorEvent.IO_ERROR, loader_ioErrorHandler);
+				loader.load(new URLRequest(encodeURI(query)));
+			}
+			
+			protected function loader_completeHandler(event:Event):void
+			{
+				var results:Object = JSON.parse(String(URLLoader(event.target).data));
+				
+				stocks = new ArrayCollection;
+				if (results.query.results)
+				{
+					// Yahoo implementation
+//					if (results.query.results.quote is Array)
+//						stocks.source = results.query.results.quote;
+//					else
+//						stocks.addItem(results.query.results.quote);
+					
+					// Fake implementation
+					stocks.source = results.query.results;
+					
+				}
+						
+				stocks.sort = new Sort;
+				stocks.sort.fields = [new SortField("Symbol")];
+				stocks.refresh();
+				
+				currentState = "list";
+				
+				if (data && data.selectedItem)
+				{
+					for each(var stock:Object in stocks)
+					{
+						if (stock.Symbol == data.selectedItem.Symbol)
+						{
+							lstStocks.selectedItem = stock;
+							break;
+						}
+					}
+				} 
+				else if (stocks.length > 0) // && !lstStocks.selectedItem
+				{
+					lstStocks.selectedItem = stocks.getItemAt(0);
+					if (initialLoad)
+						lstStocks_changeHandler(null);
+				}
+				initialLoad = false;
+			}
+			
+			protected function loader_ioErrorHandler(event:IOErrorEvent):void
+			{
+				trace(event.text);
+			}
+
+			protected function btnStocksEdit_clickHandler(event:MouseEvent):void
+			{
+				navigator.pushView(StocksEditView, userSymbols);
+			}
+			
+			protected function lstStocks_changeHandler(event:IndexChangeEvent):void
+			{
+				if (lstStocks.selectedItem)
+				{
+					var secondNavigator:ViewNavigator = ViewNavigator(SplitViewNavigator(navigator.parentNavigator).getViewNavigatorAt(1));
+					secondNavigator.activeView.data = lstStocks.selectedItem;
+					data = {selectedItem: lstStocks.selectedItem};
+					
+					if (FlexGlobals.topLevelApplication.aspectRatio == "portrait" && event)
+						SplitViewNavigator(navigator.parentNavigator).hideViewNavigatorPopUp();
+				}
+			}
+			
+			protected function view_viewDeactivateHandler(event:ViewNavigatorEvent):void
+			{
+				timer.stop();
+				timer.reset();
+			}
+			
+			protected function timer_timerHandler(event:TimerEvent):void
+			{
+				loadQuotes();
+			}
+			
+		]]>
+	</fx:Script>
+	
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	
+	<s:actionContent>
+		<s:Button id="btnStocksEdit" label="Edit" click="btnStocksEdit_clickHandler(event)" />
+	</s:actionContent>
+	
+	<s:states>
+		<s:State name="loading" />
+		<s:State name="list" />
+	</s:states>
+	
+	<s:Image id="background" source="assets/images/side_bg2.png" width="100%" height="100%" fillMode="repeat" />
+	
+	<s:HGroup includeIn="loading" horizontalCenter="0" verticalAlign="middle" verticalCenter="0">
+		<s:BusyIndicator symbolColor="#FFFFFF" />
+		<s:Label text="Loading quotes..." color="#FFFFFF" alpha="0.6" />
+	</s:HGroup>
+
+	<s:SkinnableContainer backgroundColor="#70787b" color="#F2F2F2" fontSize="12" width="100%" top="1" height="30">
+		<s:Label left="5" verticalCenter="0" text="SYMBOL" />
+		<s:Label horizontalCenter="0" verticalCenter="0" text="VALUE - DATE" />
+		<s:Label right="5" verticalCenter="0" text="CHANGE %" />
+	</s:SkinnableContainer>
+	
+	<s:List id="lstStocks" includeIn="list" width="100%" top="31" bottom="5" dataProvider="{stocks}"
+			itemRenderer="com.adobe.demo.blueChips.skins.CompanyItemRenderer" 
+			contentBackgroundAlpha="0" change="lstStocks_changeHandler(event)"/>
+	
+</s:View>

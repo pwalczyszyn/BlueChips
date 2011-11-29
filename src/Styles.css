@@ -1,0 +1,52 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace components "com.adobe.demo.blueChips.components.*";
+@namespace skins "com.adobe.demo.blueChips.skins.*";
+
+global
+{
+	color: #6a7178;
+	textShadowColor: #f2f2f5;
+}
+
+s|ActionBar
+{
+	chromeColor: #000000;
+}
+
+s|View
+{
+	backgroundColor: #05191F;
+}
+
+s|Application
+{
+	backgroundColor: #061127;
+}
+
+s|List
+{
+	contentBackgroundColor: #000000;
+}
+
+skins|CompanyItemRenderer
+{
+	color: #FFFFFF;
+	selectionColor: #000000;
+	rollOverColor: #000000;
+	downColor: #000000;
+	alternatingItemColors: #151515, #151515;
+}
+
+@media (os-platform: "IOS")
+{
+	s|ActionBar
+	{
+		defaultButtonAppearance: beveled;
+	}
+	
+	s|ActionBar.beveled s|Group#navigationGroup s|Button.normalButton
+	{
+		skinClass: ClassReference("spark.skins.mobile.BeveledActionButtonSkin");
+	}
+}

@@ -1,0 +1,2823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<companies>
+	<company symbol="AAC" name="Australia Acquisition Corp." />
+	<company symbol="AACC" name="Asset Acceptance Capital Corp." />
+	<company symbol="AACOU" name="Australia Acquisition Corp." />
+	<company symbol="AACOW" name="Australia Acquisition Corp." />
+	<company symbol="AAME" name="Atlantic American Corporation" />
+	<company symbol="AAON" name="AAON, Inc." />
+	<company symbol="AAPL" name="Apple Inc." />
+	<company symbol="AATI" name="Advanced Analogic Technologies, Inc." />
+	<company symbol="AAWW" name="Atlas Air Worldwide Holdings" />
+	<company symbol="AAXJ" name="iShares MSCI All Country Asia ex Japan Index Fund" />
+	<company symbol="ABAT" name="Advanced Battery Technologies, Inc." />
+	<company symbol="ABAX" name="ABAXIS, Inc." />
+	<company symbol="ABBC" name="Abington Bancorp, Inc." />
+	<company symbol="ABCB" name="Ameris Bancorp" />
+	<company symbol="ABCD" name="Cambium Learning Group, Inc." />
+	<company symbol="ABCO" name="The Advisory Board Company" />
+	<company symbol="ABCW" name="Anchor BanCorp Wisconsin Inc." />
+	<company symbol="ABFS" name="Arkansas Best Corporation" />
+	<company symbol="ABIO" name="Arca Biopharma, Inc." />
+	<company symbol="ABMD" name="ABIOMED, Inc." />
+	<company symbol="ABTL" name="Autobytel Inc." />
+	<company symbol="ABVA" name="Alliance Bankshares Corporation" />
+	<company symbol="ACAD" name="ACADIA Pharmaceuticals Inc." />
+	<company symbol="ACAS" name="American Capital, Ltd." />
+	<company symbol="ACAT" name="Arctic Cat Inc." />
+	<company symbol="ACCL" name="Accelrys, Inc." />
+	<company symbol="ACET" name="Aceto Corporation" />
+	<company symbol="ACFC" name="Atlantic Coast Federal Corporation" />
+	<company symbol="ACFN" name="Acorn Energy, Inc." />
+	<company symbol="ACGL" name="Arch Capital Group Ltd." />
+	<company symbol="ACHN" name="Achillion Pharmaceuticals, Inc." />
+	<company symbol="ACIW" name="ACI Worldwide, Inc." />
+	<company symbol="ACLS" name="Axcelis Technologies, Inc." />
+	<company symbol="ACMR" name="A.C. Moore Arts &amp; Crafts, Inc." />
+	<company symbol="ACNB" name="ACNB Corporation" />
+	<company symbol="ACOM" name="Ancestry.com, Inc." />
+	<company symbol="ACOR" name="Acorda Therapeutics, Inc." />
+	<company symbol="ACPW" name="Active Power, Inc." />
+	<company symbol="ACRX" name="AcelRx Pharmaceuticals, Inc." />
+	<company symbol="ACTG" name="Acacia Research Corporation" />
+	<company symbol="ACTS" name="Actions Semiconductor Co., Ltd." />
+	<company symbol="ACUR" name="Acura Pharmaceuticals, Inc." />
+	<company symbol="ACWI" name="iShares MSCI ACWI Index Fund" />
+	<company symbol="ACWX" name="iShares MSCI ACWI ex US Index Fund" />
+	<company symbol="ACXM" name="Acxiom Corporation" />
+	<company symbol="ADAT" name="Authentidate Holding Corp." />
+	<company symbol="ADBE" name="Adobe Systems Incorporated" />
+	<company symbol="ADEP" name="Adept Technology, Inc." />
+	<company symbol="ADES" name="ADA-ES, Inc." />
+	<company symbol="ADGF" name="Adams Golf, Inc." />
+	<company symbol="ADLR" name="Adolor Corporation" />
+	<company symbol="ADP" name="Automatic Data Processing, Inc." />
+	<company symbol="ADPI" name="American Dental Partners, Inc." />
+	<company symbol="ADRA" name="BLDRS Asia 50 ADR Index Fund" />
+	<company symbol="ADRD" name="BLDRS Developed Markets 100 ADR Index Fund" />
+	<company symbol="ADRE" name="BLDRS Emerging Markets 50 ADR Index Fund" />
+	<company symbol="ADRU" name="BLDRS Europe 100 ADR Index Fund" />
+	<company symbol="ADSK" name="Autodesk, Inc." />
+	<company symbol="ADTN" name="ADTRAN, Inc." />
+	<company symbol="ADUS" name="Addus HomeCare Corporation" />
+	<company symbol="ADVS" name="Advent Software, Inc." />
+	<company symbol="AEGR" name="Aegerion Pharmaceuticals, Inc." />
+	<company symbol="AEHR" name="Aehr Test Systems" />
+	<company symbol="AEIS" name="Advanced Energy Industries, Inc." />
+	<company symbol="AEPI" name="AEP Industries Inc." />
+	<company symbol="AERG" name="Applied Energetics, Inc" />
+	<company symbol="AERL" name="Asia Entertainment &amp; Resources Ltd" />
+	<company symbol="AETI" name="American Electric Technologies, Inc." />
+	<company symbol="AEY" name="ADDvantage Technologies Group, Inc." />
+	<company symbol="AEZS" name="AEterna Zentaris, Inc." />
+	<company symbol="AFAM" name="Almost Family Inc" />
+	<company symbol="AFCB" name="Athens Bancshares Corporation" />
+	<company symbol="AFCE" name="AFC Enterprises, Inc." />
+	<company symbol="AFFM" name="Affirmative Insurance Holdings, Inc." />
+	<company symbol="AFFX" name="Affymetrix, Inc." />
+	<company symbol="AFFY" name="Affymax, Inc." />
+	<company symbol="AFOP" name="Alliance Fiber Optic Products, Inc." />
+	<company symbol="AFSI" name="AmTrust Financial Services, Inc." />
+	<company symbol="AGEN" name="Agenus Inc." />
+	<company symbol="AGII" name="Argo Group International Holdings, Ltd." />
+	<company symbol="AGNC" name="American Capital Agency Corp." />
+	<company symbol="AGYS" name="Agilysys, Inc." />
+	<company symbol="AHCI" name="Allied HealthCare International Inc." />
+	<company symbol="AHGP" name="Alliance Holdings GP, L.P." />
+	<company symbol="AHPI" name="Allied Healthcare Products, Inc." />
+	<company symbol="AIMC" name="Altra Holdings, Inc." />
+	<company symbol="AINV" name="Apollo Investment Corporation" />
+	<company symbol="AIRM" name="Air Methods Corporation" />
+	<company symbol="AIRT" name="Air T, Inc." />
+	<company symbol="AIXG" name="Aixtron SE" />
+	<company symbol="AKAM" name="Akamai Technologies, Inc." />
+	<company symbol="AKRX" name="Akorn, Inc." />
+	<company symbol="ALCO" name="Alico, Inc." />
+	<company symbol="ALGN" name="Align Technology, Inc." />
+	<company symbol="ALGT" name="Allegiant Travel Company" />
+	<company symbol="ALIM" name="Alimera Sciences, Inc." />
+	<company symbol="ALKS" name="Alkermes, Inc." />
+	<company symbol="ALLB" name="Alliance Bancorp, Inc. of Pennsylvania" />
+	<company symbol="ALLT" name="Allot Communications Ltd." />
+	<company symbol="ALNC" name="Alliance Financial Corporation" />
+	<company symbol="ALNY" name="Alnylam Pharmaceuticals, Inc." />
+	<company symbol="ALOG" name="Analogic Corporation" />
+	<company symbol="ALOT" name="Astro-Med, Inc." />
+	<company symbol="ALRN" name="American Learning Corporation" />
+	<company symbol="ALSK" name="Alaska Communications Systems Group, Inc." />
+	<company symbol="ALTE" name="Alterra Capital Holdings Limited" />
+	<company symbol="ALTH" name="Allos Therapeutics, Inc." />
+	<company symbol="ALTI" name="Altair Nanotechnologies Inc." />
+	<company symbol="ALTR" name="Altera Corporation" />
+	<company symbol="ALVR" name="Alvarion Ltd." />
+	<company symbol="ALXA" name="Alexza Pharmaceuticals, Inc." />
+	<company symbol="ALXN" name="Alexion Pharmaceuticals, Inc." />
+	<company symbol="AMAC" name="American Medical Alert Corp." />
+	<company symbol="AMAG" name="AMAG Pharmaceuticals, Inc." />
+	<company symbol="AMAP" name="AutoNavi Holdings Limited" />
+	<company symbol="AMAT" name="Applied Materials, Inc." />
+	<company symbol="AMBT" name="Ambient Corporation" />
+	<company symbol="AMCC" name="Applied Micro Circuits Corporation" />
+	<company symbol="AMCF" name="Andatee China Marine Fuel Services Corporation" />
+	<company symbol="AMCN" name="AirMedia Group Inc" />
+	<company symbol="AMCX" name="AMC Networks Inc." />
+	<company symbol="AMED" name="Amedisys Inc" />
+	<company symbol="AMGN" name="Amgen Inc." />
+	<company symbol="AMIC" name="American Independence Corp." />
+	<company symbol="AMKR" name="Amkor Technology, Inc." />
+	<company symbol="AMLN" name="Amylin Pharmaceuticals, Inc." />
+	<company symbol="AMNB" name="American National Bankshares, Inc." />
+	<company symbol="AMOT" name="Allied Motion Technologies, Inc." />
+	<company symbol="AMOV" name="America Movil, S.A.B. de C.V." />
+	<company symbol="AMPE" name="Ampio Pharmaceuticals, Inc." />
+	<company symbol="AMPL" name="Ampal-American Israel Corporation" />
+	<company symbol="AMRB" name="American River Bankshares" />
+	<company symbol="AMRI" name="Albany Molecular Research, Inc." />
+	<company symbol="AMRN" name="Amarin Corporation PLC" />
+	<company symbol="AMRS" name="Amyris, Inc." />
+	<company symbol="AMSC" name="American Superconductor Corporation" />
+	<company symbol="AMSF" name="AMERISAFE, Inc." />
+	<company symbol="AMSG" name="Amsurg Corp." />
+	<company symbol="AMSWA" name="American Software, Inc." />
+	<company symbol="AMTC" name="Ameritrans Capital Corporation" />
+	<company symbol="AMTCP" name="Ameritrans Capital Corporation" />
+	<company symbol="AMTD" name="TD Ameritrade Holding Corporation" />
+	<company symbol="AMWD" name="American Woodmark Corporation" />
+	<company symbol="AMZN" name="Amazon.com, Inc." />
+	<company symbol="ANAC" name="Anacor Pharmaceuticals, Inc." />
+	<company symbol="ANAD" name="ANADIGICS, Inc." />
+	<company symbol="ANAT" name="American National Insurance Company" />
+	<company symbol="ANCB" name="Anchor Bancorp" />
+	<company symbol="ANCI" name="American Caresource Holdings Inc" />
+	<company symbol="ANCX" name="Access National Corporation" />
+	<company symbol="ANDE" name="The Andersons, Inc." />
+	<company symbol="ANDS" name="Anadys Pharmaceuticals, Inc." />
+	<company symbol="ANEN" name="Anaren, Inc." />
+	<company symbol="ANGN" name="Angeion Corporation" />
+	<company symbol="ANGO" name="AngioDynamics, Inc." />
+	<company symbol="ANIK" name="Anika Therapeutics Inc." />
+	<company symbol="ANLY" name="Analysts International Corporation" />
+	<company symbol="ANNB" name="Annapolis Bancorp Inc." />
+	<company symbol="ANSS" name="ANSYS, Inc." />
+	<company symbol="ANTH" name="Anthera Pharmaceuticals, Inc." />
+	<company symbol="ANTP" name="PHAZAR CORP" />
+	<company symbol="AONE" name="A123 Systems, Inc." />
+	<company symbol="AOSL" name="Alpha and Omega Semiconductor Limited" />
+	<company symbol="APAC" name="APAC Customer Services, Inc." />
+	<company symbol="APAGF" name="Apco Oil and Gas International Inc." />
+	<company symbol="APEI" name="American Public Education, Inc." />
+	<company symbol="APFC" name="American Pacific Corporation" />
+	<company symbol="APKT" name="Acme Packet, Inc." />
+	<company symbol="APOG" name="Apogee Enterprises, Inc." />
+	<company symbol="APOL" name="Apollo Group, Inc." />
+	<company symbol="APPYD" name="AspenBio Pharma, Inc." />
+	<company symbol="APRI" name="Apricus Biosciences, Inc" />
+	<company symbol="APSA" name="Alto Palermo S.A." />
+	<company symbol="APWC" name="Asia Pacific Wire &amp; Cable Corporation Limited" />
+	<company symbol="APWR" name="A-Power Energy Generation Systems, Ltd." />
+	<company symbol="ARAY" name="Accuray Incorporated" />
+	<company symbol="ARBA" name="Ariba, Inc." />
+	<company symbol="ARCC" name="Ares Capital Corporation" />
+	<company symbol="ARCI" name="Appliance Recycling Centers of America, Inc." />
+	<company symbol="ARCL" name="Archipelago Learning, Inc." />
+	<company symbol="ARCW" name="Arc Wireless Solutions, Inc." />
+	<company symbol="ARDNA" name="Arden Group, Inc." />
+	<company symbol="AREX" name="Approach Resources Inc." />
+	<company symbol="ARGN" name="Amerigon Incorporated" />
+	<company symbol="ARIA" name="ARIAD Pharmaceuticals, Inc." />
+	<company symbol="ARII" name="American Railcar Industries, Inc." />
+	<company symbol="ARKR" name="Ark Restaurants Corp." />
+	<company symbol="ARLP" name="Alliance Resource Partners, L.P." />
+	<company symbol="ARMH" name="ARM Holdings, plc" />
+	<company symbol="ARNA" name="Arena Pharmaceuticals, Inc." />
+	<company symbol="AROW" name="Arrow Financial Corporation" />
+	<company symbol="ARQL" name="ArQule, Inc." />
+	<company symbol="ARRS" name="Arris Group Inc" />
+	<company symbol="ARRY" name="Array BioPharma Inc." />
+	<company symbol="ARSD" name="Arabian American Development Company" />
+	<company symbol="ARTC" name="ArthroCare Corporation" />
+	<company symbol="ARTNA" name="Artesian Resources Corporation" />
+	<company symbol="ARTW" name="Art&#39;s-Way Manufacturing Co., Inc." />
+	<company symbol="ARTX" name="Arotech Corporation" />
+	<company symbol="ARUN" name="Aruba Networks, Inc." />
+	<company symbol="ARWR" name="Arrowhead Research Corporation" />
+	<company symbol="ASBC" name="Associated Banc-Corp" />
+	<company symbol="ASBI" name="Ameriana Bancorp" />
+	<company symbol="ASCA" name="Ameristar Casinos, Inc." />
+	<company symbol="ASCMA" name="Ascent Capital Group, Inc." />
+	<company symbol="ASEI" name="American Science and Engineering, Inc." />
+	<company symbol="ASFI" name="Asta Funding, Inc." />
+	<company symbol="ASGN" name="On Assignment, Inc." />
+	<company symbol="ASIA" name="AsiaInfo-Linkage, Inc." />
+	<company symbol="ASMI" name="ASM International N.V." />
+	<company symbol="ASML" name="ASML Holding N.V." />
+	<company symbol="ASNA" name="Ascena Retail Group, Inc." />
+	<company symbol="ASPS" name="Altisource Portfolio Solutions S.A." />
+	<company symbol="ASRV" name="AmeriServ Financial Inc." />
+	<company symbol="ASRVP" name="AmeriServ Financial Inc." />
+	<company symbol="ASTC" name="Astrotech Corporation" />
+	<company symbol="ASTE" name="Astec Industries, Inc." />
+	<company symbol="ASTI" name="Ascent Solar Technologies, Inc." />
+	<company symbol="ASTM" name="Aastrom Biosciences, Inc." />
+	<company symbol="ASUR" name="Asure Software Inc" />
+	<company symbol="ASYS" name="Amtech Systems, Inc." />
+	<company symbol="ATAI" name="ATA Inc." />
+	<company symbol="ATAX" name="America First Tax Exempt Investors, L.P." />
+	<company symbol="ATEA" name="Astea International, Inc." />
+	<company symbol="ATEC" name="Alphatec Holdings, Inc." />
+	<company symbol="ATHN" name="athenahealth, Inc." />
+	<company symbol="ATHX" name="Athersys, Inc." />
+	<company symbol="ATLO" name="Ames National Corporation" />
+	<company symbol="ATMI" name="ATMI Inc." />
+	<company symbol="ATML" name="Atmel Corporation" />
+	<company symbol="ATNI" name="Atlantic Tele-Network, Inc." />
+	<company symbol="ATNY" name="API Technologies Corp." />
+	<company symbol="ATPG" name="ATP Oil &amp; Gas Corporation" />
+	<company symbol="ATRC" name="AtriCure, Inc." />
+	<company symbol="ATRI" name="ATRION Corporation" />
+	<company symbol="ATRM" name="Aetrium Incorporated" />
+	<company symbol="ATRN" name="Atrinsic, Inc." />
+	<company symbol="ATRO" name="Astronics Corporation" />
+	<company symbol="ATSG" name="Air Transport Services Group, Inc" />
+	<company symbol="ATVI" name="Activision Blizzard, Inc" />
+	<company symbol="ATX" name="Cross (A.T.) Company" />
+	<company symbol="AUBN" name="Auburn National Bancorporation, Inc." />
+	<company symbol="AUDC" name="AudioCodes Ltd." />
+	<company symbol="AUTC" name="AutoChina International Limited" />
+	<company symbol="AUTH" name="AuthenTec, Inc." />
+	<company symbol="AUXL" name="Auxilium Pharmaceuticals, Inc." />
+	<company symbol="AVAV" name="AeroVironment, Inc." />
+	<company symbol="AVCA" name="Advocat, Inc." />
+	<company symbol="AVEO" name="AVEO Pharmaceuticals, Inc." />
+	<company symbol="AVGO" name="Avago Technologies Limited" />
+	<company symbol="AVID" name="Avid Technology, Inc." />
+	<company symbol="AVII" name="AVI BioPharma, Inc." />
+	<company symbol="AVNR" name="Avanir Pharmaceuticals, Inc" />
+	<company symbol="AVNW" name="Aviat Networks, Inc." />
+	<company symbol="AVTR" name="Avatar Holdings Inc." />
+	<company symbol="AWAY" name="HomeAway, Inc." />
+	<company symbol="AWRE" name="Aware, Inc." />
+	<company symbol="AXAS" name="Abraxas Petroleum Corporation" />
+	<company symbol="AXFN" name="iShares MSCI ACWI ex US Financials Sector Index Fund" />
+	<company symbol="AXTI" name="AXT Inc" />
+	<company symbol="AZPN" name="Aspen Technology, Inc." />
+	<company symbol="BABY" name="Natus Medical Incorporated" />
+	<company symbol="BAGL" name="Einstein Noah Restaurant Group, Inc." />
+	<company symbol="BAMM" name="Books-A-Million, Inc." />
+	<company symbol="BANF" name="BancFirst Corporation" />
+	<company symbol="BANFP" name="BancFirst Corporation" />
+	<company symbol="BANR" name="Banner Corporation" />
+	<company symbol="BARI" name="Bancorp Rhode Island, Inc." />
+	<company symbol="BASI" name="Bioanalytical Systems, Inc." />
+	<company symbol="BBBB" name="Blackboard Inc." />
+	<company symbol="BBBY" name="Bed Bath &amp; Beyond Inc." />
+	<company symbol="BBEP" name="BreitBurn Energy Partners, L.P." />
+	<company symbol="BBGI" name="Beasley Broadcast Group, Inc." />
+	<company symbol="BBND" name="BigBand Networks, Inc." />
+	<company symbol="BBNK" name="Bridge Capital Holdings" />
+	<company symbol="BBOX" name="Black Box Corporation" />
+	<company symbol="BBRG" name="Bravo Brio Restaurant Group, Inc." />
+	<company symbol="BBSI" name="Barrett Business Services, Inc." />
+	<company symbol="BBXT" name="BankAtlantic Bancorp, Inc." />
+	<company symbol="BCAR" name="Bank of the Carolinas Corporation" />
+	<company symbol="BCBP" name="BCB Bancorp, Inc. (NJ)" />
+	<company symbol="BCDS" name="BCD Semiconductor Manufacturing Limited" />
+	<company symbol="BCOM" name="B Communications Ltd." />
+	<company symbol="BCON" name="Beacon Power Corporation" />
+	<company symbol="BCPC" name="Balchem Corporation" />
+	<company symbol="BCRX" name="BioCryst Pharmaceuticals, Inc." />
+	<company symbol="BCSB" name="BCSB Bancorp, Inc." />
+	<company symbol="BCSI" name="Blue Coat Systems Inc" />
+	<company symbol="BDE" name="Black Diamond, Inc." />
+	<company symbol="BDGE" name="Bridge Bancorp, Inc." />
+	<company symbol="BDMS" name="Birner Dental Management Services, Inc." />
+	<company symbol="BDSI" name="BioDelivery Sciences International, Inc." />
+	<company symbol="BEAT" name="CardioNet, Inc." />
+	<company symbol="BEAV" name="BE Aerospace, Inc." />
+	<company symbol="BEBE" name="bebe stores, inc." />
+	<company symbol="BECN" name="Beacon Roofing Supply, Inc." />
+	<company symbol="BELFA" name="Bel Fuse Inc." />
+	<company symbol="BELFB" name="Bel Fuse Inc." />
+	<company symbol="BERK" name="Berkshire Bancorp, Inc." />
+	<company symbol="BEST" name="Shiner International, Inc." />
+	<company symbol="BEXP" name="Brigham Exploration Company" />
+	<company symbol="BFED" name="Beacon Federal Bancorp, Inc." />
+	<company symbol="BFIN" name="BankFinancial Corporation" />
+	<company symbol="BFLY" name="Bluefly, Inc." />
+	<company symbol="BFSB" name="Brooklyn Federal Bancorp, Inc." />
+	<company symbol="BGCP" name="BGC Partners, Inc." />
+	<company symbol="BGFV" name="Big 5 Sporting Goods Corporation" />
+	<company symbol="BGMD" name="BG Medicine, Inc." />
+	<company symbol="BHLB" name="Berkshire Hills Bancorp, Inc." />
+	<company symbol="BIB" name="ProShares Trust ProShares Ultra Nasdaq Biotechnology" />
+	<company symbol="BICK" name="First Trust Exchange-Traded Fund II First Trust BICK Index Fund" />
+	<company symbol="BIDU" name="Baidu, Inc." />
+	<company symbol="BIDZ" name="Bidz.com, Inc." />
+	<company symbol="BIIB" name="Biogen Idec Inc" />
+	<company symbol="BIOC" name="BioClinica, Inc" />
+	<company symbol="BIOD" name="Biodel Inc." />
+	<company symbol="BIOF" name="BioFuel Energy Corp." />
+	<company symbol="BIOS" name="BioScrip, Inc." />
+	<company symbol="BIRT" name="Actuate Corporation" />
+	<company symbol="BIS" name="ProShares Trust ProShares UltraShort Nasdaq Biotechnology" />
+	<company symbol="BITS" name="Bitstream Inc." />
+	<company symbol="BJRI" name="BJ&#39;s Restaurants, Inc." />
+	<company symbol="BKBK" name="Britton &amp; Koontz Capital Corporation" />
+	<company symbol="BKCC" name="BlackRock Kelso Capital Corporation" />
+	<company symbol="BKEP" name="Blueknight Energy Partners L.P., L.L.C." />
+	<company symbol="BKMU" name="Bank Mutual Corporation" />
+	<company symbol="BKOR" name="Oak Ridge Financial Services, Inc." />
+	<company symbol="BKSC" name="Bank of South Carolina Corp." />
+	<company symbol="BKYF" name="The Bank of Kentucky Financial Corp." />
+	<company symbol="BLDP" name="Ballard Power Systems, Inc." />
+	<company symbol="BLDR" name="Builders FirstSource, Inc." />
+	<company symbol="BLIN" name="Bridgeline Digital, Inc." />
+	<company symbol="BLKB" name="Blackbaud, Inc." />
+	<company symbol="BLRX" name="BioLineRx Ltd." />
+	<company symbol="BLTI" name="BioLase Technology, Inc." />
+	<company symbol="BMC" name="BMC Software, Inc." />
+	<company symbol="BMRC" name="Bank of Marin Bancorp" />
+	<company symbol="BMRN" name="BioMarin Pharmaceutical Inc." />
+	<company symbol="BMTC" name="Bryn Mawr Bank Corporation" />
+	<company symbol="BMTI" name="BioMimetic Therapeutics, Inc." />
+	<company symbol="BNCL" name="Beneficial Mutual Bancorp, Inc." />
+	<company symbol="BNCN" name="BNC Bancorp" />
+	<company symbol="BNHN" name="Benihana Inc." />
+	<company symbol="BNHNA" name="Benihana Inc." />
+	<company symbol="BNSO" name="Bonso Electronics International, Inc." />
+	<company symbol="BNVI" name="Bionovo, Inc." />
+	<company symbol="BOBE" name="Bob Evans Farms, Inc." />
+	<company symbol="BOCH" name="Bank of Commerce Holdings (CA)" />
+	<company symbol="BODY" name="Body Central Corp." />
+	<company symbol="BOFI" name="BofI Holding, Inc." />
+	<company symbol="BOKF" name="BOK Financial Corporation" />
+	<company symbol="BOLT" name="Bolt Technology Corporation" />
+	<company symbol="BONA" name="Bona Film Group Limited" />
+	<company symbol="BONT" name="The Bon-Ton Stores, Inc." />
+	<company symbol="BOOM" name="Dynamic Materials Corporation" />
+	<company symbol="BOOT" name="LaCrosse Footwear, Inc." />
+	<company symbol="BOSC" name="B.O.S. Better Online Solutions" />
+	<company symbol="BOVA" name="Bank Of Virginia" />
+	<company symbol="BPAX" name="Biosante Pharmaceuticals, Inc." />
+	<company symbol="BPFH" name="Boston Private Financial Holdings, Inc." />
+	<company symbol="BPFHW" name="Boston Private Financial Holdings, Inc." />
+	<company symbol="BPHX" name="BluePhoenix Solutions, Ltd." />
+	<company symbol="BPOP" name="Popular, Inc." />
+	<company symbol="BPOPM" name="Popular, Inc." />
+	<company symbol="BPOPN" name="Popular, Inc." />
+	<company symbol="BRCD" name="Brocade Communications Systems, Inc." />
+	<company symbol="BRCM" name="Broadcom Corporation" />
+	<company symbol="BRID" name="Bridgford Foods Corporation" />
+	<company symbol="BRKL" name="Brookline Bancorp, Inc." />
+	<company symbol="BRKR" name="Bruker Corporation" />
+	<company symbol="BRKS" name="Brooks Automation, Inc." />
+	<company symbol="BRLI" name="Bio-Reference Laboratories, Inc." />
+	<company symbol="BSDM" name="BSD Medical Corporation" />
+	<company symbol="BSET" name="Bassett Furniture Industries, Incorporated" />
+	<company symbol="BSFT" name="BroadSoft, Inc." />
+	<company symbol="BSPM" name="Biostar Pharmaceuticals, Inc." />
+	<company symbol="BSQR" name="BSQUARE Corporation" />
+	<company symbol="BSRR" name="Sierra Bancorp" />
+	<company symbol="BSTC" name="BioSpecifics Technologies Corp" />
+	<company symbol="BTFG" name="BancTrust Financial Group, Inc." />
+	<company symbol="BTUI" name="BTU International, Inc." />
+	<company symbol="BUSE" name="First Busey Corporation" />
+	<company symbol="BVSN" name="BroadVision, Inc." />
+	<company symbol="BWEN" name="Broadwind Energy, Inc." />
+	<company symbol="BWINA" name="Baldwin &amp; Lyons, Inc." />
+	<company symbol="BWINB" name="Baldwin &amp; Lyons, Inc." />
+	<company symbol="BWLD" name="Buffalo Wild Wings, Inc." />
+	<company symbol="BWOW" name="Wowjoint Holdings Limited" />
+	<company symbol="BWOWU" name="Wowjoint Holdings Limited" />
+	<company symbol="BWOWW" name="Wowjoint Holdings Limited" />
+	<company symbol="BYFC" name="Broadway Financial Corporation" />
+	<company symbol="CA" name="CA Inc." />
+	<company symbol="CAAS" name="China Automotive Systems, Inc." />
+	<company symbol="CAC" name="Camden National Corporation" />
+	<company symbol="CACB" name="Cascade Bancorp" />
+	<company symbol="CACC" name="Credit Acceptance Corporation" />
+	<company symbol="CACH" name="Cache, Inc." />
+	<company symbol="CADC" name="China Advanced Construction Materials Group, Inc." />
+	<company symbol="CADX" name="Cadence Pharmaceuticals, Inc." />
+	<company symbol="CAFI" name="Camco Financial Corporation" />
+	<company symbol="CAKE" name="The Cheesecake Factory Incorporated" />
+	<company symbol="CALD" name="Callidus Software, Inc." />
+	<company symbol="CALI" name="China Auto Logistics Inc." />
+	<company symbol="CALL" name="magicJack VocalTec Ltd" />
+	<company symbol="CALM" name="Cal-Maine Foods, Inc." />
+	<company symbol="CALP" name="Caliper Life Sciences Inc" />
+	<company symbol="CAMP" name="CalAmp Corp." />
+	<company symbol="CAMT" name="Camtek Ltd." />
+	<company symbol="CAR" name="Avis Budget Group, Inc." />
+	<company symbol="CARB" name="Carbonite, Inc." />
+	<company symbol="CART" name="Carolina Trust Bank" />
+	<company symbol="CARV" name="Carver Bancorp, Inc." />
+	<company symbol="CARZ" name="First Trust Exchange-Traded Fund II First Trust NASDAQ Global Auto Index Fund" />
+	<company symbol="CASH" name="Meta Financial Group, Inc." />
+	<company symbol="CASM" name="CAS Medical Systems, Inc." />
+	<company symbol="CASS" name="Cass Information Systems, Inc" />
+	<company symbol="CAST" name="ChinaCast Education Corporation" />
+	<company symbol="CASY" name="Caseys General Stores, Inc." />
+	<company symbol="CATM" name="Cardtronics, Inc." />
+	<company symbol="CATY" name="Cathay General Bancorp" />
+	<company symbol="CAVM" name="Cavium, Inc." />
+	<company symbol="CAZA" name="Cazador Acquisition Corporation Ltd." />
+	<company symbol="CAZAU" name="Cazador Acquisition Corporation Ltd." />
+	<company symbol="CAZAW" name="Cazador Acquisition Corporation Ltd." />
+	<company symbol="CBAK" name="China BAK Battery, Inc." />
+	<company symbol="CBAN" name="Colony Bankcorp, Inc." />
+	<company symbol="CBEY" name="Cbeyond, Inc." />
+	<company symbol="CBIN" name="Community Bank Shares of Indiana, Inc." />
+	<company symbol="CBKN" name="Capital Bank Corporation" />
+	<company symbol="CBLI" name="Cleveland BioLabs, Inc." />
+	<company symbol="CBMX" name="CombiMatrix Corporation" />
+	<company symbol="CBMXW" name="CombiMatrix Corporation" />
+	<company symbol="CBNJ" name="Cape Bancorp, Inc." />
+	<company symbol="CBNK" name="Chicopee Bancorp, Inc." />
+	<company symbol="CBOE" name="CBOE Holdings, Inc." />
+	<company symbol="CBOU" name="Caribou Coffee Company, Inc." />
+	<company symbol="CBPO" name="China Biologic Products, Inc." />
+	<company symbol="CBRL" name="Cracker Barrel Old Country Store, Inc." />
+	<company symbol="CBRX" name="Columbia Laboratories, Inc." />
+	<company symbol="CBSH" name="Commerce Bancshares, Inc." />
+	<company symbol="CBST" name="Cubist Pharmaceuticals, Inc." />
+	<company symbol="CCBG" name="Capital City Bank Group" />
+	<company symbol="CCCL" name="China Ceramics Co., Ltd." />
+	<company symbol="CCCLU" name="China Ceramics Co., Ltd." />
+	<company symbol="CCCLW" name="China Ceramics Co., Ltd." />
+	<company symbol="CCGM" name="China CGame, Inc" />
+	<company symbol="CCIH" name="ChinaCache International Holdings Ltd." />
+	<company symbol="CCIX" name="Coleman Cable, Inc." />
+	<company symbol="CCMP" name="Cabot Microelectronics Corporation" />
+	<company symbol="CCNE" name="CNB Financial Corporation" />
+	<company symbol="CCOI" name="Cogent Communications Group, Inc." />
+	<company symbol="CCRN" name="Cross Country Healthcare, Inc." />
+	<company symbol="CCRT" name="CompuCredit Holdings Corporation" />
+	<company symbol="CCUR" name="Concurrent Computer Corporation" />
+	<company symbol="CDCS" name="CDC Software Corporation" />
+	<company symbol="CDII" name="China Direct Industries, Inc." />
+	<company symbol="CDNS" name="Cadence Design Systems, Inc." />
+	<company symbol="CDTI" name="Clean Diesel Technologies, Inc." />
+	<company symbol="CDXS" name="Codexis, Inc." />
+	<company symbol="CDZI" name="Cadiz, Inc." />
+	<company symbol="CEBK" name="Central Bancorp, Inc" />
+	<company symbol="CECE" name="CECO Environmental Corp." />
+	<company symbol="CECO" name="Career Education Corporation" />
+	<company symbol="CEDC" name="Central European Distribution Corporation" />
+	<company symbol="CEDU" name="ChinaEdu Corporation" />
+	<company symbol="CELG" name="Celgene Corporation" />
+	<company symbol="CELGZ" name="Celgene Corporation" />
+	<company symbol="CELL" name="Brightpoint, Inc." />
+	<company symbol="CENT" name="Central Garden &amp; Pet Company" />
+	<company symbol="CENTA" name="Central Garden &amp; Pet Company" />
+	<company symbol="CENX" name="Century Aluminum Company" />
+	<company symbol="CEPH" name="Cephalon, Inc." />
+	<company symbol="CERN" name="Cerner Corporation" />
+	<company symbol="CERP" name="Cereplast, Inc." />
+	<company symbol="CERS" name="Cerus Corporation" />
+	<company symbol="CETV" name="Central European Media Enterprises Ltd." />
+	<company symbol="CEVA" name="CEVA, Inc." />
+	<company symbol="CFBK" name="Central Federal Corporation" />
+	<company symbol="CFFC" name="Community Financial Corp." />
+	<company symbol="CFFI" name="C&amp;F Financial Corporation" />
+	<company symbol="CFFN" name="Capitol Federal Financial" />
+	<company symbol="CFK" name="CE Franklin Ltd." />
+	<company symbol="CFNB" name="California First National Bancorp" />
+	<company symbol="CFNL" name="Cardinal Financial Corporation" />
+	<company symbol="CFSG" name="China Fire &amp; Security Group, Inc." />
+	<company symbol="CGEI" name="China Growth Equity Investment Ltd." />
+	<company symbol="CGEIU" name="China Growth Equity Investment Ltd." />
+	<company symbol="CGEIW" name="China Growth Equity Investment Ltd." />
+	<company symbol="CGEN" name="Compugen Ltd." />
+	<company symbol="CGNX" name="Cognex Corporation" />
+	<company symbol="CHCI" name="Comstock Homebuilding Companies, Inc." />
+	<company symbol="CHCO" name="City Holding Company" />
+	<company symbol="CHDN" name="Churchill Downs, Incorporated" />
+	<company symbol="CHDX" name="Chindex International, Inc." />
+	<company symbol="CHEF" name="The Chefs&#39; Warehouse, Inc." />
+	<company symbol="CHEV" name="Cheviot Financial Corp" />
+	<company symbol="CHFC" name="Chemical Financial Corporation" />
+	<company symbol="CHFN" name="Charter Financial Corp." />
+	<company symbol="CHINA" name="CDC Corporation" />
+	<company symbol="CHKE" name="Cherokee Inc." />
+	<company symbol="CHKP" name="Check Point Software Technologies Ltd." />
+	<company symbol="CHLN" name="China Housing &amp; Land Development, Inc." />
+	<company symbol="CHMP" name="Champion Industries, Inc." />
+	<company symbol="CHNG" name="China Natural Gas, Inc." />
+	<company symbol="CHNR" name="China Natural Resources, Inc." />
+	<company symbol="CHOP" name="China Gerui Advanced Materials Group Limited" />
+	<company symbol="CHRM" name="Charm Communications Inc." />
+	<company symbol="CHRS" name="Charming Shoppes, Inc." />
+	<company symbol="CHRW" name="C.H. Robinson Worldwide, Inc." />
+	<company symbol="CHSCP" name="CHS Inc" />
+	<company symbol="CHSI" name="Catalyst Health Solutions, Inc" />
+	<company symbol="CHTP" name="Chelsea Therapeutics International, Ltd." />
+	<company symbol="CHTR" name="Charter Communications, Inc." />
+	<company symbol="CHUX" name="O&#39;Charley&#39;s Inc." />
+	<company symbol="CHYR" name="Chyron Corporation" />
+	<company symbol="CIDM" name="Cinedigm Digital Cinema Corp" />
+	<company symbol="CIEN" name="CIENA Corporation" />
+	<company symbol="CIGX" name="Star Scientific, Inc." />
+	<company symbol="CIIC" name="China Infrastructure Investment Corporation" />
+	<company symbol="CIMT" name="Cimatron, Limited" />
+	<company symbol="CINF" name="Cincinnati Financial Corporation" />
+	<company symbol="CISG" name="CNinsure Inc." />
+	<company symbol="CITZ" name="CFS Bancorp, Inc." />
+	<company symbol="CIZN" name="Citizens Holding Company" />
+	<company symbol="CJJD" name="China Jo-Jo Drugstores, Inc." />
+	<company symbol="CKEC" name="Carmike Cinemas, Inc." />
+	<company symbol="CKSW" name="ClickSoftware Technologies Ltd." />
+	<company symbol="CLBH" name="Carolina Bank Holdings Inc." />
+	<company symbol="CLCT" name="Collectors Universe, Inc." />
+	<company symbol="CLDX" name="Celldex Therapeutics, Inc" />
+	<company symbol="CLFC" name="Center Financial Corporation" />
+	<company symbol="CLFD" name="Clearfield, Inc." />
+	<company symbol="CLMS" name="Calamos Asset Management, Inc." />
+	<company symbol="CLMT" name="Calumet Specialty Products Partners, L.P." />
+	<company symbol="CLNE" name="Clean Energy Fuels Corp." />
+	<company symbol="CLNT" name="Cleantech Solutions International, Inc." />
+	<company symbol="CLRO" name="ClearOne Communications Inc." />
+	<company symbol="CLSN" name="Celsion Corporation" />
+	<company symbol="CLUB" name="Town Sports International Holdings, Inc." />
+	<company symbol="CLWR" name="Clearwire Corporation" />
+	<company symbol="CLWT" name="Euro Tech Holdings Company Limited" />
+	<company symbol="CMCO" name="Columbus McKinnon Corporation" />
+	<company symbol="CMCSA" name="Comcast Corporation" />
+	<company symbol="CMCSK" name="Comcast Corporation" />
+	<company symbol="CME" name="CME Group Inc." />
+	<company symbol="CMED" name="China Medical Technologies, Inc." />
+	<company symbol="CMFB" name="COMMERCEFIRST BANCORP INC" />
+	<company symbol="CMLS" name="Cumulus Media Inc." />
+	<company symbol="CMRG" name="Casual Male Retail Group, Inc." />
+	<company symbol="CMSB" name="CMS Bancorp, Inc." />
+	<company symbol="CMTL" name="Comtech Telecommunications Corp." />
+	<company symbol="CNAF" name="Commercial National Financial Corporation" />
+	<company symbol="CNBC" name="Center Bancorp, Inc." />
+	<company symbol="CNBKA" name="Century Bancorp, Inc." />
+	<company symbol="CNET" name="ChinaNet Online Holdings, Inc." />
+	<company symbol="CNIT" name="China Information Technology, Inc." />
+	<company symbol="CNMD" name="CONMED Corporation" />
+	<company symbol="CNQR" name="Concur Technologies, Inc." />
+	<company symbol="CNSL" name="Consolidated Communications Holdings, Inc." />
+	<company symbol="CNTF" name="China TechFaith Wireless Communication Technology Limited" />
+	<company symbol="CNTY" name="Century Casinos, Inc." />
+	<company symbol="CNVO" name="Convio, Inc." />
+	<company symbol="CNYD" name="China Yida Holding, Co." />
+	<company symbol="COBK" name="Colonial Financial Services, Inc." />
+	<company symbol="COBR" name="Cobra Electronics Corporation" />
+	<company symbol="COBZ" name="CoBiz Financial Inc." />
+	<company symbol="COCO" name="Corinthian Colleges, Inc." />
+	<company symbol="COGO" name="Cogo Group, Inc." />
+	<company symbol="COHR" name="Coherent, Inc." />
+	<company symbol="COHU" name="Cohu, Inc." />
+	<company symbol="COKE" name="Coca-Cola Bottling Co. Consolidated" />
+	<company symbol="COLB" name="Columbia Banking System, Inc." />
+	<company symbol="COLM" name="Columbia Sportswear Company" />
+	<company symbol="COMV" name="Comverge, Inc." />
+	<company symbol="CONN" name="Conn&#39;s, Inc." />
+	<company symbol="COOL" name="Majesco Entertainment Company" />
+	<company symbol="CORE" name="Core-Mark Holding Company, Inc." />
+	<company symbol="CORT" name="Corcept Therapeutics Incorporated" />
+	<company symbol="COSI" name="Cosi, Inc." />
+	<company symbol="COST" name="Costco Wholesale Corporation" />
+	<company symbol="COWN" name="Cowen Group, Inc." />
+	<company symbol="CPBC" name="Community Partners Bancorp" />
+	<company symbol="CPBK" name="Community Capital Corporation" />
+	<company symbol="CPGI" name="China Shengda Packaging Group, Inc." />
+	<company symbol="CPHC" name="Canterbury Park Holding Corporation" />
+	<company symbol="CPHD" name="CEPHEID" />
+	<company symbol="CPIX" name="Cumberland Pharmaceuticals Inc." />
+	<company symbol="CPLA" name="Capella Education Company" />
+	<company symbol="CPLP" name="Capital Product Partners L.P." />
+	<company symbol="CPNO" name="Copano Energy, L.L.C." />
+	<company symbol="CPRT" name="Copart, Inc." />
+	<company symbol="CPRX" name="Catalyst Pharmaceutical Partners, Inc." />
+	<company symbol="CPSI" name="Computer Programs and Systems, Inc." />
+	<company symbol="CPSL" name="China Precision Steel, Inc." />
+	<company symbol="CPSS" name="Consumer Portfolio Services, Inc." />
+	<company symbol="CPST" name="Capstone Turbine Corporation" />
+	<company symbol="CPTS" name="Conceptus, Inc." />
+	<company symbol="CPWM" name="Cost Plus, Inc." />
+	<company symbol="CPWR" name="Compuware Corporation" />
+	<company symbol="CRAI" name="CRA International,Inc." />
+	<company symbol="CRAY" name="Cray Inc" />
+	<company symbol="CRBC" name="Citizens Republic Bancorp, Inc." />
+	<company symbol="CRDC" name="Cardica, Inc." />
+	<company symbol="CRDN" name="Ceradyne, Inc." />
+	<company symbol="CRED" name="Credo Petroleum Corporation" />
+	<company symbol="CREE" name="Cree, Inc." />
+	<company symbol="CREG" name="China Recycling Energy Corporation" />
+	<company symbol="CRESW" name="Cresud S.A.C.I.F. y A." />
+	<company symbol="CRESY" name="Cresud S.A.C.I.F. y A." />
+	<company symbol="CRFN" name="Crescent Financial Corporation" />
+	<company symbol="CRIC" name="China Real Estate Information Corporation" />
+	<company symbol="CRIS" name="Curis, Inc." />
+	<company symbol="CRMB" name="57TH Street General Acquisition Corp" />
+	<company symbol="CRMBU" name="57TH Street General Acquisition Corp" />
+	<company symbol="CRMBW" name="57TH Street General Acquisition Corp" />
+	<company symbol="CRME" name="Cardiome Pharma Corporation" />
+	<company symbol="CRMT" name="America&#39;s Car-Mart, Inc." />
+	<company symbol="CRNT" name="Ceragon Networks Ltd." />
+	<company symbol="CROX" name="Crocs, Inc." />
+	<company symbol="CRRB" name="Carrollton Bancorp" />
+	<company symbol="CRRC" name="Courier Corporation" />
+	<company symbol="CRTX" name="Cornerstone Therapeutics Inc." />
+	<company symbol="CRUS" name="Cirrus Logic, Inc." />
+	<company symbol="CRVL" name="CorVel Corp." />
+	<company symbol="CRWN" name="Crown Media Holdings, Inc." />
+	<company symbol="CRWS" name="Crown Crafts, Inc." />
+	<company symbol="CRYP" name="CryptoLogic Limited" />
+	<company symbol="CRZO" name="Carrizo Oil &amp; Gas, Inc." />
+	<company symbol="CSBC" name="Citizens South Banking Corporation" />
+	<company symbol="CSBK" name="Clifton Savings Bancorp, Inc." />
+	<company symbol="CSCD" name="Cascade Microtech, Inc." />
+	<company symbol="CSCO" name="Cisco Systems, Inc." />
+	<company symbol="CSFL" name="CenterState Banks, Inc." />
+	<company symbol="CSGP" name="CoStar Group, Inc." />
+	<company symbol="CSGS" name="CSG Systems International, Inc." />
+	<company symbol="CSII" name="Cardiovascular Systems, Inc." />
+	<company symbol="CSIQ" name="Canadian Solar Inc." />
+	<company symbol="CSKI" name="China Sky One Medical, Inc." />
+	<company symbol="CSOD" name="Cornerstone OnDemand, Inc." />
+	<company symbol="CSPI" name="CSP Inc." />
+	<company symbol="CSTR" name="Coinstar, Inc." />
+	<company symbol="CSUN" name="China Sunergy Co., Ltd." />
+	<company symbol="CSWC" name="Capital Southwest Corporation" />
+	<company symbol="CTAS" name="Cintas Corporation" />
+	<company symbol="CTBC" name="The Connecticut Bank and Trust Company" />
+	<company symbol="CTBI" name="Community Trust Bancorp, Inc." />
+	<company symbol="CTCH" name="Commtouch Software Ltd." />
+	<company symbol="CTCM" name="CTC Media, Inc." />
+	<company symbol="CTCT" name="Constant Contact, Inc." />
+	<company symbol="CTDC" name="China Technology Development Group Corporation" />
+	<company symbol="CTE" name="SinoTech Energy Limited" />
+	<company symbol="CTEL" name="City Telecom (H.K.) Limited" />
+	<company symbol="CTFO" name="China TransInfo Technology Corp." />
+	<company symbol="CTGX" name="Computer Task Group, Incorporated" />
+	<company symbol="CTHR" name="Charles &amp; Colvard Ltd" />
+	<company symbol="CTIB" name="CTI Industries Corporation" />
+	<company symbol="CTIC" name="Cell Therapeutics, Inc." />
+	<company symbol="CTRN" name="Citi Trends, Inc." />
+	<company symbol="CTRP" name="Ctrip.com International, Ltd." />
+	<company symbol="CTSH" name="Cognizant Technology Solutions Corporation" />
+	<company symbol="CTWS" name="Connecticut Water Service, Inc." />
+	<company symbol="CTXS" name="Citrix Systems, Inc." />
+	<company symbol="CU" name="First Trust Exchange-Traded Fund II First Trust ISE Global Copper Index Fund" />
+	<company symbol="CUBA" name="The Herzfeld Caribbean Basin Fund, Inc." />
+	<company symbol="CUTR" name="Cutera, Inc." />
+	<company symbol="CVBF" name="CVB Financial Corporation" />
+	<company symbol="CVBK" name="Central Virginia Bankshares, Inc." />
+	<company symbol="CVCO" name="Cavco Industries, Inc." />
+	<company symbol="CVCY" name="Central Valley Community Bancorp" />
+	<company symbol="CVGI" name="Commercial Vehicle Group, Inc." />
+	<company symbol="CVGW" name="Calavo Growers, Inc." />
+	<company symbol="CVLT" name="CommVault Systems, Inc." />
+	<company symbol="CVLY" name="Codorus Valley Bancorp, Inc" />
+	<company symbol="CVTI" name="Covenant Transportation Group, Inc." />
+	<company symbol="CVV" name="CVD Equipment Corporation" />
+	<company symbol="CVVT" name="China Valves Technology, Inc." />
+	<company symbol="CWBC" name="Community West Bancshares" />
+	<company symbol="CWBS" name="Commonwealth Bankshares, Inc." />
+	<company symbol="CWCO" name="Consolidated Water Co. Ltd." />
+	<company symbol="CWEI" name="Clayton Williams Energy, Inc." />
+	<company symbol="CWST" name="Casella Waste Systems, Inc." />
+	<company symbol="CWTR" name="Coldwater Creek, Inc." />
+	<company symbol="CXDC" name="China XD Plastics Company Limited" />
+	<company symbol="CXPO" name="Crimson Exploration Inc." />
+	<company symbol="CY" name="Cypress Semiconductor Corporation" />
+	<company symbol="CYAN" name="Cyanotech Corporation" />
+	<company symbol="CYBE" name="CyberOptics Corporation" />
+	<company symbol="CYBI" name="Cybex International, Inc." />
+	<company symbol="CYBX" name="Cyberonics, Inc." />
+	<company symbol="CYCC" name="Cyclacel Pharmaceuticals, Inc." />
+	<company symbol="CYCCP" name="Cyclacel Pharmaceuticals, Inc." />
+	<company symbol="CYDE" name="CyberDefender Corporation" />
+	<company symbol="CYMI" name="Cymer, Inc." />
+	<company symbol="CYNO" name="Cynosure, Inc." />
+	<company symbol="CYOU" name="Changyou.com Limited" />
+	<company symbol="CYTK" name="Cytokinetics, Incorporated" />
+	<company symbol="CYTR" name="CytRx Corporation" />
+	<company symbol="CYTX" name="Cytori Therapeutics Inc" />
+	<company symbol="CYTXW" name="Cytori Therapeutics Inc" />
+	<company symbol="CZFC" name="Citizens First Corporation" />
+	<company symbol="CZNC" name="Citizens &amp; Northern Corp" />
+	<company symbol="CZWI" name="Citizens Community Bancorp, Inc." />
+	<company symbol="DAEG" name="Daegis Inc" />
+	<company symbol="DAIO" name="Data I/O Corporation" />
+	<company symbol="DAKT" name="Daktronics, Inc." />
+	<company symbol="DARA" name="DARA Biosciences, Inc." />
+	<company symbol="DATE" name="Jiayuan.com International Ltd." />
+	<company symbol="DAVE" name="Famous Dave&#39;s of America, Inc." />
+	<company symbol="DBLE" name="Double Eagle Petroleum Company" />
+	<company symbol="DBLEP" name="Double Eagle Petroleum Company" />
+	<company symbol="DCIX" name="Diana Containerships Inc." />
+	<company symbol="DCOM" name="Dime Community Bancshares, Inc." />
+	<company symbol="DCTH" name="Delcath Systems, Inc." />
+	<company symbol="DDIC" name="DDi Corp." />
+	<company symbol="DEAR" name="Dearborn Bancorp, Inc." />
+	<company symbol="DECK" name="Deckers Outdoor Corporation" />
+	<company symbol="DEER" name="Deer Consumer Products, Inc." />
+	<company symbol="DELL" name="Dell Inc." />
+	<company symbol="DENN" name="Denny&#39;s Corporation" />
+	<company symbol="DEPO" name="DepoMed, Inc." />
+	<company symbol="DEST" name="Destination Maternity Corporation" />
+	<company symbol="DFR" name="CIFC Corp." />
+	<company symbol="DFZ" name="R.G. Barry Corporation" />
+	<company symbol="DGAS" name="Delta Natural Gas Company, Inc." />
+	<company symbol="DGICA" name="Donegal Group, Inc." />
+	<company symbol="DGICB" name="Donegal Group, Inc." />
+	<company symbol="DGII" name="Digi International Inc." />
+	<company symbol="DGIT" name="DG FastChannel, Inc." />
+	<company symbol="DGLY" name="Digital Ally, Inc." />
+	<company symbol="DHFT" name="Diamond Hill Financial Trends Fund, Inc." />
+	<company symbol="DHIL" name="Diamond Hill Investment Group, Inc." />
+	<company symbol="DHRM" name="Dehaier Medical Systems Limited" />
+	<company symbol="DIET" name="eDiets.com, Inc." />
+	<company symbol="DIOD" name="Diodes Incorporated" />
+	<company symbol="DISCA" name="Discovery Communications, Inc" />
+	<company symbol="DISCB" name="Discovery Communications, Inc" />
+	<company symbol="DISCK" name="Discovery Communications, Inc" />
+	<company symbol="DISH" name="DISH Network Corporation" />
+	<company symbol="DITC" name="Ditech Networks, Inc." />
+	<company symbol="DJCO" name="Daily Journal Corp. (S.C.)" />
+	<company symbol="DLGC" name="Dialogic, Inc." />
+	<company symbol="DLIA" name="dELIA*s Inc." />
+	<company symbol="DLLR" name="Dollar Financial Corp." />
+	<company symbol="DLTR" name="Dollar Tree, Inc." />
+	<company symbol="DMAN" name="DemandTec, Inc." />
+	<company symbol="DMED" name="D. Medical Industries Ltd." />
+	<company symbol="DMLP" name="Dorchester Minerals, L.P." />
+	<company symbol="DMND" name="Diamond Foods, Inc." />
+	<company symbol="DMRC" name="Digimarc Corporation" />
+	<company symbol="DNBF" name="Dnb Financial Corp" />
+	<company symbol="DNDN" name="Dendreon Corporation" />
+	<company symbol="DNKN" name="Dunkin&#39; Brands Group, Inc." />
+	<company symbol="DORM" name="Dorman Products, Inc." />
+	<company symbol="DOVR" name="Dover Saddlery, Inc." />
+	<company symbol="DPTR" name="Delta Petroleum Corporation" />
+	<company symbol="DRAD" name="Digirad Corporation" />
+	<company symbol="DRAM" name="Dataram Corporation" />
+	<company symbol="DRCO" name="Dynamics Research Corporation" />
+	<company symbol="DRIV" name="Digital River, Inc." />
+	<company symbol="DROOY" name="DRDGOLD Limited" />
+	<company symbol="DRRX" name="Durect Corporation" />
+	<company symbol="DRWI" name="Dragonwave Inc" />
+	<company symbol="DRYS" name="DryShips Inc." />
+	<company symbol="DSCI" name="Derma Sciences, Inc." />
+	<company symbol="DSCO" name="Discovery Laboratories, Inc." />
+	<company symbol="DSGX" name="The Descartes Systems Group Inc." />
+	<company symbol="DSPG" name="DSP Group, Inc." />
+	<company symbol="DSTI" name="DayStar Technologies, Inc." />
+	<company symbol="DSWL" name="Deswell Industries, Inc." />
+	<company symbol="DTLK" name="Datalink Corporation" />
+	<company symbol="DTSI" name="DTS, Inc." />
+	<company symbol="DTV" name="DIRECTV" />
+	<company symbol="DUCK" name="Duckwall-Alco Stores, Inc." />
+	<company symbol="DUSA" name="DUSA Pharmaceuticals, Inc." />
+	<company symbol="DVAX" name="Dynavax Technologies Corporation" />
+	<company symbol="DVOX" name="DynaVox Inc." />
+	<company symbol="DWA" name="Dreamworks Animation SKG, Inc." />
+	<company symbol="DWCH" name="Datawatch Corporation" />
+	<company symbol="DWSN" name="Dawson Geophysical Company" />
+	<company symbol="DXCM" name="DexCom, Inc." />
+	<company symbol="DXPE" name="DXP Enterprises, Inc." />
+	<company symbol="DXYN" name="The Dixie Group, Inc." />
+	<company symbol="DYAX" name="Dyax Corp." />
+	<company symbol="DYII" name="Dynacq Healthcare, Inc." />
+	<company symbol="DYNT" name="Dynatronics Corporation" />
+	<company symbol="DYSL" name="Dynasil Corporation of America" />
+	<company symbol="EAGL" name="Global Eagle Acquisition Corp." />
+	<company symbol="EAGLU" name="Global Eagle Acquisition Corp." />
+	<company symbol="EAGLW" name="Global Eagle Acquisition Corp." />
+	<company symbol="EBAY" name="eBay Inc." />
+	<company symbol="EBIX" name="Ebix Inc" />
+	<company symbol="EBMT" name="Eagle Bancorp Montana, Inc." />
+	<company symbol="EBSB" name="Meridian Interstate Bancorp, Inc." />
+	<company symbol="EBTC" name="Enterprise Bancorp Inc" />
+	<company symbol="EBTX" name="Encore Bancshares, Inc." />
+	<company symbol="ECBE" name="ECB Bancorp Inc" />
+	<company symbol="ECGI" name="Envoy Capital Group Inc." />
+	<company symbol="ECHO" name="Echo Global Logistics, Inc." />
+	<company symbol="ECOL" name="US Ecology, Inc." />
+	<company symbol="ECPG" name="Encore Capital Group Inc" />
+	<company symbol="ECTE" name="Echo Therapeutics, Inc." />
+	<company symbol="ECTY" name="Ecotality, Inc." />
+	<company symbol="ECYT" name="Endocyte, Inc." />
+	<company symbol="EDAC" name="Edac Technologies Corporation" />
+	<company symbol="EDAP" name="EDAP TMS S.A." />
+	<company symbol="EDGR" name="EDGAR Online, Inc." />
+	<company symbol="EDGW" name="Edgewater Technology, Inc." />
+	<company symbol="EDMC" name="Education Management Corporation" />
+	<company symbol="EDS" name="Exceed Company Ltd." />
+	<company symbol="EDSUU" name="Exceed Company Ltd." />
+	<company symbol="EDSWW" name="Exceed Company Ltd." />
+	<company symbol="EDUC" name="Educational Development Corporation" />
+	<company symbol="EEFT" name="Euronet Worldwide, Inc." />
+	<company symbol="EEI" name="Ecology and Environment, Inc." />
+	<company symbol="EF" name="Edelman Financial Group Inc. (The)" />
+	<company symbol="EFII" name="Electronics for Imaging, Inc." />
+	<company symbol="EFOI" name="Energy Focus, Inc." />
+	<company symbol="EFSC" name="Enterprise Financial Services Corporation" />
+	<company symbol="EFUT" name="eFuture Information Technology Inc." />
+	<company symbol="EGBN" name="Eagle Bancorp, Inc." />
+	<company symbol="EGHT" name="8x8 Inc" />
+	<company symbol="EGLE" name="Eagle Bulk Shipping Inc." />
+	<company symbol="EGOV" name="NIC Inc." />
+	<company symbol="EHTH" name="eHealth, Inc." />
+	<company symbol="EIHI" name="Eastern Insurance Holdings, Inc." />
+	<company symbol="ELGX" name="Endologix  Inc" />
+	<company symbol="ELMD" name="Electromed, Inc." />
+	<company symbol="ELNK" name="EarthLink, Inc." />
+	<company symbol="ELON" name="Echelon Corporation" />
+	<company symbol="ELOS" name="Syneron Medical Ltd." />
+	<company symbol="ELRC" name="Electro Rent Corporation" />
+	<company symbol="ELSE" name="Electro-Sensors, Inc." />
+	<company symbol="ELTK" name="Eltek Ltd." />
+	<company symbol="EMCF" name="Emclaire Financial Corp" />
+	<company symbol="EMCI" name="EMC Insurance Group, Inc." />
+	<company symbol="EMFN" name="iShares MSCI Emerging Markets Financials Sector Index Fund" />
+	<company symbol="EMIF" name="iShares S&amp;P Emerging Markets Infrastructure Index Fund" />
+	<company symbol="EMITF" name="Elbit Imaging Ltd." />
+	<company symbol="EMKR" name="EMCORE Corporation" />
+	<company symbol="EMMS" name="Emmis Communications Corporation" />
+	<company symbol="EMMSP" name="Emmis Communications Corporation" />
+	<company symbol="EMMT" name="iShares MSCI Emerging Markets Materials Sector Index Fund" />
+	<company symbol="ENDP" name="Endo Pharmaceuticals Holdings Inc." />
+	<company symbol="ENER" name="Energy Conversion Devices, Inc." />
+	<company symbol="ENG" name="ENGlobal Corporation" />
+	<company symbol="ENMD" name="EntreMed, Inc." />
+	<company symbol="ENOC" name="EnerNOC, Inc." />
+	<company symbol="ENSG" name="The Ensign Group, Inc." />
+	<company symbol="ENTG" name="Entegris, Inc." />
+	<company symbol="ENTR" name="Entropic Communications, Inc." />
+	<company symbol="ENZN" name="Enzon Pharmaceuticals, Inc." />
+	<company symbol="EONC" name="eOn Communications Corporation" />
+	<company symbol="EOSPN" name="EOS Preferred Corporation" />
+	<company symbol="EPAX" name="Ambassadors Group, Inc." />
+	<company symbol="EPAY" name="Bottomline Technologies, Inc." />
+	<company symbol="EPCT" name="EpiCept Corporation                     " />
+	<company symbol="EPHC" name="Epoch Holding Corporation" />
+	<company symbol="EPIQ" name="EPIQ Systems, Inc." />
+	<company symbol="EPOC" name="Epocrates, Inc." />
+	<company symbol="EQIX" name="Equinix, Inc." />
+	<company symbol="ERIC" name="LM Ericsson Telephone Company" />
+	<company symbol="ERIE" name="Erie Indemnity Company" />
+	<company symbol="ERII" name="Energy Recovery, Inc." />
+	<company symbol="EROC" name="Eagle Rock Energy Partners, L.P." />
+	<company symbol="EROCW" name="Eagle Rock Energy Partners, L.P." />
+	<company symbol="ERT" name="eResearch Technology Inc." />
+	<company symbol="ERTS" name="Electronic Arts Inc." />
+	<company symbol="ESBF" name="ESB Financial Corporation" />
+	<company symbol="ESBK" name="The Elmira Savings Bank, FSB" />
+	<company symbol="ESCA" name="Escalade, Incorporated" />
+	<company symbol="ESEA" name="Euroseas Ltd." />
+	<company symbol="ESGR" name="Enstar Group Limited" />
+	<company symbol="ESIC" name="EasyLink Services International Corporation" />
+	<company symbol="ESIO" name="Electro Scientific Industries, Inc." />
+	<company symbol="ESLR" name="Evergreen Solar, Inc." />
+	<company symbol="ESLT" name="Elbit Systems Ltd." />
+	<company symbol="ESMC" name="Escalon Medical Corp." />
+	<company symbol="ESRX" name="Express Scripts, Inc." />
+	<company symbol="ESSA" name="ESSA Bancorp, Inc." />
+	<company symbol="ESSX" name="Essex Rental Corporation" />
+	<company symbol="ESTE" name="Earthstone Energy, Inc." />
+	<company symbol="ESYS" name="Elecsys Corporation" />
+	<company symbol="ETFC" name="E*TRADE Financial Corporation" />
+	<company symbol="ETRM" name="EnteroMedics Inc." />
+	<company symbol="EUFN" name="iShares MSCI Europe Financials Sector Index Fund" />
+	<company symbol="EVBS" name="Eastern Virginia Bankshares, Inc." />
+	<company symbol="EVEP" name="EV Energy Partners, L.P." />
+	<company symbol="EVOL" name="Evolving Systems, Inc." />
+	<company symbol="EWBC" name="East West Bancorp, Inc." />
+	<company symbol="EXAC" name="Exactech, Inc." />
+	<company symbol="EXAR" name="Exar Corporation" />
+	<company symbol="EXAS" name="EXACT Sciences Corporation" />
+	<company symbol="EXEL" name="Exelixis, Inc." />
+	<company symbol="EXFO" name="EXFO Inc" />
+	<company symbol="EXLP" name="Exterran Partners, L.P." />
+	<company symbol="EXLS" name="ExlService Holdings, Inc." />
+	<company symbol="EXPD" name="Expeditors International of Washington, Inc." />
+	<company symbol="EXPE" name="Expedia, Inc." />
+	<company symbol="EXPO" name="Exponent, Inc." />
+	<company symbol="EXTR" name="Extreme Networks, Inc." />
+	<company symbol="EXXI" name="Energy XXI (Bermuda) Limited" />
+	<company symbol="EZCH" name="EZchip Semiconductor Limited" />
+	<company symbol="EZPW" name="EZCORP, Inc." />
+	<company symbol="FABK" name="First Advantage Bancorp" />
+	<company symbol="FACE" name="Physicians Formula Holdings, Inc." />
+	<company symbol="FALC" name="FalconStor Software, Inc." />
+	<company symbol="FARM" name="Farmer Brothers Company" />
+	<company symbol="FARO" name="FARO Technologies, Inc." />
+	<company symbol="FAST" name="Fastenal Company" />
+	<company symbol="FBIZ" name="First Business Financial Services, Inc." />
+	<company symbol="FBMI" name="Firstbank Corporation" />
+	<company symbol="FBMS" name="The First Bancshares, Inc." />
+	<company symbol="FBNC" name="First Bancorp" />
+	<company symbol="FBNK" name="First Connecticut Bancorp, Inc." />
+	<company symbol="FBRC" name="FBR &amp; Co" />
+	<company symbol="FBSI" name="First Bancshares, Inc." />
+	<company symbol="FBSS" name="Fauquier Bankshares, Inc." />
+	<company symbol="FCAL" name="First California Financial Group, Inc." />
+	<company symbol="FCAP" name="First Capital, Inc." />
+	<company symbol="FCBC" name="First Community Bancshares, Inc." />
+	<company symbol="FCCO" name="First Community Corporation" />
+	<company symbol="FCCY" name="1st Constitution Bancorp (NJ)" />
+	<company symbol="FCEL" name="FuelCell Energy, Inc." />
+	<company symbol="FCFC" name="FirstCity Financial Corporation" />
+	<company symbol="FCFS" name="First Cash Financial Services, Inc." />
+	<company symbol="FCHI" name="iShares FTSE China (HK Listed) Index Fund" />
+	<company symbol="FCLF" name="First Clover Leaf Financial Corp." />
+	<company symbol="FCNCA" name="First Citizens BancShares, Inc." />
+	<company symbol="FCTY" name="1st Century Bancshares, Inc" />
+	<company symbol="FCVA" name="First Capital Bancorp, Inc. (VA)" />
+	<company symbol="FCZA" name="First Citizens Banc Corp." />
+	<company symbol="FDEF" name="First Defiance Financial Corp." />
+	<company symbol="FDML" name="Federal-Mogul Corporation" />
+	<company symbol="FDUS" name="Fidus Investment Corporation" />
+	<company symbol="FEED" name="AgFeed Industries, Inc." />
+	<company symbol="FEFN" name="iShares MSCI Far East Financials Sector Index Fund" />
+	<company symbol="FEIC" name="FEI Company" />
+	<company symbol="FEIM" name="Frequency Electronics, Inc." />
+	<company symbol="FELE" name="Franklin Electric Co., Inc." />
+	<company symbol="FES" name="Forbes Energy Services Ltd" />
+	<company symbol="FFBC" name="First Financial Bancorp." />
+	<company symbol="FFBCW" name="First Financial Bancorp." />
+	<company symbol="FFBH" name="First Federal Bancshares of Arkansas, Inc." />
+	<company symbol="FFCH" name="First Financial Holdings, Inc." />
+	<company symbol="FFCO" name="FedFirst Financial Corporation" />
+	<company symbol="FFDF" name="FFD Financial Corporation" />
+	<company symbol="FFEX" name="Frozen Food Express Industries, Inc." />
+	<company symbol="FFFD" name="North Central Bancshares, Inc." />
+	<company symbol="FFHL" name="Fuwei Films (Holdings) Co., Ltd." />
+	<company symbol="FFIC" name="Flushing Financial Corporation" />
+	<company symbol="FFIN" name="First Financial Bankshares, Inc." />
+	<company symbol="FFIV" name="F5 Networks, Inc." />
+	<company symbol="FFKT" name="Farmers Capital Bank Corporation" />
+	<company symbol="FFKY" name="First Financial Service Corporation" />
+	<company symbol="FFN" name="FriendFinder Networks Inc." />
+	<company symbol="FFNM" name="First Federal of Northern Michigan Bancorp, Inc." />
+	<company symbol="FFNW" name="First Financial Northwest, Inc." />
+	<company symbol="FHCO" name="Female Health Company (The)" />
+	<company symbol="FIBK" name="First Interstate BancSystem, Inc." />
+	<company symbol="FINL" name="The Finish Line, Inc." />
+	<company symbol="FIRE" name="Sourcefire, Inc." />
+	<company symbol="FISI" name="Financial Institutions, Inc." />
+	<company symbol="FISV" name="Fiserv, Inc." />
+	<company symbol="FITB" name="Fifth Third Bancorp" />
+	<company symbol="FITBP" name="Fifth Third Bancorp" />
+	<company symbol="FIZZ" name="National Beverage Corp." />
+	<company symbol="FLDM" name="Fluidigm Corporation" />
+	<company symbol="FLEX" name="Flextronics International Ltd." />
+	<company symbol="FLIC" name="The First of Long Island Corporation" />
+	<company symbol="FLIR" name="FLIR Systems, Inc." />
+	<company symbol="FLML" name="Flamel Technologies S.A." />
+	<company symbol="FLOW" name="Flow International Corporation" />
+	<company symbol="FLWS" name="1-800 FLOWERS.COM, Inc." />
+	<company symbol="FLXS" name="Flexsteel Industries, Inc." />
+	<company symbol="FMAR" name="First Mariner Bancorp" />
+	<company symbol="FMBI" name="First Midwest Bancorp, Inc." />
+	<company symbol="FMCN" name="Focus Media Holding Limited" />
+	<company symbol="FMER" name="FirstMerit Corporation" />
+	<company symbol="FMFC" name="First M &amp; F Corporation" />
+	<company symbol="FNBN" name="FNB United Corp." />
+	<company symbol="FNDT" name="Fundtech Ltd." />
+	<company symbol="FNFG" name="First Niagara Financial Group Inc." />
+	<company symbol="FNGN" name="Financial Engines, Inc." />
+	<company symbol="FNLC" name="First Bancorp, Inc (ME)" />
+	<company symbol="FNSR" name="Finisar Corporation" />
+	<company symbol="FOLD" name="Amicus Therapeutics, Inc." />
+	<company symbol="FONE" name="First Trust NASDAQ CEA Smartphone Index Fund" />
+	<company symbol="FONR" name="Fonar Corporation" />
+	<company symbol="FORD" name="Forward Industries, Inc." />
+	<company symbol="FORM" name="FormFactor, Inc." />
+	<company symbol="FORR" name="Forrester Research, Inc." />
+	<company symbol="FORTY" name="Formula Systems (1985) Ltd." />
+	<company symbol="FOSL" name="Fossil, Inc." />
+	<company symbol="FPFC" name="First Place Financial Corp." />
+	<company symbol="FPIC" name="FPIC Insurance Group, Inc." />
+	<company symbol="FPTB" name="First PacTrust Bancorp, Inc." />
+	<company symbol="FRAN" name="Francesca&#39;s Holdings Corporation" />
+	<company symbol="FRBK" name="Republic First Bancorp, Inc." />
+	<company symbol="FRCCO" name="First Republic Preferred Capital Corporation" />
+	<company symbol="FRED" name="Fred&#39;s, Inc." />
+	<company symbol="FREE" name="FreeSeas Inc." />
+	<company symbol="FRME" name="First Merchants Corporation" />
+	<company symbol="FRNK" name="Franklin Financial Corporation" />
+	<company symbol="FRP" name="FairPoint Communications, Inc." />
+	<company symbol="FRPT" name="Force Protection, Inc." />
+	<company symbol="FSBI" name="Fidelity Bancorp, Inc." />
+	<company symbol="FSBK" name="First South Bancorp Inc" />
+	<company symbol="FSCI" name="Fisher Communications, Inc." />
+	<company symbol="FSFG" name="First Savings Financial Group, Inc." />
+	<company symbol="FSGI" name="First Security Group, Inc." />
+	<company symbol="FSII" name="FSI International, Inc." />
+	<company symbol="FSIN" name="Fushi Copperweld, Inc." />
+	<company symbol="FSLR" name="First Solar, Inc." />
+	<company symbol="FSRV" name="FirstService Corporation" />
+	<company symbol="FSTR" name="L.B. Foster Company" />
+	<company symbol="FSYS" name="Fuel Systems Solutions, Inc." />
+	<company symbol="FTEK" name="Fuel Tech, Inc." />
+	<company symbol="FTLK" name="Funtalk China Holdings Limited" />
+	<company symbol="FTNT" name="Fortinet, Inc." />
+	<company symbol="FTWR" name="FiberTower Corporation" />
+	<company symbol="FUBC" name="1st United Bancorp, Inc. (FL)" />
+	<company symbol="FUEL" name="SMF Energy Corporation" />
+	<company symbol="FULL" name="Full Circle Capital Corporation" />
+	<company symbol="FULT" name="Fulton Financial Corporation" />
+	<company symbol="FUNC" name="First United Corporation" />
+	<company symbol="FUND" name="Royce Focus Trust, Inc." />
+	<company symbol="FURX" name="Furiex Pharmaceuticals, Inc." />
+	<company symbol="FWLT" name="Foster Wheeler AG." />
+	<company symbol="FWRD" name="Forward Air Corporation" />
+	<company symbol="FXCB" name="Fox Chase Bancorp, Inc." />
+	<company symbol="FXEN" name="FX Energy, Inc." />
+	<company symbol="GABC" name="German American Bancorp, Inc." />
+	<company symbol="GAGA" name="Le Gaga Holdings Limited" />
+	<company symbol="GAI" name="Global-Tech Advanced Innovations Inc." />
+	<company symbol="GAIA" name="Gaiam, Inc." />
+	<company symbol="GAIN" name="Gladstone Investment Corporation" />
+	<company symbol="GAME" name="Shanda Games Limited" />
+	<company symbol="GASS" name="StealthGas, Inc." />
+	<company symbol="GBCI" name="Glacier Bancorp, Inc." />
+	<company symbol="GBDC" name="Golub Capital BDC, Inc." />
+	<company symbol="GBLI" name="Global Indemnity plc" />
+	<company symbol="GBNK" name="Guaranty Bancorp" />
+	<company symbol="GCBC" name="Greene County Bancorp, Inc." />
+	<company symbol="GCFB" name="Granite City Food And Brewery Ltd." />
+	<company symbol="GCOM" name="Globecomm Systems Inc." />
+	<company symbol="GCVRZ" name="Sanofi" />
+	<company symbol="GEDU" name="Global Education &amp; Technology Group Ltd" />
+	<company symbol="GENC" name="Gencor Industries Inc." />
+	<company symbol="GENE" name="Genetic Technologies Ltd" />
+	<company symbol="GENT" name="Gentium SpA" />
+	<company symbol="GEOI" name="GeoResources, Inc." />
+	<company symbol="GEOY" name="GeoEye, Inc." />
+	<company symbol="GERN" name="Geron Corporation" />
+	<company symbol="GEVO" name="Gevo, Inc." />
+	<company symbol="GFED" name="Guaranty Federal Bancshares, Inc." />
+	<company symbol="GFN" name="General Finance Corporation" />
+	<company symbol="GFNCL" name="General Finance Corporation" />
+	<company symbol="GFNCZ" name="General Finance Corporation" />
+	<company symbol="GGAL" name="Grupo Financiero Galicia S.A." />
+	<company symbol="GHDX" name="Genomic Health, Inc." />
+	<company symbol="GIFI" name="Gulf Island Fabrication, Inc." />
+	<company symbol="GIGA" name="Giga-tronics Incorporated" />
+	<company symbol="GIGM" name="GigaMedia Limited" />
+	<company symbol="GIII" name="G-III Apparel Group, LTD." />
+	<company symbol="GILD" name="Gilead Sciences, Inc." />
+	<company symbol="GILT" name="Gilat Satellite Networks Ltd." />
+	<company symbol="GIVN" name="Given Imaging Ltd." />
+	<company symbol="GKNT" name="Geeknet, Inc." />
+	<company symbol="GKSR" name="G&amp;K Services, Inc." />
+	<company symbol="GLAD" name="Gladstone Capital Corporation" />
+	<company symbol="GLBC" name="Global Crossing Ltd." />
+	<company symbol="GLBL" name="Global Industries, Ltd." />
+	<company symbol="GLBS" name="Globus Maritime Limited" />
+	<company symbol="GLBZ" name="Glen Burnie Bancorp" />
+	<company symbol="GLCH" name="Gleacher &amp; Company, Inc." />
+	<company symbol="GLDC" name="Golden Enterprises, Inc." />
+	<company symbol="GLDD" name="Great Lakes Dredge &amp; Dock Corporation" />
+	<company symbol="GLGL" name="GLG Life Tech Corp" />
+	<company symbol="GLNG" name="Golar LNG Limited" />
+	<company symbol="GLPW" name="Global Power Equipment Group Inc" />
+	<company symbol="GLRE" name="Greenlight Capital Re, Ltd." />
+	<company symbol="GLUU" name="Glu Mobile Inc." />
+	<company symbol="GMAN" name="Gordmans Stores, Inc." />
+	<company symbol="GMCR" name="Green Mountain Coffee Roasters, Inc." />
+	<company symbol="GMET" name="GeoMet, Inc." />
+	<company symbol="GMETP" name="GeoMet, Inc." />
+	<company symbol="GMLP" name="Golar LNG Partners LP" />
+	<company symbol="GNCMA" name="General Communication, Inc." />
+	<company symbol="GNET" name="Global Traffic Network, Inc." />
+	<company symbol="GNMK" name="GenMark Diagnostics, Inc." />
+	<company symbol="GNOM" name="Complete Genomics, Inc." />
+	<company symbol="GNTX" name="Gentex Corporation" />
+	<company symbol="GNVC" name="GenVec, Inc." />
+	<company symbol="GOLD" name="Randgold Resources Limited" />
+	<company symbol="GOLF" name="Golfsmith International Holdings, Inc." />
+	<company symbol="GOOD" name="Gladstone Commercial Corporation" />
+	<company symbol="GOODO" name="Gladstone Commercial Corporation" />
+	<company symbol="GOODP" name="Gladstone Commercial Corporation" />
+	<company symbol="GOOG" name="Google Inc." />
+	<company symbol="GPIC" name="Gaming Partners International Corporation" />
+	<company symbol="GPOR" name="Gulfport Energy Corporation" />
+	<company symbol="GPRC" name="Guanwei Recycling Corp." />
+	<company symbol="GPRE" name="Green Plains Renewable Energy, Inc." />
+	<company symbol="GPRO" name="Gen-Probe Incorporated" />
+	<company symbol="GRAN" name="Bank of Granite Corporation" />
+	<company symbol="GRFS" name="Grifols, S.A." />
+	<company symbol="GRID" name="First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund" />
+	<company symbol="GRIF" name="Griffin Land &amp; Nurseries, Inc." />
+	<company symbol="GRMH" name="GrayMark Healthcare, Inc." />
+	<company symbol="GRMN" name="Garmin Ltd." />
+	<company symbol="GRNB" name="Green Bankshares, Inc." />
+	<company symbol="GROW" name="U.S. Global Investors, Inc." />
+	<company symbol="GRRF" name="China Grentech Corporation Limited" />
+	<company symbol="GRVY" name="GRAVITY Co., Ltd." />
+	<company symbol="GSAT" name="Globalstar, Inc." />
+	<company symbol="GSBC" name="Great Southern Bancorp, Inc." />
+	<company symbol="GSIG" name="GSI Group, Inc." />
+	<company symbol="GSIT" name="GSI Technology, Inc." />
+	<company symbol="GSJK" name="Compressco Partners, L.P." />
+	<company symbol="GSM" name="Globe Specialty Metals Inc." />
+	<company symbol="GSOL" name="Global Sources Ltd." />
+	<company symbol="GSVC" name="GSV Capital Corp" />
+	<company symbol="GTAT" name="GT Advanced Technologies, Inc." />
+	<company symbol="GTIM" name="Good Times Restaurants Inc." />
+	<company symbol="GTIV" name="Gentiva Health Services, Inc." />
+	<company symbol="GTLS" name="Chart Industries, Inc." />
+	<company symbol="GTSI" name="GTSI Corp." />
+	<company symbol="GTXI" name="GTx, Inc." />
+	<company symbol="GUID" name="Guidance Software, Inc." />
+	<company symbol="GULF" name="WisdomTree Middle East Dividend Fund" />
+	<company symbol="GURE" name="Gulf Resources, Inc." />
+	<company symbol="GYRO" name="Gyrodyne Company of America, Inc." />
+	<company symbol="HA" name="Hawaiian Holdings, Inc." />
+	<company symbol="HAFC" name="Hanmi Financial Corporation" />
+	<company symbol="HAIN" name="The Hain Celestial Group, Inc." />
+	<company symbol="HALL" name="Hallmark Financial Services, Inc." />
+	<company symbol="HALO" name="Halozyme Therapeutics, Inc." />
+	<company symbol="HANS" name="Hansen Natural Corporation" />
+	<company symbol="HARL" name="Harleysville Savings Bank" />
+	<company symbol="HAS" name="Hasbro, Inc." />
+	<company symbol="HAST" name="Hastings Entertainment, Inc." />
+	<company symbol="HAUP" name="Hauppauge Digital, Inc." />
+	<company symbol="HAVNP" name="New York Community Bancorp, Inc." />
+	<company symbol="HAYN" name="Haynes International, Inc." />
+	<company symbol="HBAN" name="Huntington Bancshares Incorporated" />
+	<company symbol="HBANP" name="Huntington Bancshares Incorporated" />
+	<company symbol="HBCP" name="Home Bancorp, Inc." />
+	<company symbol="HBHC" name="Hancock Holding Company" />
+	<company symbol="HBIO" name="Harvard Bioscience, Inc." />
+	<company symbol="HBNC" name="Horizon Bancorp (IN)" />
+	<company symbol="HBNK" name="Hampden Bancorp, Inc." />
+	<company symbol="HBOS" name="Heritage Financial Group" />
+	<company symbol="HCBK" name="Hudson City Bancorp, Inc." />
+	<company symbol="HCCI" name="Heritage-Crystal Clean, Inc." />
+	<company symbol="HCII" name="Homeowners Choice, Inc." />
+	<company symbol="HCIIP" name="Homeowners Choice, Inc." />
+	<company symbol="HCIIW" name="Homeowners Choice, Inc." />
+	<company symbol="HCKT" name="The Hackett Group, Inc." />
+	<company symbol="HCOM" name="Hawaiian Telcom Holdco, Inc." />
+	<company symbol="HCSG" name="Healthcare Services Group, Inc." />
+	<company symbol="HDNG" name="Hardinge, Inc." />
+	<company symbol="HDSN" name="Hudson Technologies, Inc." />
+	<company symbol="HEAT" name="SmartHeat Inc." />
+	<company symbol="HEES" name="H&amp;E Equipment Services, Inc." />
+	<company symbol="HELE" name="Helen of Troy Limited" />
+	<company symbol="HEOP" name="Heritage Oaks Bancorp" />
+	<company symbol="HERO" name="Hercules Offshore, Inc." />
+	<company symbol="HEV" name="Ener1 Inc" />
+	<company symbol="HFBC" name="HopFed Bancorp, Inc." />
+	<company symbol="HFBL" name="Home Federal Bancorp, Inc. of Louisiana" />
+	<company symbol="HFFC" name="HF Financial Corp." />
+	<company symbol="HFWA" name="Heritage Financial Corporation" />
+	<company symbol="HGIC" name="Harleysville Group Inc." />
+	<company symbol="HGSH" name="China HGS Real Estate, Inc." />
+	<company symbol="HGSI" name="Human Genome Sciences, Inc." />
+	<company symbol="HHGP" name="Hudson Highland Group, Inc." />
+	<company symbol="HIBB" name="Hibbett Sports, Inc." />
+	<company symbol="HIFS" name="Hingham Institution for Savings" />
+	<company symbol="HIHO" name="Highway Holdings Limited" />
+	<company symbol="HILL" name="Dot Hill Systems Corporation" />
+	<company symbol="HIMX" name="Himax Technologies, Inc." />
+	<company symbol="HITK" name="Hi-Tech Pharmacal Co., Inc." />
+	<company symbol="HITT" name="Hittite Microwave Corporation" />
+	<company symbol="HLIT" name="Harmonic Inc." />
+	<company symbol="HLYS" name="Heelys, Inc." />
+	<company symbol="HMIN" name="Home Inns &amp; Hotels Management Inc." />
+	<company symbol="HMNF" name="HMN Financial, Inc." />
+	<company symbol="HMNY" name="Helios &amp; Matheson Information Technology Inc" />
+	<company symbol="HMPR" name="Hampton Roads Bankshares Inc" />
+	<company symbol="HMSY" name="HMS Holdings Corp" />
+	<company symbol="HNH" name="Handy &amp; Harman Ltd." />
+	<company symbol="HNRG" name="Hallador Energy Company" />
+	<company symbol="HNSN" name="Hansen Medical, Inc." />
+	<company symbol="HOFT" name="Hooker Furniture Corporation" />
+	<company symbol="HOGS" name="Zhongpin Inc." />
+	<company symbol="HOKU" name="Hoku Corporation" />
+	<company symbol="HOLI" name="Hollysys Automation Technologies, Ltd." />
+	<company symbol="HOLL" name="Hollywood Media Corp." />
+	<company symbol="HOLX" name="Hologic, Inc." />
+	<company symbol="HOMB" name="Home BancShares, Inc." />
+	<company symbol="HOME" name="Home Federal Bancorp, Inc." />
+	<company symbol="HOOK" name="Craft Brewers Alliance, Inc" />
+	<company symbol="HOTT" name="Hot Topic, Inc." />
+	<company symbol="HOVNP" name="Hovnanian Enterprises Inc" />
+	<company symbol="HPCCP" name="Huntington Preferred Capital, Inc." />
+	<company symbol="HPJ" name="Hong Kong Highpower Technology" />
+	<company symbol="HPOL" name="Harris Interactive, Inc." />
+	<company symbol="HRBN" name="Harbin Electric, Inc." />
+	<company symbol="HRZN" name="Horizon Technology Finance Corporation" />
+	<company symbol="HSFT" name="HiSoft Technology International Limited" />
+	<company symbol="HSIC" name="Henry Schein, Inc." />
+	<company symbol="HSII" name="Heidrick &amp; Struggles International, Inc." />
+	<company symbol="HSKA" name="Heska Corporation" />
+	<company symbol="HSNI" name="HSN, Inc." />
+	<company symbol="HSOL" name="Hanwha SolarOne Co., Ltd." />
+	<company symbol="HSTM" name="HealthStream, Inc." />
+	<company symbol="HSWI" name="HSW International, Inc." />
+	<company symbol="HTBK" name="Heritage Commerce Corp" />
+	<company symbol="HTCH" name="Hutchinson Technology Incorporated" />
+	<company symbol="HTCO" name="Hickory Tech Corporation" />
+	<company symbol="HTGC" name="Hercules Technology Growth Capital, Inc." />
+	<company symbol="HTHT" name="China Lodging Group, Limited" />
+	<company symbol="HTLD" name="Heartland Express, Inc." />
+	<company symbol="HTLF" name="Heartland Financial USA, Inc." />
+	<company symbol="HTWR" name="Heartware International, Inc." />
+	<company symbol="HUBG" name="Hub Group, Inc." />
+	<company symbol="HURC" name="Hurco Companies, Inc." />
+	<company symbol="HURN" name="Huron Consulting Group Inc." />
+	<company symbol="HWAY" name="Healthways, Inc." />
+	<company symbol="HWBK" name="Hawthorn Bancshares, Inc." />
+	<company symbol="HWCC" name="Houston Wire &amp; Cable Company" />
+	<company symbol="HWKN" name="Hawkins, Inc." />
+	<company symbol="HYGS" name="Hydrogenics Corporation" />
+	<company symbol="HZNP" name="Horizon Pharma, Inc." />
+	<company symbol="IACI" name="IAC/InterActiveCorp" />
+	<company symbol="IART" name="Integra LifeSciences Holdings Corporation" />
+	<company symbol="IBB" name="iShares NASDAQ Biotechnology Index Fund" />
+	<company symbol="IBCA" name="Intervest Bancshares Corp." />
+	<company symbol="IBCP" name="Independent Bank Corporation" />
+	<company symbol="IBCPO" name="Independent Bank Corporation" />
+	<company symbol="IBKC" name="IBERIABANK Corporation" />
+	<company symbol="IBKR" name="Interactive Brokers Group, Inc." />
+	<company symbol="IBOC" name="International Bancshares Corporation" />
+	<company symbol="ICAD" name="icad inc." />
+	<company symbol="ICCC" name="ImmuCell Corporation" />
+	<company symbol="ICFI" name="ICF International, Inc." />
+	<company symbol="ICGE" name="ICG Group, Inc." />
+	<company symbol="ICGN" name="Icagen, Inc." />
+	<company symbol="ICLK" name="interCLICK, Inc." />
+	<company symbol="ICLN" name="iShares S&amp;P Global Clean Energy Index Fund" />
+	<company symbol="ICLR" name="ICON plc" />
+	<company symbol="ICON" name="Iconix Brand Group, Inc." />
+	<company symbol="ICUI" name="ICU Medical, Inc." />
+	<company symbol="IDCC" name="InterDigital, Inc." />
+	<company symbol="IDIX" name="Idenix Pharmaceuticals, Inc." />
+	<company symbol="IDRA" name="Idera Pharmaceuticals, Inc." />
+	<company symbol="IDSA" name="Industrial Services of America, Inc." />
+	<company symbol="IDSY" name="I.D. Systems, Inc." />
+	<company symbol="IDTI" name="Integrated Device Technology, Inc." />
+	<company symbol="IDXX" name="IDEXX Laboratories, Inc." />
+	<company symbol="IESC" name="Integrated Electrical Services, Inc." />
+	<company symbol="IFAS" name="iShares FTSE EPRA/NAREIT Asia Index Fund" />
+	<company symbol="IFEU" name="iShares FTSE EPRA/NAREIT Europe Index Fund" />
+	<company symbol="IFGL" name="iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund" />
+	<company symbol="IFNA" name="iShares FTSE EPRA/NAREIT North America Index Fund" />
+	<company symbol="IFON" name="InfoSonics Corp" />
+	<company symbol="IFSIA" name="Interface, Inc." />
+	<company symbol="IFSM" name="iShares FTSE Developed Small Cap ex-North America Index Fund" />
+	<company symbol="IGLD" name="Internet Gold Golden Lines Ltd." />
+	<company symbol="IGOI" name="iGo, Inc" />
+	<company symbol="IGOV" name="iShares S&amp;P/Citigroup International Treasury Bond Fund" />
+	<company symbol="IGTE" name="iGATE Corporation" />
+	<company symbol="III" name="Information Services Group, Inc." />
+	<company symbol="IIIN" name="Insteel Industries, Inc." />
+	<company symbol="IIJI" name="Internet Initiative Japan, Inc." />
+	<company symbol="IILG" name="Interval Leisure Group, Inc." />
+	<company symbol="IIN" name="IntriCon Corporation" />
+	<company symbol="IIVI" name="II-VI Incorporated" />
+	<company symbol="IKAN" name="Ikanos Communications, Inc." />
+	<company symbol="IKNX" name="Ikonics Corporation" />
+	<company symbol="ILMN" name="Illumina, Inc." />
+	<company symbol="IMGN" name="ImmunoGen, Inc." />
+	<company symbol="IMKTA" name="Ingles Markets, Incorporated" />
+	<company symbol="IMMR" name="Immersion Corporation" />
+	<company symbol="IMMU" name="Immunomedics, Inc." />
+	<company symbol="IMOS" name="ChipMOS TECHNOLOGIES (Bermuda) LTD." />
+	<company symbol="IMRS" name="Imris Inc" />
+	<company symbol="INAP" name="Internap Network Services Corporation" />
+	<company symbol="INCB" name="Indiana Community Bancorp" />
+	<company symbol="INCY" name="Incyte Corporation" />
+	<company symbol="INDB" name="Independent Bank Corp." />
+	<company symbol="INDY" name="iShares S&amp;P India Nifty 50 Index Fund" />
+	<company symbol="INFA" name="Informatica Corporation" />
+	<company symbol="INFI" name="Infinity Pharmaceuticals, Inc." />
+	<company symbol="INFN" name="Infinera Corporation" />
+	<company symbol="INFY" name="Infosys Limited" />
+	<company symbol="INHX" name="Inhibitex, Inc." />
+	<company symbol="ININ" name="Interactive Intelligence Group, Inc." />
+	<company symbol="INMD" name="IntegraMed America, Inc." />
+	<company symbol="INOC" name="Innotrac Corporation" />
+	<company symbol="INOD" name="Innodata Isogen Inc" />
+	<company symbol="INPH" name="Interphase Corporation" />
+	<company symbol="INSM" name="Insmed, Inc." />
+	<company symbol="INSP" name="InfoSpace, Inc." />
+	<company symbol="INSU" name="Insituform Technologies, Inc." />
+	<company symbol="INSW" name="InsWeb Corporation" />
+	<company symbol="INTC" name="Intel Corporation" />
+	<company symbol="INTG" name="The Intergroup Corporation" />
+	<company symbol="INTL" name="INTL FCStone Inc." />
+	<company symbol="INTT" name="inTest Corporation" />
+	<company symbol="INTU" name="Intuit Inc." />
+	<company symbol="INTX" name="Intersections, Inc." />
+	<company symbol="INVE" name="Identive Group, Inc." />
+	<company symbol="INWK" name="InnerWorkings, Inc." />
+	<company symbol="IOSP" name="Innospec Inc." />
+	<company symbol="IPAR" name="Inter Parfums, Inc." />
+	<company symbol="IPAS" name="iPass Inc." />
+	<company symbol="IPCC" name="Infinity Property and Casualty Corporation" />
+	<company symbol="IPCI" name="Intellipharmaceutics International Inc." />
+	<company symbol="IPCM" name="IPC The Hospitalist Company, Inc." />
+	<company symbol="IPGP" name="IPG Photonics Corporation" />
+	<company symbol="IPHS" name="Innophos Holdings, Inc." />
+	<company symbol="IPSU" name="Imperial Sugar Company" />
+	<company symbol="IPXL" name="Impax Laboratories, Inc." />
+	<company symbol="IRBT" name="iRobot Corporation" />
+	<company symbol="IRDM" name="Iridium Communications Inc" />
+	<company symbol="IRDMU" name="Iridium Communications Inc" />
+	<company symbol="IRDMW" name="Iridium Communications Inc" />
+	<company symbol="IRDMZ" name="Iridium Communications Inc" />
+	<company symbol="IRET" name="Investors Real Estate Trust" />
+	<company symbol="IRETP" name="Investors Real Estate Trust" />
+	<company symbol="IRIS" name="IRIS International, Inc." />
+	<company symbol="IRIX" name="IRIDEX Corporation" />
+	<company symbol="IROQ" name="IF Bancorp, Inc." />
+	<company symbol="IRWD" name="Ironwood Pharmaceuticals, Inc." />
+	<company symbol="ISBC" name="Investors Bancorp, Inc." />
+	<company symbol="ISCA" name="International Speedway Corporation" />
+	<company symbol="ISHG" name="iShares S&amp;P/Citigroup 1-3 Year International Treasury Bond Fund" />
+	<company symbol="ISIG" name="Insignia Systems, Inc." />
+	<company symbol="ISIL" name="Intersil Corporation" />
+	<company symbol="ISIS" name="Isis Pharmaceuticals, Inc." />
+	<company symbol="ISLE" name="Isle of Capri Casinos, Inc." />
+	<company symbol="ISNS" name="Image Sensing Systems, Inc." />
+	<company symbol="ISRG" name="Intuitive Surgical, Inc." />
+	<company symbol="ISRL" name="Isramco, Inc." />
+	<company symbol="ISSC" name="Innovative Solutions and Support, Inc." />
+	<company symbol="ISSI" name="Integrated Silicon Solution, Inc." />
+	<company symbol="ISTA" name="ISTA Pharmaceuticals, Inc." />
+	<company symbol="ITIC" name="Investors Title Company" />
+	<company symbol="ITMN" name="InterMune, Inc." />
+	<company symbol="ITRI" name="Itron, Inc." />
+	<company symbol="ITRN" name="Ituran Location and Control Ltd." />
+	<company symbol="IVAC" name="Intevac, Inc." />
+	<company symbol="IVAN" name="Ivanhoe Energy, Inc." />
+	<company symbol="IXYS" name="IXYS Corporation" />
+	<company symbol="JACK" name="Jack In The Box Inc." />
+	<company symbol="JADE" name="LJ International, Inc." />
+	<company symbol="JAKK" name="JAKKS Pacific, Inc." />
+	<company symbol="JASO" name="JA Solar Holdings, Co., Ltd." />
+	<company symbol="JAX" name="J. Alexander&#39;s Corporation" />
+	<company symbol="JAXB" name="Jacksonville Bancorp, Inc." />
+	<company symbol="JAZZ" name="Jazz Pharmaceuticals, Inc." />
+	<company symbol="JBHT" name="J.B. Hunt Transport Services, Inc." />
+	<company symbol="JBLU" name="JetBlue Airways Corporation" />
+	<company symbol="JBSS" name="John B. Sanfilippo &amp; Son, Inc." />
+	<company symbol="JCDA" name="Jacada Ltd." />
+	<company symbol="JCOM" name="j2 Global Communications Inc" />
+	<company symbol="JCS" name="Communications Systems, Inc." />
+	<company symbol="JCTCF" name="Jewett-Cameron Trading Company" />
+	<company symbol="JDAS" name="JDA Software Group, Inc." />
+	<company symbol="JDSU" name="JDS Uniphase Corporation" />
+	<company symbol="JFBC" name="Jeffersonville Bancorp" />
+	<company symbol="JFBI" name="Jefferson Bancshares, Inc." />
+	<company symbol="JJSF" name="J &amp; J Snack Foods Corp." />
+	<company symbol="JKHY" name="Jack Henry &amp; Associates, Inc." />
+	<company symbol="JMBA" name="Jamba, Inc." />
+	<company symbol="JNGW" name="Jingwei International Limited" />
+	<company symbol="JOBS" name="51job, Inc." />
+	<company symbol="JOEZ" name="Joe&#39;s Jeans Inc." />
+	<company symbol="JOSB" name="Jos. A. Bank Clothiers, Inc." />
+	<company symbol="JOUT" name="Johnson Outdoors Inc." />
+	<company symbol="JOYG" name="Joy Global Inc." />
+	<company symbol="JRCC" name="James River Coal Company" />
+	<company symbol="JRJC" name="China Finance Online Co. Limited" />
+	<company symbol="JSDA" name="Jones Soda Co." />
+	<company symbol="JST" name="Jinpan International Limited" />
+	<company symbol="JVA" name="Coffee Holding Co., Inc." />
+	<company symbol="JXSB" name="Jacksonville Bancorp Inc." />
+	<company symbol="KALU" name="Kaiser Aluminum Corporation" />
+	<company symbol="KAMN" name="Kaman Corporation" />
+	<company symbol="KBALB" name="Kimball International, Inc." />
+	<company symbol="KCAP" name="Kohlberg Capital Corporation" />
+	<company symbol="KCLI" name="Kansas City Life Insurance Company" />
+	<company symbol="KELYA" name="Kelly Services, Inc." />
+	<company symbol="KELYB" name="Kelly Services, Inc." />
+	<company symbol="KENT" name="Kent Financial Services, Inc." />
+	<company symbol="KEQU" name="Kewaunee Scientific Corporation" />
+	<company symbol="KERX" name="Keryx Biopharmaceuticals, Inc." />
+	<company symbol="KEYN" name="Keynote Systems, Inc." />
+	<company symbol="KEYP" name="Keyuan Petrochemicals, Inc." />
+	<company symbol="KEYW" name="The KEYW Holding Corporation" />
+	<company symbol="KFFB" name="Kentucky First Federal Bancorp" />
+	<company symbol="KFFG" name="Kaiser Federal Financial Group, Inc." />
+	<company symbol="KFRC" name="Kforce, Inc." />
+	<company symbol="KGJI" name="Kingold Jewelry Inc." />
+	<company symbol="KINS" name="Kingstone Companies, Inc" />
+	<company symbol="KIOR" name="KiOR, Inc." />
+	<company symbol="KIPS" name="Kips Bay Medical, Inc." />
+	<company symbol="KIRK" name="Kirkland&#39;s, Inc." />
+	<company symbol="KITD" name="KIT digital, Inc." />
+	<company symbol="KLAC" name="KLA-Tencor Corporation" />
+	<company symbol="KLIC" name="Kulicke and Soffa Industries, Inc." />
+	<company symbol="KMGB" name="KMG Chemicals, Inc." />
+	<company symbol="KNDI" name="Kandi Technolgies, Corp." />
+	<company symbol="KNOL" name="Knology, Inc." />
+	<company symbol="KNSY" name="Kensey Nash Corporation" />
+	<company symbol="KNXA" name="Kenexa Corporation" />
+	<company symbol="KONA" name="Kona Grill, Inc." />
+	<company symbol="KONE" name="Kingtone Wirelessinfo Solution Holding Ltd" />
+	<company symbol="KONG" name="KongZhong Corporation" />
+	<company symbol="KOOL" name="THERMOGENESIS Corp." />
+	<company symbol="KOPN" name="Kopin Corporation" />
+	<company symbol="KOSS" name="Koss Corporation" />
+	<company symbol="KRNY" name="Kearny Financial" />
+	<company symbol="KSW" name="KSW Inc" />
+	<company symbol="KSWS" name="K-Swiss Inc." />
+	<company symbol="KTCC" name="Key Tronic Corporation" />
+	<company symbol="KTEC" name="Key Technology, Inc." />
+	<company symbol="KTOS" name="Kratos Defense &amp; Security Solutions, Inc." />
+	<company symbol="KUTV" name="Ku6 Media Co., Ltd." />
+	<company symbol="KVHI" name="KVH Industries, Inc." />
+	<company symbol="LABC" name="Louisiana Bancorp, Inc." />
+	<company symbol="LABL" name="Multi-Color Corporation" />
+	<company symbol="LACO" name="Lakes Entertainment, Inc." />
+	<company symbol="LAKE" name="Lakeland Industries, Inc." />
+	<company symbol="LAMR" name="Lamar Advertising Company" />
+	<company symbol="LANC" name="Lancaster Colony Corporation" />
+	<company symbol="LARK" name="Landmark Bancorp Inc." />
+	<company symbol="LAVA" name="Magma Design Automation, Inc." />
+	<company symbol="LAWS" name="Lawson Products, Inc." />
+	<company symbol="LAYN" name="Layne Christensen Company" />
+	<company symbol="LBAI" name="Lakeland Bancorp, Inc." />
+	<company symbol="LBIX" name="Leading Brands Inc" />
+	<company symbol="LBTYA" name="Liberty Global, Inc." />
+	<company symbol="LBTYB" name="Liberty Global, Inc." />
+	<company symbol="LBTYK" name="Liberty Global, Inc." />
+	<company symbol="LCAPA" name="Liberty Media Corporation" />
+	<company symbol="LCAPB" name="Liberty Media Corporation" />
+	<company symbol="LCAV" name="LCA-Vision Inc." />
+	<company symbol="LCRY" name="LeCroy Corporation" />
+	<company symbol="LCUT" name="Lifetime Brands, Inc." />
+	<company symbol="LEAP" name="Leap Wireless International, Inc." />
+	<company symbol="LECO" name="Lincoln Electric Holdings, Inc." />
+	<company symbol="LEDR" name="Market Leader, Inc" />
+	<company symbol="LEDS" name="SemiLEDS Corporation" />
+	<company symbol="LFUS" name="Littelfuse, Inc." />
+	<company symbol="LGCY" name="Legacy Reserves LP" />
+	<company symbol="LGND" name="Ligand Pharmaceuticals Incorporated" />
+	<company symbol="LHCG" name="LHC Group" />
+	<company symbol="LIFE" name="Life Technologies Corporation" />
+	<company symbol="LIME" name="lime energy co." />
+	<company symbol="LINC" name="Lincoln Educational Services Corporation" />
+	<company symbol="LINE" name="Linn Energy, LLC" />
+	<company symbol="LINTA" name="Liberty Media Corporation" />
+	<company symbol="LINTB" name="Liberty Media Corporation" />
+	<company symbol="LION" name="Fidelity Southern Corporation" />
+	<company symbol="LIOX" name="Lionbridge Technologies, Inc." />
+	<company symbol="LIVE" name="LiveDeal, Inc." />
+	<company symbol="LIWA" name="Lihua International, Inc." />
+	<company symbol="LKFN" name="Lakeland Financial Corporation" />
+	<company symbol="LKQX" name="LKQ Corporation" />
+	<company symbol="LLEN" name="L&amp;L Energy, Inc." />
+	<company symbol="LLNW" name="Limelight Networks, Inc." />
+	<company symbol="LLTC" name="Linear Technology Corporation" />
+	<company symbol="LMAT" name="LeMaitre Vascular, Inc." />
+	<company symbol="LMIA" name="LMI Aerospace, Inc." />
+	<company symbol="LMLP" name="LML Payment Systems, Inc." />
+	<company symbol="LMNR" name="Limoneira Co" />
+	<company symbol="LMNX" name="Luminex Corporation" />
+	<company symbol="LNBB" name="LNB Bancorp, Inc." />
+	<company symbol="LNCE" name="Lance, Inc." />
+	<company symbol="LNCR" name="Lincare Holdings Inc." />
+	<company symbol="LNDC" name="Landec Corporation" />
+	<company symbol="LNET" name="LodgeNet Interactive Corporation" />
+	<company symbol="LOAN" name="Manhattan Bridge Capital, Inc" />
+	<company symbol="LOCM" name="Local.com Corporation" />
+	<company symbol="LOGI" name="Logitech International S.A." />
+	<company symbol="LOGM" name="LogMein, Inc." />
+	<company symbol="LOJN" name="LoJack Corporation" />
+	<company symbol="LONG" name="eLong, Inc." />
+	<company symbol="LOOK" name="LookSmart, Ltd." />
+	<company symbol="LOOP" name="LoopNet, Inc." />
+	<company symbol="LOPE" name="Grand Canyon Education, Inc." />
+	<company symbol="LORL" name="Loral Space and Communications, Inc." />
+	<company symbol="LPHI" name="Life Partners Holdings Inc" />
+	<company symbol="LPLA" name="LPL Investment Holdings Inc." />
+	<company symbol="LPNT" name="LifePoint Hospitals, Inc." />
+	<company symbol="LPSB" name="LaPorte Bancorp, Inc." />
+	<company symbol="LPSN" name="LivePerson, Inc." />
+	<company symbol="LPTH" name="LightPath Technologies, Inc." />
+	<company symbol="LQDT" name="Liquidity Services, Inc." />
+	<company symbol="LRAD" name="LRAD Corporation" />
+	<company symbol="LRCX" name="Lam Research Corporation" />
+	<company symbol="LSBI" name="LSB Financial Corp." />
+	<company symbol="LSBK" name="Lake Shore Bancorp, Inc." />
+	<company symbol="LSCC" name="Lattice Semiconductor Corporation" />
+	<company symbol="LSTR" name="Landstar System, Inc." />
+	<company symbol="LSTZA" name="Liberty Media Corporation" />
+	<company symbol="LSTZB" name="Liberty Media Corporation" />
+	<company symbol="LTBR" name="Lightbridge Corporation" />
+	<company symbol="LTON" name="Linktone Ltd." />
+	<company symbol="LTRE" name="Learning Tree International, Inc." />
+	<company symbol="LTRX" name="Lantronix, Inc." />
+	<company symbol="LTXC" name="LTX-Credence Corporation" />
+	<company symbol="LUFK" name="Lufkin Industries, Inc." />
+	<company symbol="LULU" name="lululemon athletica inc." />
+	<company symbol="LUNA" name="Luna Innovations Incorporated" />
+	<company symbol="LVLT" name="Level 3 Communications, Inc." />
+	<company symbol="LWAY" name="Lifeway Foods, Inc." />
+	<company symbol="LXRX" name="Lexicon Pharmaceuticals, Inc." />
+	<company symbol="LYTS" name="LSI Industries Inc." />
+	<company symbol="LZEN" name="Lizhan Environmental Corporation" />
+	<company symbol="MAGS" name="Magal Security Systems Ltd." />
+	<company symbol="MAIL" name="IncrediMail Ltd." />
+	<company symbol="MAKO" name="MAKO Surgical Corp." />
+	<company symbol="MALL" name="PC Mall, Inc." />
+	<company symbol="MANH" name="Manhattan Associates, Inc." />
+	<company symbol="MANT" name="ManTech International Corporation" />
+	<company symbol="MAPP" name="MAP Pharmaceuticals, Inc." />
+	<company symbol="MARPS" name="Marine Petroleum Trust" />
+	<company symbol="MASC" name="Material Sciences Corporation" />
+	<company symbol="MASI" name="Masimo Corporation" />
+	<company symbol="MAT" name="Mattel, Inc." />
+	<company symbol="MATR" name="Mattersight Corporation" />
+	<company symbol="MATW" name="Matthews International Corporation" />
+	<company symbol="MAXY" name="Maxygen, Inc." />
+	<company symbol="MAYS" name="J. W. Mays, Inc." />
+	<company symbol="MBFI" name="MB Financial Inc." />
+	<company symbol="MBLX" name="Metabolix, Inc." />
+	<company symbol="MBND" name="Multiband Corporation" />
+	<company symbol="MBRG" name="Middleburg Financial Corporation" />
+	<company symbol="MBTF" name="M B T Financial Corp" />
+	<company symbol="MBVT" name="Merchants Bancshares, Inc." />
+	<company symbol="MBWM" name="Mercantile Bank Corporation" />
+	<company symbol="MCBC" name="Macatawa Bank Corporation" />
+	<company symbol="MCBF" name="Monarch Community Bancorp, Inc." />
+	<company symbol="MCBI" name="MetroCorp Bancshares, Inc." />
+	<company symbol="MCGC" name="MCG Capital Corporation" />
+	<company symbol="MCHP" name="Microchip Technology Incorporated" />
+	<company symbol="MCHX" name="Marchex, Inc." />
+	<company symbol="MCOX" name="Mecox Lane Limited" />
+	<company symbol="MCRI" name="Monarch Casino &amp; Resort, Inc." />
+	<company symbol="MCRL" name="Micrel, Incorporated" />
+	<company symbol="MCRS" name="MICROS Systems, Inc." />
+	<company symbol="MDAS" name="MedAssets, Inc." />
+	<company symbol="MDCA" name="MDC Partners Inc." />
+	<company symbol="MDCI" name="Medical Action Industries Inc." />
+	<company symbol="MDCO" name="The Medicines Company" />
+	<company symbol="MDH" name="MHI Hospitality Corporation" />
+	<company symbol="MDRX" name="Allscripts Healthcare Solutions, Inc." />
+	<company symbol="MDSO" name="Medidata Solutions, Inc." />
+	<company symbol="MDTH" name="MedCath Corporation" />
+	<company symbol="MDVN" name="Medivation, Inc." />
+	<company symbol="MEAD" name="Meade Instruments Corp." />
+	<company symbol="MEAS" name="Measurement Specialties, Inc." />
+	<company symbol="MEDH" name="MedQuist Holdings Inc." />
+	<company symbol="MEDW" name="MEDIWARE Information Systems, Inc." />
+	<company symbol="MELA" name="MELA Sciences, Inc" />
+	<company symbol="MELI" name="MercadoLibre, Inc." />
+	<company symbol="MEMS" name="MEMSIC, Inc." />
+	<company symbol="MENT" name="Mentor Graphics Corporation" />
+	<company symbol="MEOH" name="Methanex Corporation" />
+	<company symbol="MERC" name="Mercer International Inc." />
+	<company symbol="MERR" name="Merriman Holdings, Inc." />
+	<company symbol="MERU" name="Meru Networks, Inc." />
+	<company symbol="METR" name="Metro Bancorp, Inc" />
+	<company symbol="MFI" name="MicroFinancial Incorporated" />
+	<company symbol="MFLR" name="Mayflower Bancorp, Inc." />
+	<company symbol="MFLX" name="Multi-Fineline Electronix, Inc." />
+	<company symbol="MFNC" name="Mackinac Financial Corporation" />
+	<company symbol="MFRI" name="MFRI, Inc." />
+	<company symbol="MFSF" name="MutualFirst Financial Inc." />
+	<company symbol="MGAM" name="Multimedia Games Holding Company, Inc." />
+	<company symbol="MGEE" name="MGE Energy Inc." />
+	<company symbol="MGIC" name="Magic Software Enterprises Ltd." />
+	<company symbol="MGLN" name="Magellan Health Services, Inc." />
+	<company symbol="MGPI" name="MGP Ingredients, Inc." />
+	<company symbol="MGRC" name="McGrath RentCorp" />
+	<company symbol="MGYR" name="Magyar Bancorp, Inc." />
+	<company symbol="MHGC" name="Morgans Hotel Group Co." />
+	<company symbol="MHLD" name="Maiden Holdings, Ltd." />
+	<company symbol="MIDD" name="The Middleby Corporation" />
+	<company symbol="MIND" name="Mitcham Industries, Inc." />
+	<company symbol="MINI" name="Mobile Mini, Inc." />
+	<company symbol="MIPS" name="MIPS Technologies, Inc." />
+	<company symbol="MITI" name="Micromet, Inc." />
+	<company symbol="MITK" name="Mitek Systems, Inc." />
+	<company symbol="MITL" name="Mitel Networks Corporation" />
+	<company symbol="MKSI" name="MKS Instruments, Inc." />
+	<company symbol="MKTAY" name="Makita Corp." />
+	<company symbol="MKTG" name="Responsys, Inc." />
+	<company symbol="MKTX" name="MarketAxess Holdings, Inc." />
+	<company symbol="MLAB" name="Mesa Laboratories, Inc." />
+	<company symbol="MLHR" name="Herman Miller, Inc." />
+	<company symbol="MLNK" name="ModusLink Global Solutions, Inc" />
+	<company symbol="MLNX" name="Mellanox Technologies, Ltd." />
+	<company symbol="MLVF" name="Malvern Federal Bancorp, Inc." />
+	<company symbol="MMLP" name="Martin Midstream Partners L.P." />
+	<company symbol="MMSI" name="Merit Medical Systems, Inc." />
+	<company symbol="MMUS" name="MakeMusic, Inc." />
+	<company symbol="MMYT" name="MakeMyTrip Limited" />
+	<company symbol="MNDO" name="MIND C.T.I. Ltd." />
+	<company symbol="MNEL" name="Mission NewEnergy Limited" />
+	<company symbol="MNGL" name="Blue Wolf Mongolia Holdings Corp." />
+	<company symbol="MNGLU" name="Blue Wolf Mongolia Holdings Corp." />
+	<company symbol="MNGLW" name="Blue Wolf Mongolia Holdings Corp." />
+	<company symbol="MNKD" name="MannKind Corporation" />
+	<company symbol="MNOV" name="MediciNova, Inc." />
+	<company symbol="MNRK" name="Monarch Financial Holdings, Inc." />
+	<company symbol="MNRKP" name="Monarch Financial Holdings, Inc." />
+	<company symbol="MNRO" name="Monro Muffler Brake, Inc." />
+	<company symbol="MNTA" name="Momenta Pharmaceuticals, Inc." />
+	<company symbol="MNTG" name="MTR Gaming Group, Inc." />
+	<company symbol="MNTX" name="Manitex International, Inc." />
+	<company symbol="MOBI" name="Sky-mobi Limited" />
+	<company symbol="MOCO" name="MOCON, Inc." />
+	<company symbol="MOFG" name="MidWestOne Financial Group, Inc." />
+	<company symbol="MOLX" name="Molex Incorporated" />
+	<company symbol="MOLXA" name="Molex Incorporated" />
+	<company symbol="MORN" name="Morningstar, Inc." />
+	<company symbol="MOSY" name="MoSys, Inc." />
+	<company symbol="MOTR" name="Motricity, Inc." />
+	<company symbol="MOVE" name="Move, Inc." />
+	<company symbol="MPAA" name="Motorcar Parts of America, Inc." />
+	<company symbol="MPAC" name="MOD-PAC CORP." />
+	<company symbol="MPB" name="Mid Penn Bancorp" />
+	<company symbol="MPEL" name="Melco Crown Entertainment Limited" />
+	<company symbol="MPET" name="Magellan Petroleum Corporation" />
+	<company symbol="MPWR" name="Monolithic Power Systems, Inc." />
+	<company symbol="MRCY" name="Mercury Computer Systems" />
+	<company symbol="MRGE" name="Merge Healthcare Incorporated." />
+	<company symbol="MRLN" name="Marlin Business Services Corp." />
+	<company symbol="MRNA" name="Marina Biotech, Inc." />
+	<company symbol="MRTN" name="Marten Transport, Ltd." />
+	<company symbol="MRVL" name="Marvell Technology Group Ltd." />
+	<company symbol="MSBF" name="MSB Financial Corp." />
+	<company symbol="MSCC" name="Microsemi Corporation" />
+	<company symbol="MSDXP" name="BB&amp;T Corporation" />
+	<company symbol="MSEX" name="Middlesex Water Company" />
+	<company symbol="MSFG" name="MainSource Financial Group, Inc." />
+	<company symbol="MSFT" name="Microsoft Corporation" />
+	<company symbol="MSG" name="The Madison Square Garden Company" />
+	<company symbol="MSHL" name="Marshall Edwards, Inc." />
+	<company symbol="MSON" name="MISONIX, Inc." />
+	<company symbol="MSPD" name="Mindspeed Technologies, Inc." />
+	<company symbol="MSSR" name="McCormick &amp; Schmick&#39;s Seafood Restaurants, Inc." />
+	<company symbol="MSTR" name="MicroStrategy Incorporated" />
+	<company symbol="MSW" name="Mission West Properties, Inc." />
+	<company symbol="MTEX" name="Mannatech, Incorporated" />
+	<company symbol="MTGE" name="American Capital Mortgage Investment Corp." />
+	<company symbol="MTOX" name="Medtox Scientific, Inc." />
+	<company symbol="MTRX" name="Matrix Service Company" />
+	<company symbol="MTSC" name="MTS Systems Corporation" />
+	<company symbol="MTSL" name="MER Telemanagement Solutions Ltd." />
+	<company symbol="MTSN" name="Mattson Technology, Inc." />
+	<company symbol="MTTX" name="Merrill Lynch &amp; Co., Inc." />
+	<company symbol="MU" name="Micron Technology, Inc." />
+	<company symbol="MVIS" name="Microvision, Inc." />
+	<company symbol="MVISW" name="Microvision, Inc." />
+	<company symbol="MWIV" name="MWI Veterinary Supply, Inc." />
+	<company symbol="MXIM" name="Maxim Integrated Products, Inc." />
+	<company symbol="MXWL" name="Maxwell Technologies, Inc." />
+	<company symbol="MYGN" name="Myriad Genetics, Inc." />
+	<company symbol="MYL" name="Mylan Inc." />
+	<company symbol="MYRG" name="MYR Group, Inc." />
+	<company symbol="MYRX" name="Myrexis, Inc" />
+	<company symbol="NABI" name="Nabi Biopharmaceuticals" />
+	<company symbol="NAFC" name="Nash-Finch Company" />
+	<company symbol="NAII" name="Natural Alternatives International, Inc." />
+	<company symbol="NANO" name="Nanometrics Incorporated" />
+	<company symbol="NANX" name="Nanophase Technologies Corporation" />
+	<company symbol="NARA" name="Nara Bancorp, Inc." />
+	<company symbol="NASB" name="NASB Financial Inc." />
+	<company symbol="NATH" name="Nathan&#39;s Famous, Inc." />
+	<company symbol="NATI" name="National Instruments Corporation" />
+	<company symbol="NATL" name="National Interstate Corporation" />
+	<company symbol="NATR" name="Nature&#39;s Sunshine Products, Inc." />
+	<company symbol="NAUH" name="National American University Holdings, Inc." />
+	<company symbol="NAVG" name="The Navigators Group, Inc." />
+	<company symbol="NAVR" name="Navarre Corporation" />
+	<company symbol="NBBC" name="NewBridge Bancorp" />
+	<company symbol="NBIX" name="Neurocrine Biosciences, Inc." />
+	<company symbol="NBN" name="Northeast Bancorp" />
+	<company symbol="NBTB" name="NBT Bancorp Inc." />
+	<company symbol="NBTF" name="NB&amp;T FINANCIAL GROUP INC" />
+	<company symbol="NBXH" name="Morgan Stanley" />
+	<company symbol="NCBC" name="New Century Bancorp, Inc. (NC)" />
+	<company symbol="NCIT" name="NCI, Inc." />
+	<company symbol="NCMI" name="National CineMedia, Inc." />
+	<company symbol="NCTY" name="The9 Limited" />
+	<company symbol="NDAQ" name="The NASDAQ OMX Group, Inc." />
+	<company symbol="NDSN" name="Nordson Corporation" />
+	<company symbol="NEBS" name="New England Bancshares, Inc." />
+	<company symbol="NECB" name="Northeast Community Bancorp, Inc." />
+	<company symbol="NEI" name="Network Engines, Inc" />
+	<company symbol="NEOG" name="Neogen Corporation" />
+	<company symbol="NEPT" name="Neptune Technologies &amp; Bioresources Inc" />
+	<company symbol="NETC" name="NET Servicos de Comunicacao S.A." />
+	<company symbol="NETL" name="NetLogic Microsystems, Inc." />
+	<company symbol="NEWL" name="NewLead Holdings Ltd." />
+	<company symbol="NEWP" name="Newport Corporation" />
+	<company symbol="NEWS" name="NewStar Financial, Inc." />
+	<company symbol="NEWT" name="Newtek Business Services Inc." />
+	<company symbol="NEXS" name="Nexxus Lighting, Inc." />
+	<company symbol="NFBK" name="Northfield Bancorp, Inc." />
+	<company symbol="NFEC" name="NF Energy Saving Corporation" />
+	<company symbol="NFLX" name="Netflix, Inc." />
+	<company symbol="NFSB" name="Newport Bancorp, Inc." />
+	<company symbol="NGPC" name="NGP Capital Resources Company" />
+	<company symbol="NGSX" name="NeurogesX, Inc." />
+	<company symbol="NHTB" name="New Hampshire Thrift Bancshares, Inc." />
+	<company symbol="NICE" name="NICE-Systems Limited" />
+	<company symbol="NICK" name="Nicholas Financial, Inc." />
+	<company symbol="NIHD" name="NII Holdings, Inc." />
+	<company symbol="NILE" name="Blue Nile, Inc." />
+	<company symbol="NINE" name="Ninetowns Internet Technology Group Company Limited" />
+	<company symbol="NKBP" name="China Nuokang Bio-Pharmaceutical Inc." />
+	<company symbol="NKSH" name="National Bankshares, Inc." />
+	<company symbol="NKTR" name="Nektar Therapeutics" />
+	<company symbol="NLST" name="Netlist, Inc." />
+	<company symbol="NMARU" name="Nautilus Marine Acquisition Corp." />
+	<company symbol="NMRX" name="Numerex Corp." />
+	<company symbol="NNBR" name="NN, Inc." />
+	<company symbol="NOBH" name="Nobility Homes, Inc." />
+	<company symbol="NOIZ" name="Micronetics, Inc." />
+	<company symbol="NOOF" name="New Frontier Media, Inc." />
+	<company symbol="NOVB" name="North Valley Bancorp" />
+	<company symbol="NPBC" name="National Penn Bancshares, Inc." />
+	<company symbol="NPBCO" name="National Penn Bancshares, Inc." />
+	<company symbol="NPSP" name="NPS Pharmaceuticals, Inc." />
+	<company symbol="NRCI" name="National Research Corporation" />
+	<company symbol="NRIM" name="Northrim BanCorp Inc" />
+	<company symbol="NSEC" name="National Security Group, Inc." />
+	<company symbol="NSFC" name="Northern States Financial Corporation" />
+	<company symbol="NSIT" name="Insight Enterprises, Inc." />
+	<company symbol="NSPH" name="Nanosphere, Inc." />
+	<company symbol="NSSC" name="NAPCO Security Technologies, Inc." />
+	<company symbol="NSTC" name="Ness Technologies, Inc." />
+	<company symbol="NSYS" name="Nortech Systems Incorporated" />
+	<company symbol="NTAP" name="NetApp, Inc." />
+	<company symbol="NTCT" name="NetScout Systems, Inc." />
+	<company symbol="NTES" name="Netease.com, Inc." />
+	<company symbol="NTGR" name="NETGEAR, Inc." />
+	<company symbol="NTIC" name="Northern Technologies International Corporation" />
+	<company symbol="NTLS" name="NTELOS Holdings Corp." />
+	<company symbol="NTRI" name="NutriSystem Inc" />
+	<company symbol="NTRS" name="Northern Trust Corporation" />
+	<company symbol="NTSC" name="National Technical Systems, Inc." />
+	<company symbol="NTSP" name="NetSpend Holdings, Inc." />
+	<company symbol="NTWK" name="NetSol Technologies Inc." />
+	<company symbol="NUAN" name="Nuance Communications, Inc." />
+	<company symbol="NUCL" name="iShares S&amp;P Global Nuclear Index Fund" />
+	<company symbol="NURO" name="NeuroMetrix, Inc." />
+	<company symbol="NUTR" name="Nutraceutical International Corporation" />
+	<company symbol="NUVA" name="NuVasive, Inc." />
+	<company symbol="NVAX" name="Novavax, Inc." />
+	<company symbol="NVDA" name="NVIDIA Corporation" />
+	<company symbol="NVEC" name="NVE Corporation" />
+	<company symbol="NVGN" name="Novogen Limited" />
+	<company symbol="NVLS" name="Novellus Systems, Inc." />
+	<company symbol="NVMI" name="Nova Measuring Instruments Ltd." />
+	<company symbol="NVSL" name="Naugatuck Valley Financial Corporation" />
+	<company symbol="NVTL" name="Novatel Wireless, Inc." />
+	<company symbol="NWBI" name="Northwest Bancshares, Inc." />
+	<company symbol="NWFL" name="Norwood Financial Corp." />
+	<company symbol="NWK" name="Network Equipment Technologies, Inc." />
+	<company symbol="NWLI" name="National Western Life Insurance Company" />
+	<company symbol="NWPX" name="Northwest Pipe Company" />
+	<company symbol="NWS" name="News Corporation" />
+	<company symbol="NWSA" name="News Corporation" />
+	<company symbol="NXPI" name="NXP Semiconductors N.V." />
+	<company symbol="NXST" name="Nexstar Broadcasting Group, Inc." />
+	<company symbol="NXTM" name="NxStage Medical, Inc." />
+	<company symbol="NYMT" name="New York Mortgage Trust, Inc." />
+	<company symbol="NYMX" name="Nymox Pharmaceutical Corporation" />
+	<company symbol="NYNY" name="Empire Resorts, Inc." />
+	<company symbol="OABC" name="OmniAmerican Bancorp, Inc." />
+	<company symbol="OBAF" name="OBA Financial Services, Inc." />
+	<company symbol="OBAS" name="Optibase Ltd." />
+	<company symbol="OBCI" name="Ocean Bio-Chem, Inc." />
+	<company symbol="OCC" name="Optical Cable Corporation" />
+	<company symbol="OCFC" name="OceanFirst Financial Corp." />
+	<company symbol="OCLR" name="Oclaro, Inc." />
+	<company symbol="OCLS" name="Oculus Innovative Sciences, Inc." />
+	<company symbol="OCNF" name="OceanFreight Inc." />
+	<company symbol="OCZ" name="OCZ Technology Group Inc" />
+	<company symbol="ODFL" name="Old Dominion Freight Line, Inc." />
+	<company symbol="OFED" name="Oconee Federal Financial Corp." />
+	<company symbol="OFIX" name="Orthofix International N.V." />
+	<company symbol="OFLX" name="Omega Flex, Inc." />
+	<company symbol="OGXI" name="OncoGenex Pharmaceuticals Inc." />
+	<company symbol="OIIM" name="O2Micro International Limited" />
+	<company symbol="OINK" name="Tianli Agritech, Inc." />
+	<company symbol="OKSB" name="Southwest Bancorp, Inc." />
+	<company symbol="OKSBP" name="Southwest Bancorp, Inc." />
+	<company symbol="OLBK" name="Old Line Bancshares, Inc." />
+	<company symbol="OLCB" name="Ohio Legacy Corporation" />
+	<company symbol="OMAB" name="Grupo Aeroportuario del Centro Norte S.A.B. de C.V." />
+	<company symbol="OMCL" name="Omnicell, Inc." />
+	<company symbol="OMER" name="Omeros Corporation" />
+	<company symbol="OMEX" name="Odyssey Marine Exploration, Inc." />
+	<company symbol="OMPI" name="Obagi Medical Products, Inc." />
+	<company symbol="ONCY" name="Oncolytics Biotech, Inc." />
+	<company symbol="ONEQ" name="Fidelity Nasdaq Composite Index Tracking Stock" />
+	<company symbol="ONFC" name="Oneida Financial Corp." />
+	<company symbol="ONNN" name="ON Semiconductor Corporation" />
+	<company symbol="ONSM" name="Onstream Media Corporation" />
+	<company symbol="ONTY" name="Oncothyreon Inc ." />
+	<company symbol="ONVI" name="Onvia, Inc." />
+	<company symbol="ONXX" name="ONYX Pharmaceuticals, Inc." />
+	<company symbol="OPEN" name="OpenTable, Inc." />
+	<company symbol="OPHC" name="OptimumBank Holdings, Inc." />
+	<company symbol="OPLK" name="Oplink Communications, Inc." />
+	<company symbol="OPNT" name="OPNET Technologies Inc." />
+	<company symbol="OPOF" name="Old Point Financial Corporation" />
+	<company symbol="OPTR" name="Optimer Pharmaceuticals, Inc." />
+	<company symbol="OPTT" name="Ocean Power Technologies, Inc." />
+	<company symbol="OPWV" name="Openwave Systems Inc" />
+	<company symbol="OPXA" name="Opexa Therapeutics, Inc." />
+	<company symbol="OPXAW" name="Opexa Therapeutics, Inc." />
+	<company symbol="OPXT" name="Opnext, Inc." />
+	<company symbol="ORBC" name="ORBCOMM Inc." />
+	<company symbol="ORBK" name="Orbotech Ltd." />
+	<company symbol="ORBT" name="Orbit International Corporation" />
+	<company symbol="ORCC" name="Online Resources Corporation" />
+	<company symbol="ORCH" name="Orchid Cellmark Inc." />
+	<company symbol="ORCL" name="Oracle Corporation" />
+	<company symbol="ORCT" name="Orckit Communications, Limited" />
+	<company symbol="OREX" name="Orexigen Therapeutics, Inc." />
+	<company symbol="ORIT" name="Oritani Financial Corp." />
+	<company symbol="ORLY" name="O&#39;Reilly Automotive, Inc." />
+	<company symbol="ORRF" name="Orrstown Financial Services Inc" />
+	<company symbol="OSBC" name="Old Second Bancorp, Inc." />
+	<company symbol="OSBCP" name="Old Second Bancorp, Inc." />
+	<company symbol="OSHC" name="Ocean Shore Holding Co." />
+	<company symbol="OSIR" name="Osiris Therapeutics, Inc." />
+	<company symbol="OSIS" name="OSI Systems, Inc." />
+	<company symbol="OSN" name="Ossen Innovation Co., Ltd." />
+	<company symbol="OSTK" name="Overstock.com, Inc." />
+	<company symbol="OSUR" name="OraSure Technologies, Inc." />
+	<company symbol="OTEX" name="Open Text Corporation" />
+	<company symbol="OTIV" name="On Track Innovations Ltd" />
+	<company symbol="OTT" name="Otelco, Inc." />
+	<company symbol="OTTR" name="Otter Tail Corporation" />
+	<company symbol="OUTD" name="Outdoor Channel Holdings, Inc." />
+	<company symbol="OVBC" name="Ohio Valley Banc Corp." />
+	<company symbol="OVLY" name="Oak Valley Bancorp (CA)" />
+	<company symbol="OVRL" name="Overland Storage, Inc." />
+	<company symbol="OVTI" name="OmniVision Technologies, Inc." />
+	<company symbol="OXBT" name="Oxygen Biotherapeutics, Inc." />
+	<company symbol="OXGN" name="OXiGENE, Inc." />
+	<company symbol="OXLC" name="Oxford Lane Capital Corp." />
+	<company symbol="OXLCR" name="Oxford Lane Capital Corp." />
+	<company symbol="OXPS" name="optionsXpress Holdings, Inc." />
+	<company symbol="OYOG" name="OYO Geospace Corporation" />
+	<company symbol="OZRK" name="Bank of the Ozarks" />
+	<company symbol="PAAS" name="Pan American Silver Corp." />
+	<company symbol="PACB" name="Pacific Biosciences of California, Inc." />
+	<company symbol="PACQ" name="Prime Acquisition Corp." />
+	<company symbol="PACQU" name="Prime Acquisition Corp." />
+	<company symbol="PACQW" name="Prime Acquisition Corp." />
+	<company symbol="PACR" name="Pacer International, Inc." />
+	<company symbol="PACW" name="PacWest Bancorp" />
+	<company symbol="PAET" name="PAETEC Holding Corp." />
+	<company symbol="PAGG" name="PowerShares Global Agriculture Portfolio" />
+	<company symbol="PANL" name="Universal Display Corporation" />
+	<company symbol="PARD" name="Poniard Pharmaceuticals, Inc." />
+	<company symbol="PARL" name="Parlux Fragrances, Inc." />
+	<company symbol="PATH" name="NuPathe Inc." />
+	<company symbol="PATK" name="Patrick Industries, Inc." />
+	<company symbol="PATR" name="Patriot Transportation Holding, Inc." />
+	<company symbol="PAYX" name="Paychex, Inc." />
+	<company symbol="PBCT" name="People&#39;s United Financial, Inc." />
+	<company symbol="PBHC" name="Pathfinder Bancorp, Inc." />
+	<company symbol="PBIB" name="Porter Bancorp, Inc." />
+	<company symbol="PBIO" name="Pressure BioSciences, Inc." />
+	<company symbol="PBIP" name="Prudential Bancorp, Inc. of Pennsylvania" />
+	<company symbol="PBNY" name="Provident New York Bancorp" />
+	<company symbol="PCAR" name="PACCAR Inc." />
+	<company symbol="PCBC" name="Pacific Capital Bancorp" />
+	<company symbol="PCBK" name="Pacific Continental Corporation (Ore)" />
+	<company symbol="PCBS" name="Provident Community Bancshares, Inc." />
+	<company symbol="PCCC" name="PC Connection, Inc." />
+	<company symbol="PCH" name="Potlatch Corporation" />
+	<company symbol="PCLN" name="priceline.com Incorporated" />
+	<company symbol="PCO" name="Pendrell Corporation" />
+	<company symbol="PCOM" name="Points International, Ltd." />
+	<company symbol="PCRX" name="Pacira Pharmaceuticals, Inc." />
+	<company symbol="PCTI" name="PC-Tel, Inc." />
+	<company symbol="PCYC" name="Pharmacyclics, Inc." />
+	<company symbol="PCYO" name="Pure Cycle Corporation" />
+	<company symbol="PDCO" name="Patterson Companies Inc." />
+	<company symbol="PDEX" name="Pro-Dex, Inc." />
+	<company symbol="PDFS" name="PDF Solutions, Inc." />
+	<company symbol="PDII" name="PDI, Inc." />
+	<company symbol="PDLI" name="PDL BioPharma, Inc." />
+	<company symbol="PEBK" name="Peoples Bancorp of North Carolina, Inc." />
+	<company symbol="PEBO" name="Peoples Bancorp Inc." />
+	<company symbol="PEDH" name="Peoples Educational Holdings, Inc." />
+	<company symbol="PEET" name="Peet&#39;s Coffee &amp; Tea, Inc." />
+	<company symbol="PEGA" name="Pegasystems Inc." />
+	<company symbol="PEIX" name="Pacific Ethanol, Inc." />
+	<company symbol="PENN" name="Penn National Gaming, Inc." />
+	<company symbol="PENX" name="Penford Corporation" />
+	<company symbol="PEOP" name="Peoples Federal Bancshares, Inc." />
+	<company symbol="PERF" name="Perfumania Holdings, Inc" />
+	<company symbol="PERY" name="Perry Ellis International Inc." />
+	<company symbol="PESI" name="Perma-Fix Environmental Services, Inc." />
+	<company symbol="PETD" name="Petroleum Development Corporation" />
+	<company symbol="PETM" name="PetSmart, Inc" />
+	<company symbol="PETS" name="PetMed Express, Inc." />
+	<company symbol="PFBC" name="Preferred Bank" />
+	<company symbol="PFBI" name="Premier Financial Bancorp, Inc." />
+	<company symbol="PFBX" name="Peoples Financial Corporation" />
+	<company symbol="PFCB" name="P.F.Chang&#39;s China Bistro, Inc." />
+	<company symbol="PFED" name="Park Bancorp, Inc." />
+	<company symbol="PFIN" name="P &amp; F Industries, Inc." />
+	<company symbol="PFLT" name="PennantPark Floating Rate Capital Ltd." />
+	<company symbol="PFSW" name="PFSweb, Inc." />
+	<company symbol="PGC" name="Peapack-Gladstone Financial Corporation" />
+	<company symbol="PGEB" name="Merrill Lynch &amp; Co., Inc." />
+	<company symbol="PGNX" name="Progenics Pharmaceuticals Inc." />
+	<company symbol="PGTI" name="PGT, Inc." />
+	<company symbol="PHII" name="PHI, Inc." />
+	<company symbol="PHIIK" name="PHI, Inc." />
+	<company symbol="PHMD" name="PhotoMedex, Inc." />
+	<company symbol="PICO" name="PICO Holdings Inc." />
+	<company symbol="PKBK" name="Parke Bancorp, Inc." />
+	<company symbol="PKOH" name="Park-Ohio Holdings Corp." />
+	<company symbol="PKOL" name="PowerShares Global Coal Portfolio" />
+	<company symbol="PLAB" name="Photronics, Inc." />
+	<company symbol="PLBC" name="Plumas Bancorp" />
+	<company symbol="PLCC" name="Paulson Capital Corp." />
+	<company symbol="PLCE" name="The Children&#39;s Place Retail Stores, Inc." />
+	<company symbol="PLCM" name="Polycom, Inc." />
+	<company symbol="PLFE" name="Presidential Life Corporation" />
+	<company symbol="PLMT" name="Palmetto Bancshares, Inc. (SC)" />
+	<company symbol="PLNR" name="Planar Systems, Inc." />
+	<company symbol="PLPC" name="Preformed Line Products Company" />
+	<company symbol="PLTM" name="First Trust Exchange-Traded Fund II First Trust ISE Global Platinum Index Fund" />
+	<company symbol="PLUG" name="Plug Power, Inc." />
+	<company symbol="PLUS" name="ePlus Inc." />
+	<company symbol="PLXS" name="Plexus Corp." />
+	<company symbol="PLXT" name="PLX Technology, Inc." />
+	<company symbol="PMBC" name="Pacific Mercantile Bancorp" />
+	<company symbol="PMCS" name="PMC - Sierra, Inc." />
+	<company symbol="PMD" name="Psychemedics Corporation" />
+	<company symbol="PMFG" name="PMFG, Inc." />
+	<company symbol="PMIC" name="Penn Millers Holding Corporation" />
+	<company symbol="PMNA" name="PowerShares MENA Frontier Countries Portfolio" />
+	<company symbol="PMTC" name="Parametric Technology Corporation" />
+	<company symbol="PMTI" name="Palomar Medical Technologies, Inc." />
+	<company symbol="PNBC" name="Princeton National Bancorp, Inc." />
+	<company symbol="PNBK" name="Patriot National Bancorp Inc." />
+	<company symbol="PNCL" name="Pinnacle Airlines Corp." />
+	<company symbol="PNFP" name="Pinnacle Financial Partners, Inc." />
+	<company symbol="PNNT" name="PennantPark Investment Corporation" />
+	<company symbol="PNNW" name="Pennichuck Corporation" />
+	<company symbol="PNQI" name="PowerShares NASDAQ Internet Portfolio" />
+	<company symbol="PNRA" name="Panera Bread Company" />
+	<company symbol="PNRG" name="PrimeEnergy Corporation" />
+	<company symbol="PNSN" name="Penson Worldwide, Inc." />
+	<company symbol="PNTR" name="Pointer Telocation Ltd." />
+	<company symbol="PODD" name="Insulet Corporation" />
+	<company symbol="POOL" name="Pool Corporation" />
+	<company symbol="POPE" name="Pope Resources" />
+	<company symbol="POWI" name="Power Integrations, Inc." />
+	<company symbol="POWL" name="Powell Industries, Inc." />
+	<company symbol="POWR" name="PowerSecure International, Inc" />
+	<company symbol="POZN" name="Pozen, Inc." />
+	<company symbol="PPBI" name="Pacific Premier Bancorp Inc" />
+	<company symbol="PPDI" name="Pharmaceutical Product Development, Inc." />
+	<company symbol="PPHM" name="Peregrine Pharmaceuticals Inc." />
+	<company symbol="PRAA" name="Portfolio Recovery Associates, Inc." />
+	<company symbol="PRAN" name="Prana Biotechnology Ltd" />
+	<company symbol="PRCP" name="Perceptron, Inc." />
+	<company symbol="PRFT" name="Perficient, Inc." />
+	<company symbol="PRFZ" name="PowerShares FTSE RAFI US 1500 Small-Mid Portfolio" />
+	<company symbol="PRGO" name="Perrigo Company" />
+	<company symbol="PRGS" name="Progress Software Corporation" />
+	<company symbol="PRGX" name="PRGX Global, Inc." />
+	<company symbol="PRIM" name="Primoris Services Corporation" />
+	<company symbol="PRKR" name="ParkerVision, Inc." />
+	<company symbol="PRLS" name="Peerless Systems Corporation" />
+	<company symbol="PRMW" name="Primo Water Corporation" />
+	<company symbol="PROJ" name="Deltek, Inc." />
+	<company symbol="PROV" name="Provident Financial Holdings, Inc." />
+	<company symbol="PRPH" name="ProPhase Labs, Inc." />
+	<company symbol="PRSC" name="The Providence Service Corporation" />
+	<company symbol="PRSP" name="Prosperity Bancshares, Inc." />
+	<company symbol="PRST" name="Presstek, Inc." />
+	<company symbol="PRTS" name="U.S. Auto Parts Network, Inc." />
+	<company symbol="PRVT" name="Private Media Group, Inc." />
+	<company symbol="PRWT" name="Premier West Bancorp" />
+	<company symbol="PRXI" name="Premier Exhibitions, Inc." />
+	<company symbol="PRXL" name="PAREXEL International Corporation" />
+	<company symbol="PSAU" name="PowerShares Global Gold &amp; Precious Metals Portfolio" />
+	<company symbol="PSBH" name="PSB Holdings, Inc." />
+	<company symbol="PSCC" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Consumer Staples Portfolio" />
+	<company symbol="PSCD" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Consumer Discretionary Portfolio" />
+	<company symbol="PSCE" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Energy Portfolio" />
+	<company symbol="PSCF" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Financials Portfolio" />
+	<company symbol="PSCH" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Health Care Portfolio" />
+	<company symbol="PSCI" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Industrials Portfolio" />
+	<company symbol="PSCM" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Materials Portfolio" />
+	<company symbol="PSCT" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Information Technology Portfolio" />
+	<company symbol="PSCU" name="PowerShares Exchange-Traded Fund Trust II PowerShares S&amp;P SmallCap Utilities Portfolio" />
+	<company symbol="PSDV" name="pSivida Corp." />
+	<company symbol="PSEC" name="Prospect Capital Corporation" />
+	<company symbol="PSEM" name="Pericom Semiconductor Corporation" />
+	<company symbol="PSID" name="PositiveID Corporation" />
+	<company symbol="PSMT" name="PriceSmart, Inc." />
+	<company symbol="PSOF" name="Pansoft Company Limited" />
+	<company symbol="PSSI" name="PSS World Medical Inc." />
+	<company symbol="PSTB" name="Park Sterling Bank" />
+	<company symbol="PSTI" name="Pluristem Therapeutics, Inc." />
+	<company symbol="PSTL" name="PowerShares Global Steel Portfolio" />
+	<company symbol="PSTR" name="PostRock Energy Corporation" />
+	<company symbol="PSUN" name="Pacific Sunwear of California, Inc." />
+	<company symbol="PTEK" name="PokerTek, Inc." />
+	<company symbol="PTEN" name="Patterson-UTI Energy, Inc." />
+	<company symbol="PTIE" name="Pain Therapeutics" />
+	<company symbol="PTIX" name="Performance Technologies, Incorporated" />
+	<company symbol="PTNR" name="Partner Communications Company Ltd." />
+	<company symbol="PTRY" name="The Pantry, Inc." />
+	<company symbol="PTSI" name="P.A.M. Transportation Services, Inc." />
+	<company symbol="PTSX" name="Point.360" />
+	<company symbol="PULB" name="Pulaski Financial Corp." />
+	<company symbol="PURE" name="PURE Bioscience, Inc." />
+	<company symbol="PVFC" name="PVF Capital Corp." />
+	<company symbol="PVSA" name="Parkvale Financial Corporation" />
+	<company symbol="PVSW" name="Pervasive Software Inc." />
+	<company symbol="PVTB" name="PrivateBancorp, Inc." />
+	<company symbol="PVTBP" name="PrivateBancorp, Inc." />
+	<company symbol="PWAV" name="Powerwave Technologies, Inc." />
+	<company symbol="PWER" name="Power-One, Inc." />
+	<company symbol="PWND" name="PowerShares Global Wind Energy Portfolio" />
+	<company symbol="PWOD" name="Penns Woods Bancorp, Inc." />
+	<company symbol="PWRD" name="Perfect World Co., Ltd." />
+	<company symbol="PWX" name="Providence and Worcester Railroad Company" />
+	<company symbol="PXLW" name="Pixelworks, Inc." />
+	<company symbol="PZZA" name="Papa John&#39;s International, Inc." />
+	<company symbol="PZZI" name="Pizza Inn, Inc." />
+	<company symbol="QABA" name="First Trust NASDAQ ABA Community Bank Index Fund" />
+	<company symbol="QADA" name="QAD Inc." />
+	<company symbol="QADB" name="QAD Inc." />
+	<company symbol="QBAK" name="Qualstar Corporation" />
+	<company symbol="QCCO" name="QC Holdings, Inc." />
+	<company symbol="QCLN" name="First Trust NASDAQ Clean Edge U.S. Liquid Series Index Fund" />
+	<company symbol="QCOM" name="QUALCOMM Incorporated" />
+	<company symbol="QCOR" name="Questcor Pharmaceuticals, Inc." />
+	<company symbol="QCRH" name="QCR Holdings, Inc." />
+	<company symbol="QDEL" name="Quidel Corporation" />
+	<company symbol="QGEN" name="Qiagen N.V." />
+	<company symbol="QKLS" name="QKL Stores, Inc." />
+	<company symbol="QLGC" name="QLogic Corporation" />
+	<company symbol="QLIK" name="Qlik Technologies Inc." />
+	<company symbol="QLTI" name="QLT Inc." />
+	<company symbol="QLTY" name="Quality Distribution, Inc." />
+	<company symbol="QNST" name="QuinStreet, Inc." />
+	<company symbol="QQEW" name="First Trust NASDAQ-100 Equal Weighted Index Fund" />
+	<company symbol="QQQ" name="PowerShares QQQ Trust, Series 1" />
+	<company symbol="QQQX" name="NASDAQ Premium Income and Growth Fund Inc." />
+	<company symbol="QQXT" name="First Trust NASDAQ-100 Ex-Technology Sector Index Fund" />
+	<company symbol="QSFT" name="Quest Software, Inc." />
+	<company symbol="QSII" name="Quality Systems, Inc." />
+	<company symbol="QTEC" name="First Trust NASDAQ-100-Technology Sector Index Fund" />
+	<company symbol="QTWW" name="Quantum Fuel Systems Technologies Worldwide, Inc." />
+	<company symbol="QUIK" name="QuickLogic Corporation" />
+	<company symbol="RADA" name="Rada Electronics Industries Limited" />
+	<company symbol="RADS" name="Radiant Systems, Inc." />
+	<company symbol="RAIL" name="FreightCar America, Inc." />
+	<company symbol="RAM" name="RAM Energy Resources, Inc." />
+	<company symbol="RAND" name="Rand Capital Corporation" />
+	<company symbol="RAVN" name="Raven Industries, Inc." />
+	<company symbol="RBCAA" name="Republic Bancorp, Inc." />
+	<company symbol="RBCN" name="Rubicon Technology, Inc." />
+	<company symbol="RBNF" name="Rurban Financial Corp" />
+	<company symbol="RBPAA" name="Royal Bancshares of Pennsylvania, Inc." />
+	<company symbol="RCII" name="Rent-A-Center Inc." />
+	<company symbol="RCKB" name="Rockville Financial, Inc." />
+	<company symbol="RCKY" name="Rocky Brands, Inc." />
+	<company symbol="RCMT" name="RCM Technologies, Inc." />
+	<company symbol="RCON" name="Recon Technology, Ltd." />
+	<company symbol="RDA" name="RDA Microelectronics, Inc." />
+	<company symbol="RDCM" name="Radcom Ltd." />
+	<company symbol="RDEA" name="Ardea Biosciences, Inc." />
+	<company symbol="RDEN" name="Elizabeth Arden, Inc." />
+	<company symbol="RDI" name="Reading International Inc" />
+	<company symbol="RDIB" name="Reading International Inc" />
+	<company symbol="RDNT" name="RadNet, Inc." />
+	<company symbol="RDWR" name="Radware Ltd." />
+	<company symbol="RECN" name="Resources Connection, Inc." />
+	<company symbol="REDF" name="Rediff.com India Limited" />
+	<company symbol="REED" name="Reeds, Inc." />
+	<company symbol="REFR" name="Research Frontiers Incorporated" />
+	<company symbol="REGN" name="Regeneron Pharmaceuticals, Inc." />
+	<company symbol="REIS" name="Reis, Inc" />
+	<company symbol="RELL" name="Richardson Electronics, Ltd." />
+	<company symbol="RELV" name="Reliv&#39; International, Inc." />
+	<company symbol="RENT" name="Rentrak Corporation" />
+	<company symbol="REVU" name="The Princeton Review, Inc." />
+	<company symbol="REXI" name="Resource America, Inc." />
+	<company symbol="REXX" name="Rex Energy Corporation" />
+	<company symbol="RFIL" name="RF Industries, Ltd." />
+	<company symbol="RFMD" name="RF Micro Devices, Inc." />
+	<company symbol="RFMI" name="RF Monolithics, Inc." />
+	<company symbol="RGCO" name="RGC Resources Inc." />
+	<company symbol="RGDX" name="Response Genetics, Inc." />
+	<company symbol="RGEN" name="Repligen Corporation" />
+	<company symbol="RGLD" name="Royal Gold, Inc." />
+	<company symbol="RICK" name="Rick&#39;s Cabaret International, Inc." />
+	<company symbol="RIGL" name="Rigel Pharmaceuticals, Inc." />
+	<company symbol="RIMG" name="Rimage Corporation" />
+	<company symbol="RIMM" name="Research in Motion Limited" />
+	<company symbol="RITT" name="RIT Technologies Ltd." />
+	<company symbol="RIVR" name="River Valley Bancorp." />
+	<company symbol="RJET" name="Republic Airways Holdings, Inc." />
+	<company symbol="RLOC" name="ReachLocal, Inc." />
+	<company symbol="RLOG" name="Rand Logistics, Inc." />
+	<company symbol="RLRN" name="Renaissance Learning, Inc." />
+	<company symbol="RMBS" name="Rambus, Inc." />
+	<company symbol="RMCF" name="Rocky Mountain Chocolate Factory, Inc." />
+	<company symbol="RMKR" name="Rainmaker Systems, Inc." />
+	<company symbol="RMTI" name="Rockwell Medical Technologies, Inc." />
+	<company symbol="RMTR" name="Ramtron International Corporation" />
+	<company symbol="RNET" name="RigNet, Inc." />
+	<company symbol="RNIN" name="Wireless Ronin Technologies, Inc." />
+	<company symbol="RNOW" name="RightNow Technologies, Inc." />
+	<company symbol="RNST" name="Renasant Corporation" />
+	<company symbol="RNWK" name="RealNetworks, Inc." />
+	<company symbol="ROCK" name="Gibraltar Industries, Inc." />
+	<company symbol="ROCM" name="Rochester Medical Corporation" />
+	<company symbol="RODM" name="Rodman &amp; Renshaw Capital Group, Inc." />
+	<company symbol="ROIA" name="Radio One, Inc." />
+	<company symbol="ROIAK" name="Radio One, Inc." />
+	<company symbol="ROIC" name="Retail Opportunity Investments Corp." />
+	<company symbol="ROICU" name="Retail Opportunity Investments Corp." />
+	<company symbol="ROICW" name="Retail Opportunity Investments Corp." />
+	<company symbol="ROLL" name="RBC Bearings Incorporated" />
+	<company symbol="ROMA" name="Roma Financial Corporation" />
+	<company symbol="ROSE" name="Rosetta Resources Inc." />
+	<company symbol="ROSG" name="Rosetta Genomics Ltd." />
+	<company symbol="ROST" name="Ross Stores, Inc." />
+	<company symbol="ROVI" name="Rovi Corporation" />
+	<company symbol="ROYL" name="Royale Energy, Inc." />
+	<company symbol="RP" name="RealPage, Inc." />
+	<company symbol="RPRX" name="Repros Therapeutics Inc." />
+	<company symbol="RPRXW" name="Repros Therapeutics Inc." />
+	<company symbol="RPRXZ" name="Repros Therapeutics Inc." />
+	<company symbol="RPTP" name="Raptor Pharmaceutical Corp." />
+	<company symbol="RPXC" name="RPX Corporation" />
+	<company symbol="RRD" name="R.R. Donnelley &amp; Sons Company" />
+	<company symbol="RRGB" name="Red Robin Gourmet Burgers, Inc." />
+	<company symbol="RRST" name="RRSat Global Communications Network Ltd." />
+	<company symbol="RSOL" name="Real Goods Solar, Inc." />
+	<company symbol="RSTI" name="Rofin-Sinar Technologies, Inc." />
+	<company symbol="RSYS" name="RadiSys Corporation" />
+	<company symbol="RTEC" name="Rudolph Technologies, Inc." />
+	<company symbol="RTIX" name="RTI Biologics, Inc." />
+	<company symbol="RTLX" name="Retalix Ltd." />
+	<company symbol="RUE" name="rue21, inc." />
+	<company symbol="RUSHA" name="Rush Enterprises, Inc." />
+	<company symbol="RUSHB" name="Rush Enterprises, Inc." />
+	<company symbol="RUTH" name="Ruth&#39;s Hospitality Group, Inc." />
+	<company symbol="RVBD" name="Riverbed Technology, Inc." />
+	<company symbol="RVSB" name="Riverview Bancorp Inc" />
+	<company symbol="RVSN" name="RADVision Ltd." />
+	<company symbol="RXII" name="RXi Pharmaceuticals Corporation" />
+	<company symbol="RYAAY" name="Ryanair Holdings plc" />
+	<company symbol="SAAS" name="inContact, Inc." />
+	<company symbol="SABA" name="Saba Software, Inc." />
+	<company symbol="SAFM" name="Sanderson Farms, Inc." />
+	<company symbol="SAFT" name="Safety Insurance Group, Inc." />
+	<company symbol="SAIA" name="Saia, Inc." />
+	<company symbol="SALM" name="Salem Communications Corporation" />
+	<company symbol="SANM" name="Sanmina-SCI Corporation" />
+	<company symbol="SANW" name="S&amp;W Seed Company" />
+	<company symbol="SANWW" name="S&amp;W Seed Company" />
+	<company symbol="SANWZ" name="S&amp;W Seed Company" />
+	<company symbol="SAPE" name="Sapient Corporation" />
+	<company symbol="SAPX" name="Seven Arts Pictures PLC" />
+	<company symbol="SASR" name="Sandy Spring Bancorp, Inc." />
+	<company symbol="SATC" name="SatCon Technology Corporation" />
+	<company symbol="SATS" name="EchoStar Corporation" />
+	<company symbol="SAVB" name="The Savannah Bancorp, Inc." />
+	<company symbol="SAVE" name="Spirit Airlines, Inc." />
+	<company symbol="SBAC" name="SBA Communications Corporation" />
+	<company symbol="SBBX" name="Sussex Bancorp" />
+	<company symbol="SBCF" name="Seacoast Banking Corporation of Florida" />
+	<company symbol="SBGI" name="Sinclair Broadcast Group, Inc." />
+	<company symbol="SBIBN" name="Comerica Incorporated" />
+	<company symbol="SBLK" name="Star Bulk Carriers Corp." />
+	<company symbol="SBNY" name="Signature Bank" />
+	<company symbol="SBNYW" name="Signature Bank" />
+	<company symbol="SBRA" name="Sabra Healthcare REIT, Inc." />
+	<company symbol="SBSA" name="Spanish Broadcasting System, Inc." />
+	<company symbol="SBSI" name="Southside Bancshares, Inc." />
+	<company symbol="SBUX" name="Starbucks Corporation" />
+	<company symbol="SCBT" name="SCBT Financial Corporation" />
+	<company symbol="SCEI" name="Sino Clean Energy Inc." />
+	<company symbol="SCHL" name="Scholastic Corporation" />
+	<company symbol="SCHN" name="Schnitzer Steel Industries, Inc." />
+	<company symbol="SCHS" name="School Specialty, Inc." />
+	<company symbol="SCIL" name="Scientific Learning Corporation" />
+	<company symbol="SCKT" name="Socket Mobile, Inc." />
+	<company symbol="SCLN" name="SciClone Pharmaceuticals, Inc." />
+	<company symbol="SCMF" name="Southern Community Financial Corporation" />
+	<company symbol="SCMFO" name="Southern Community Financial Corporation" />
+	<company symbol="SCMP" name="Sucampo Pharmaceuticals, Inc." />
+	<company symbol="SCMR" name="Sycamore Networks, Inc." />
+	<company symbol="SCOK" name="SinoCoking Coal and Coke Chemical Industries, Inc" />
+	<company symbol="SCON" name="Superconductor Technologies Inc." />
+	<company symbol="SCOR" name="comScore, Inc." />
+	<company symbol="SCSC" name="ScanSource, Inc." />
+	<company symbol="SCSS" name="Select Comfort Corporation" />
+	<company symbol="SCVL" name="Shoe Carnival, Inc." />
+	<company symbol="SDBT" name="SoundBite Communications, Inc." />
+	<company symbol="SDIX" name="Strategic Diagnostics Inc." />
+	<company symbol="SEAC" name="SeaChange International, Inc." />
+	<company symbol="SEED" name="Origin Agritech Limited" />
+	<company symbol="SEIC" name="SEI Investments Company" />
+	<company symbol="SENEA" name="Seneca Foods Corp." />
+	<company symbol="SENEB" name="Seneca Foods Corp." />
+	<company symbol="SERV" name="Servidyne, Inc." />
+	<company symbol="SEV" name="Sevcon, Inc." />
+	<company symbol="SFLY" name="Shutterfly, Inc." />
+	<company symbol="SFNC" name="Simmons First National Corporation" />
+	<company symbol="SFST" name="Southern First Bancshares, Inc." />
+	<company symbol="SGC" name="Superior Uniform Group, Inc." />
+	<company symbol="SGEN" name="Seattle Genetics, Inc." />
+	<company symbol="SGI" name="Silicon Graphics International Corp" />
+	<company symbol="SGMA" name="SigmaTron International, Inc." />
+	<company symbol="SGMO" name="Sangamo BioSciences, Inc." />
+	<company symbol="SGMS" name="Scientific Games Corp" />
+	<company symbol="SGNT" name="Sagent Pharmaceuticals, Inc." />
+	<company symbol="SGOC" name="SGOCO Group, Ltd" />
+	<company symbol="SGRP" name="SPAR Group, Inc." />
+	<company symbol="SHBI" name="Shore Bancshares Inc" />
+	<company symbol="SHEN" name="Shenandoah Telecommunications Co" />
+	<company symbol="SHFL" name="Shuffle Master, Inc." />
+	<company symbol="SHIP" name="Seanergy Maritime Holdings Corp" />
+	<company symbol="SHIPW" name="Seanergy Maritime Holdings Corp" />
+	<company symbol="SHLD" name="Sears Holdings Corporation" />
+	<company symbol="SHLM" name="A. Schulman, Inc." />
+	<company symbol="SHLO" name="Shiloh Industries, Inc." />
+	<company symbol="SHOO" name="Steven Madden, Ltd." />
+	<company symbol="SHOR" name="ShoreTel, Inc." />
+	<company symbol="SHPGY" name="Shire plc" />
+	<company symbol="SIAL" name="Sigma-Aldrich Corporation" />
+	<company symbol="SIBC" name="State Investors Bancorp, Inc." />
+	<company symbol="SIEB" name="Siebert Financial Corp." />
+	<company symbol="SIFI" name="SI Financial Group, Inc." />
+	<company symbol="SIFY" name="Sify Technologies Limited" />
+	<company symbol="SIGA" name="SIGA Technologies Inc." />
+	<company symbol="SIGI" name="Selective Insurance Group, Inc." />
+	<company symbol="SIGM" name="Sigma Designs, Inc." />
+	<company symbol="SILC" name="Silicom Ltd" />
+	<company symbol="SIMG" name="Silicon Image, Inc." />
+	<company symbol="SIMO" name="Silicon Motion Technology Corporation" />
+	<company symbol="SINA" name="Sina Corporation" />
+	<company symbol="SINO" name="Sino-Global Shipping America, Ltd." />
+	<company symbol="SIRI" name="Sirius XM Radio Inc." />
+	<company symbol="SIRO" name="Sirona Dental Systems, Inc." />
+	<company symbol="SIVB" name="SVB Financial Group" />
+	<company symbol="SIVBO" name="SVB Financial Group" />
+	<company symbol="SKBI" name="Skystar Bio-Pharmaceutical Company" />
+	<company symbol="SKUL" name="Skullcandy, Inc." />
+	<company symbol="SKYW" name="SkyWest, Inc." />
+	<company symbol="SKYY" name="First Trust Exchange-Traded Fund II First Trust ISE Cloud Computing Index Fund" />
+	<company symbol="SLAB" name="Silicon Laboratories, Inc." />
+	<company symbol="SLGN" name="Silgan Holdings, Inc." />
+	<company symbol="SLP" name="Simulations Plus, Inc." />
+	<company symbol="SLRC" name="Solar Capital Ltd." />
+	<company symbol="SLTC" name="Selectica, Inc." />
+	<company symbol="SLTM" name="Solta Medical, Inc" />
+	<company symbol="SLXP" name="Salix Pharmaceuticals, Ltd." />
+	<company symbol="SMBC" name="Southern Missouri Bancorp, Inc." />
+	<company symbol="SMBL" name="Smart Balance Inc" />
+	<company symbol="SMCG" name="Millenium India Acquisition Company Inc." />
+	<company symbol="SMCI" name="Super Micro Computer, Inc." />
+	<company symbol="SMED" name="Sharps Compliance Corp" />
+	<company symbol="SMIT" name="Schmitt Industries, Inc." />
+	<company symbol="SMMF" name="Summit Financial Group, Inc." />
+	<company symbol="SMOD" name="SMART Modular Technologies (WWH), Inc." />
+	<company symbol="SMRT" name="Stein Mart, Inc." />
+	<company symbol="SMSC" name="Standard Microsystems Corporation" />
+	<company symbol="SMSI" name="Smith Micro Software, Inc." />
+	<company symbol="SMT" name="SMART Technologies Inc." />
+	<company symbol="SMTC" name="Semtech Corporation" />
+	<company symbol="SMTX" name="SMTC Corporation" />
+	<company symbol="SNAK" name="Inventure Foods, Inc." />
+	<company symbol="SNBC" name="Sun Bancorp, Inc." />
+	<company symbol="SNCR" name="Synchronoss Technologies, Inc." />
+	<company symbol="SNDA" name="Shanda Interactive Entertainment Limited" />
+	<company symbol="SNDK" name="SanDisk Corporation" />
+	<company symbol="SNFCA" name="Security National Financial Corporation" />
+	<company symbol="SNHY" name="Sun Hydraulics Corporation" />
+	<company symbol="SNMX" name="Senomyx, Inc." />
+	<company symbol="SNPS" name="Synopsys, Inc." />
+	<company symbol="SNSS" name="Sunesis Pharmaceuticals, Inc." />
+	<company symbol="SNSTA" name="Sonesta International Hotels Corporation" />
+	<company symbol="SNTA" name="Synta Pharmaceuticals Corp." />
+	<company symbol="SNTS" name="Santarus, Inc." />
+	<company symbol="SOCB" name="Southcoast Financial Corporation" />
+	<company symbol="SODA" name="SodaStream International Ltd." />
+	<company symbol="SOFO" name="Sonic Foundry, Inc." />
+	<company symbol="SOHU" name="Sohu.com Inc." />
+	<company symbol="SOMH" name="Somerset Hills Bancorp" />
+	<company symbol="SOMX" name="Somaxon Pharmaceuticals, Inc." />
+	<company symbol="SONA" name="Southern National Bancorp of Virginia, Inc." />
+	<company symbol="SONC" name="Sonic Corp." />
+	<company symbol="SONE" name="S1 Corporation" />
+	<company symbol="SONO" name="SonoSite, Inc." />
+	<company symbol="SONS" name="Sonus Networks, Inc." />
+	<company symbol="SORL" name="SORL Auto Parts, Inc." />
+	<company symbol="SOXX" name="iShares Goldman Sachs Semiconductor Index Fund" />
+	<company symbol="SPAN" name="Span-America Medical Systems, Inc." />
+	<company symbol="SPAR" name="Spartan Motors, Inc." />
+	<company symbol="SPBC" name="SP Bancorp, Inc." />
+	<company symbol="SPCHA" name="Sport Chalet, Inc." />
+	<company symbol="SPCHB" name="Sport Chalet, Inc." />
+	<company symbol="SPEX" name="Spherix Incorporated" />
+	<company symbol="SPIL" name="Siliconware Precision Industries Company, Ltd." />
+	<company symbol="SPIR" name="Spire Corporation" />
+	<company symbol="SPLS" name="Staples, Inc." />
+	<company symbol="SPMD" name="SuperMedia Inc." />
+	<company symbol="SPNC" name="The Spectranetics Corporation" />
+	<company symbol="SPNS" name="Sapiens International Corporation N.V." />
+	<company symbol="SPPI" name="Spectrum Pharmaceuticals, Inc." />
+	<company symbol="SPPR" name="Supertel Hospitality, Inc." />
+	<company symbol="SPPRO" name="Supertel Hospitality, Inc." />
+	<company symbol="SPPRP" name="Supertel Hospitality, Inc." />
+	<company symbol="SPRD" name="Spreadtrum Communications, Inc." />
+	<company symbol="SPRO" name="SmartPros Ltd." />
+	<company symbol="SPRT" name="support.com, Inc." />
+	<company symbol="SPSC" name="SPS Commerce, Inc." />
+	<company symbol="SPTN" name="Spartan Stores, Inc." />
+	<company symbol="SPU" name="SkyPeople Fruit Juice, Inc." />
+	<company symbol="SPWRA" name="SunPower Corporation" />
+	<company symbol="SPWRB" name="SunPower Corporation" />
+	<company symbol="SQI" name="SciQuest, Inc." />
+	<company symbol="SQNM" name="Sequenom, Inc." />
+	<company symbol="SQQQ" name="ProShares UltraPro Short QQQ" />
+	<company symbol="SRCE" name="1st Source Corporation" />
+	<company symbol="SRCL" name="Stericycle, Inc." />
+	<company symbol="SRDX" name="SurModics, Inc." />
+	<company symbol="SREV" name="ServiceSource International, Inc." />
+	<company symbol="SRLS" name="SeraCare Life Sciences Inc" />
+	<company symbol="SRSL" name="SRS Labs, Inc." />
+	<company symbol="SSBI" name="Summit State Bank" />
+	<company symbol="SSFN" name="Stewardship Financial Corp" />
+	<company symbol="SSNC" name="SS&amp;C Technologies Holdings, Inc." />
+	<company symbol="SSRI" name="Silver Standard Resources, Inc" />
+	<company symbol="SSRX" name="3SBio Inc." />
+	<company symbol="SSYS" name="Stratasys, Inc." />
+	<company symbol="STAA" name="STAAR Surgical Company" />
+	<company symbol="STAN" name="Standard Parking Corporation" />
+	<company symbol="STBA" name="S&amp;T Bancorp, Inc." />
+	<company symbol="STBC" name="State Bancorp, Inc." />
+	<company symbol="STBZ" name="State Bank Financial Corporation." />
+	<company symbol="STEC" name="STEC, Inc." />
+	<company symbol="STEI" name="Stewart Enterprises, Inc." />
+	<company symbol="STEL" name="StellarOne Corporation" />
+	<company symbol="STEM" name="StemCells, Inc." />
+	<company symbol="STFC" name="State Auto Financial Corporation" />
+	<company symbol="STKL" name="SunOpta, Inc." />
+	<company symbol="STLD" name="Steel Dynamics, Inc." />
+	<company symbol="STLY" name="Stanley Furniture Company, Inc." />
+	<company symbol="STMP" name="Stamps.com Inc." />
+	<company symbol="STND" name="Standard Financial Corp." />
+	<company symbol="STNR" name="Steiner Leisure Limited" />
+	<company symbol="STON" name="StoneMor Partners L.P." />
+	<company symbol="STRA" name="Strayer Education, Inc." />
+	<company symbol="STRC" name="SRI/Surgical Express, Inc." />
+	<company symbol="STRL" name="Sterling Construction Company Inc" />
+	<company symbol="STRM" name="Streamline Health Solutions, Inc." />
+	<company symbol="STRN" name="Sutron Corporation" />
+	<company symbol="STRS" name="Stratus Properties, Inc." />
+	<company symbol="STRT" name="Strattec Security Corporation" />
+	<company symbol="STSA" name="Sterling Financial Corporation" />
+	<company symbol="STX" name="Seagate Technology." />
+	<company symbol="STXS" name="Stereotaxis, Inc." />
+	<company symbol="SUBK" name="Suffolk Bancorp" />
+	<company symbol="SUMR" name="Summer Infant, Inc." />
+	<company symbol="SUNH" name="Sun Healthcare Group, Inc." />
+	<company symbol="SUNS" name="Solar Senior Capital Ltd." />
+	<company symbol="SUPG" name="SuperGen, Inc." />
+	<company symbol="SUPX" name="Supertex, Inc." />
+	<company symbol="SURG" name="Synergetics USA, Inc." />
+	<company symbol="SURW" name="SureWest Communications" />
+	<company symbol="SUSQ" name="Susquehanna Bancshares, Inc." />
+	<company symbol="SUSS" name="Susser Holdings Corporation" />
+	<company symbol="SUTR" name="Sutor Technology Group Limited" />
+	<company symbol="SVA" name="Sinovac Biotech, Ltd." />
+	<company symbol="SVBI" name="Severn Bancorp Inc" />
+	<company symbol="SVNT" name="Savient Pharmaceuticals Inc" />
+	<company symbol="SVVC" name="Firsthand Technology Value Fund, Inc." />
+	<company symbol="SWHC" name="Smith &amp; Wesson Holding Corporation" />
+	<company symbol="SWIR" name="Sierra Wireless, Inc." />
+	<company symbol="SWKS" name="Skyworks Solutions, Inc." />
+	<company symbol="SWSH" name="Swisher Hygiene, Inc." />
+	<company symbol="SWTX" name="Southwall Technologies, Inc." />
+	<company symbol="SXCI" name="SXC Health Solutions Corp." />
+	<company symbol="SYBT" name="S.Y. Bancorp, Inc." />
+	<company symbol="SYBTP" name="S.Y. Bancorp, Inc." />
+	<company symbol="SYKE" name="Sykes Enterprises, Incorporated" />
+	<company symbol="SYMC" name="Symantec Corporation" />
+	<company symbol="SYMM" name="Symmetricom, Inc." />
+	<company symbol="SYMS" name="Syms Corp" />
+	<company symbol="SYMX" name="Synthesis Energy Systems, Inc." />
+	<company symbol="SYNA" name="Synaptics Incorporated" />
+	<company symbol="SYNL" name="Synalloy Corporation" />
+	<company symbol="SYNM" name="Syntroleum Corporation" />
+	<company symbol="SYNO" name="Synovis Life Technologies, Inc." />
+	<company symbol="SYNT" name="Syntel, Inc." />
+	<company symbol="SYPR" name="Sypris Solutions, Inc." />
+	<company symbol="SYUT" name="Synutra International, Inc." />
+	<company symbol="SZYM" name="Solazyme, Inc." />
+	<company symbol="TACT" name="TransAct Technologies Incorporated" />
+	<company symbol="TAIT" name="Taitron Components Incorporated" />
+	<company symbol="TASR" name="TASER International, Inc." />
+	<company symbol="TAST" name="Carrols Restaurant Group, Inc." />
+	<company symbol="TATT" name="TAT Technologies Ltd." />
+	<company symbol="TAXI" name="Medallion Financial Corp." />
+	<company symbol="TAYC" name="Taylor Capital Group, Inc." />
+	<company symbol="TAYCP" name="Taylor Capital Group, Inc." />
+	<company symbol="TAYD" name="Taylor Devices, Inc." />
+	<company symbol="TBAC" name="Tandy Brands Accessories, Inc." />
+	<company symbol="TBBK" name="The Bancorp, Inc." />
+	<company symbol="TBET" name="Tibet Pharmaceuticals, Inc." />
+	<company symbol="TBNK" name="Territorial Bancorp Inc." />
+	<company symbol="TBOW" name="Trunkbow International Holdings Ltd." />
+	<company symbol="TBSI" name="TBS International Plc" />
+	<company symbol="TBUS" name="DRI Corporation" />
+	<company symbol="TCBI" name="Texas Capital Bancshares, Inc." />
+	<company symbol="TCBIW" name="Texas Capital Bancshares, Inc." />
+	<company symbol="TCBK" name="TriCo Bancshares" />
+	<company symbol="TCCO" name="Technical Communications Corporation" />
+	<company symbol="TCHC" name="21st Century Holding Company" />
+	<company symbol="TCLP" name="TC PipeLines, LP" />
+	<company symbol="TCRD" name="THL Credit, Inc." />
+	<company symbol="TEAR" name="TearLab Corporation" />
+	<company symbol="TECD" name="Tech Data Corporation" />
+	<company symbol="TECH" name="Techne Corporation" />
+	<company symbol="TECUA" name="Tecumseh Products Company" />
+	<company symbol="TECUB" name="Tecumseh Products Company" />
+	<company symbol="TELK" name="Telik, Inc." />
+	<company symbol="TESO" name="Tesco Corporation" />
+	<company symbol="TESS" name="TESSCO Technologies Incorporated" />
+	<company symbol="TEVA" name="Teva Pharmaceutical Industries Limited" />
+	<company symbol="TFCO" name="Tufco Technologies, Inc." />
+	<company symbol="TFM" name="The Fresh Market, Inc." />
+	<company symbol="TFONY" name="Telefonos de Mexico" />
+	<company symbol="TFSL" name="TFS Financial Corporation" />
+	<company symbol="TGA" name="Transglobe Energy Corp" />
+	<company symbol="TGAL" name="Tegal Corporation" />
+	<company symbol="TGE" name="TGC Industries, Inc." />
+	<company symbol="THER" name="Theratechnologies Inc." />
+	<company symbol="THFF" name="First Financial Corporation Indiana" />
+	<company symbol="THLD" name="Threshold Pharmaceuticals, Inc." />
+	<company symbol="THOR" name="Thoratec Corporation" />
+	<company symbol="THQI" name="THQ Inc." />
+	<company symbol="THRD" name="TF Financial Corporation" />
+	<company symbol="THRX" name="Theravance, Inc." />
+	<company symbol="THTI" name="THT Heat Transfer Technology, Inc." />
+	<company symbol="TIBB" name="TIB Financial Corporation" />
+	<company symbol="TIBX" name="TIBCO Software, Inc." />
+	<company symbol="TICC" name="TICC Capital Corp." />
+	<company symbol="TIER" name="Tier Technologies, Inc." />
+	<company symbol="TIGR" name="TigerLogic Corporation" />
+	<company symbol="TIII" name="TII Network Technologies, Inc." />
+	<company symbol="TINY" name="Harris &amp; Harris Group, Inc." />
+	<company symbol="TISA" name="Top Image Systems, Ltd." />
+	<company symbol="TISI" name="Team, Inc." />
+	<company symbol="TITN" name="Titan Machinery Inc." />
+	<company symbol="TIVO" name="TiVo Inc." />
+	<company symbol="TKLC" name="Tekelec" />
+	<company symbol="TKMR" name="Tekmira Pharmaceuticals Corp" />
+	<company symbol="TLAB" name="Tellabs, Inc." />
+	<company symbol="TLEO" name="Taleo Corporation" />
+	<company symbol="TLF" name="Tandy Leather Factory, Inc." />
+	<company symbol="TLVT" name="Telvent GIT, S.A." />
+	<company symbol="TMNG" name="The Management Network Group, Inc." />
+	<company symbol="TNAV" name="TeleNav, Inc." />
+	<company symbol="TNCC" name="Tennessee Commerce Bancorp, Inc. (TN)" />
+	<company symbol="TNDM" name="Neutral Tandem, Inc." />
+	<company symbol="TNGN" name="Tengion, Inc." />
+	<company symbol="TNGO" name="Tangoe, Inc." />
+	<company symbol="TOBC" name="Tower Bancorp Inc" />
+	<company symbol="TOFC" name="Tower Financial Corporation" />
+	<company symbol="TOPS" name="TOP Ships Inc." />
+	<company symbol="TORM" name="TOR Minerals International Inc" />
+	<company symbol="TOWN" name="Towne Bank" />
+	<company symbol="TPCG" name="TPC Group, Inc." />
+	<company symbol="TPGI" name="Thomas Properties Group, Inc." />
+	<company symbol="TQNT" name="TriQuint Semiconductor, Inc." />
+	<company symbol="TQQQ" name="ProShares UltraPro QQQ" />
+	<company symbol="TRAK" name="DealerTrack Holdings, Inc." />
+	<company symbol="TRBR" name="Trailer Bridge, Inc." />
+	<company symbol="TRCR" name="Transcend Services, Inc." />
+	<company symbol="TREE" name="Tree.com, Inc." />
+	<company symbol="TRGL" name="Toreador Resources Corporation" />
+	<company symbol="TRGT" name="Targacept, Inc." />
+	<company symbol="TRIB" name="Trinity Biotech plc" />
+	<company symbol="TRID" name="Trident Microsystems, Inc." />
+	<company symbol="TRIT" name="Tri-Tech Holding Inc." />
+	<company symbol="TRLG" name="True Religion Apparel, Inc." />
+	<company symbol="TRMB" name="Trimble Navigation Limited" />
+	<company symbol="TRMD" name="TORM A/S" />
+	<company symbol="TRMK" name="Trustmark Corporation" />
+	<company symbol="TRMS" name="Trimeris, Inc." />
+	<company symbol="TRNS" name="Transcat, Inc." />
+	<company symbol="TRNX" name="Tornier N.V." />
+	<company symbol="TROW" name="T. Rowe Price Group, Inc." />
+	<company symbol="TRS" name="TriMas Corporation" />
+	<company symbol="TRST" name="TrustCo Bank Corp NY" />
+	<company symbol="TSBK" name="Timberland Bancorp, Inc." />
+	<company symbol="TSCO" name="Tractor Supply Company" />
+	<company symbol="TSEM" name="Tower Semiconductor Ltd." />
+	<company symbol="TSEMG" name="Tower Semiconductor Ltd." />
+	<company symbol="TSLA" name="Tesla Motors, Inc." />
+	<company symbol="TSON" name="TranS1 Inc." />
+	<company symbol="TSPT" name="Transcept Pharmaceuticals, Inc." />
+	<company symbol="TSRA" name="Tessera Technologies, Inc." />
+	<company symbol="TSRI" name="TSR, Inc." />
+	<company symbol="TSRX" name="Trius Therapeutics, Inc." />
+	<company symbol="TST" name="TheStreet, Inc." />
+	<company symbol="TSTC" name="Telestone Technologies Corp." />
+	<company symbol="TSTF" name="TeamStaff, Inc." />
+	<company symbol="TSYS" name="TeleCommunication Systems, Inc." />
+	<company symbol="TTEC" name="TeleTech Holdings, Inc." />
+	<company symbol="TTEK" name="Tetra Tech, Inc." />
+	<company symbol="TTGT" name="TechTarget, Inc." />
+	<company symbol="TTHI" name="Transition Therapeutics, Inc." />
+	<company symbol="TTMI" name="TTM Technologies, Inc." />
+	<company symbol="TTWO" name="Take-Two Interactive Software, Inc." />
+	<company symbol="TUDO" name="Tudou Holdings Limited" />
+	<company symbol="TUES" name="Tuesday Morning Corp." />
+	<company symbol="TWER" name="Towerstream Corporation" />
+	<company symbol="TWGP" name="Tower Group, Inc." />
+	<company symbol="TWIN" name="Twin Disc, Incorporated" />
+	<company symbol="TWMC" name="Trans World Entertainment Corp." />
+	<company symbol="TWTC" name="tw telecom inc." />
+	<company symbol="TXCC" name="TranSwitch Corporation" />
+	<company symbol="TXRH" name="Texas Roadhouse, Inc." />
+	<company symbol="TYPE" name="Monotype Imaging Holdings Inc." />
+	<company symbol="TZOO" name="Travelzoo Inc" />
+	<company symbol="TZYM" name="Tranzyme, Inc." />
+	<company symbol="UACL" name="Universal Truckload Services, Inc." />
+	<company symbol="UBCP" name="United Bancorp, Inc." />
+	<company symbol="UBFO" name="United Security Bancshares" />
+	<company symbol="UBNK" name="United Financial Bancorp, Inc." />
+	<company symbol="UBOH" name="United Bancshares, Inc." />
+	<company symbol="UBPS" name="Universal Business Payment Solutions Acquisition Corporation" />
+	<company symbol="UBPSU" name="Universal Business Payment Solutions Acquisition Corporation" />
+	<company symbol="UBPSW" name="Universal Business Payment Solutions Acquisition Corporation" />
+	<company symbol="UBSH" name="Union First Market Bankshares Corporation" />
+	<company symbol="UBSI" name="United Bankshares, Inc." />
+	<company symbol="UCBA" name="United Community Bancorp" />
+	<company symbol="UCBI" name="United Community Banks, Inc." />
+	<company symbol="UCFC" name="United Community Financial Corp." />
+	<company symbol="UCTT" name="Ultra Clean Holdings, Inc." />
+	<company symbol="UDRL" name="Union Drilling, Inc." />
+	<company symbol="UEIC" name="Universal Electronics Inc." />
+	<company symbol="UEPS" name="Net 1 UEPS Technologies, Inc." />
+	<company symbol="UFCS" name="United Fire &amp; Casualty Company" />
+	<company symbol="UFPI" name="Universal Forest Products, Inc." />
+	<company symbol="UFPT" name="UFP Technologies, Inc." />
+	<company symbol="UG" name="United-Guardian, Inc." />
+	<company symbol="UHAL" name="Amerco" />
+	<company symbol="ULBI" name="Ultralife Corporation" />
+	<company symbol="ULGX" name="Urologix, Inc." />
+	<company symbol="ULTA" name="Ulta Salon, Cosmetics &amp; Fragrance, Inc." />
+	<company symbol="ULTI" name="The Ultimate Software Group, Inc." />
+	<company symbol="ULTR" name="Ultrapetrol (Bahamas) Limited" />
+	<company symbol="UMBF" name="UMB Financial Corporation" />
+	<company symbol="UMPQ" name="Umpqua Holdings Corporation" />
+	<company symbol="UNAM" name="Unico American Corporation" />
+	<company symbol="UNB" name="Union Bankshares, Inc." />
+	<company symbol="UNFI" name="United Natural Foods, Inc." />
+	<company symbol="UNIS" name="Unilife Corporation" />
+	<company symbol="UNTD" name="United Online, Inc." />
+	<company symbol="UNTK" name="UniTek Global Services, Inc." />
+	<company symbol="UNTY" name="Unity Bancorp, Inc." />
+	<company symbol="UNXL" name="Uni-Pixel, Inc." />
+	<company symbol="UPI" name="Uroplasty, Inc." />
+	<company symbol="URBN" name="Urban Outfitters, Inc." />
+	<company symbol="URRE" name="Uranium Resources, Inc." />
+	<company symbol="USAK" name="USA Truck, Inc." />
+	<company symbol="USAP" name="Universal Stainless &amp; Alloy Products, Inc." />
+	<company symbol="USAT" name="USA Technologies, Inc." />
+	<company symbol="USATP" name="USA Technologies, Inc." />
+	<company symbol="USATW" name="USA Technologies, Inc." />
+	<company symbol="USATZ" name="USA Technologies, Inc." />
+	<company symbol="USBI" name="United Security Bancshares, Inc." />
+	<company symbol="USCR" name="U S Concrete, Inc." />
+	<company symbol="USEG" name="U.S. Energy Corp." />
+	<company symbol="USHS" name="U.S. Home Systems, Inc." />
+	<company symbol="USLM" name="United States Lime &amp; Minerals, Inc." />
+	<company symbol="USMO" name="USA Mobility, Inc." />
+	<company symbol="USPH" name="U.S. Physical Therapy, Inc." />
+	<company symbol="USTR" name="United Stationers Inc." />
+	<company symbol="UTEK" name="Ultratech, Inc." />
+	<company symbol="UTHR" name="United Therapeutics Corporation" />
+	<company symbol="UTIW" name="UTi Worldwide Inc." />
+	<company symbol="UTMD" name="Utah Medical Products, Inc." />
+	<company symbol="UTSI" name="UTStarcom Holdings Corp" />
+	<company symbol="UVSP" name="Univest Corporation of Pennsylvania" />
+	<company symbol="VALU" name="Value Line, Inc." />
+	<company symbol="VALV" name="Shengkai Innovations, Inc." />
+	<company symbol="VASC" name="Vascular Solutions, Inc." />
+	<company symbol="VBFC" name="Village Bank and Trust Financial Corp." />
+	<company symbol="VCBI" name="Virginia Commerce Bancorp" />
+	<company symbol="VCIT" name="Vanguard Intermediate-Term Corporate Bond ETF" />
+	<company symbol="VCLK" name="ValueClick, Inc." />
+	<company symbol="VCLT" name="Vanguard Long-Term Corporate Bond ETF" />
+	<company symbol="VCSH" name="Vanguard Short-Term Corporate Bond ETF" />
+	<company symbol="VDSI" name="VASCO Data Security International, Inc." />
+	<company symbol="VECO" name="Veeco Instruments Inc." />
+	<company symbol="VELT" name="Velti plc" />
+	<company symbol="VGIT" name="Vanguard Intermediate -Term Government Bond ETF" />
+	<company symbol="VGLT" name="Vanguard Long-Term Government Bond ETF" />
+	<company symbol="VGSH" name="Vanguard Short Term Government Bond ETF" />
+	<company symbol="VIAS" name="Viasystems Group, Inc." />
+	<company symbol="VICL" name="Vical Incorporated" />
+	<company symbol="VICR" name="Vicor Corporation" />
+	<company symbol="VIDE" name="Video Display Corporation" />
+	<company symbol="VIFL" name="Food Technology Service, Inc." />
+	<company symbol="VIMC" name="Vimicro International Corporation" />
+	<company symbol="VIRC" name="Virco Manufacturing Corporation" />
+	<company symbol="VISN" name="VisionChina Media, Inc." />
+	<company symbol="VIST" name="VIST Financial Corp" />
+	<company symbol="VITC" name="Vitacost.com, Inc." />
+	<company symbol="VIVO" name="Meridian Bioscience Inc." />
+	<company symbol="VLCCF" name="Knightsbridge Tankers Limited" />
+	<company symbol="VLGEA" name="Village Super Market, Inc." />
+	<company symbol="VLNC" name="Valence Technology, Inc." />
+	<company symbol="VLTR" name="Volterra Semiconductor Corporation" />
+	<company symbol="VLYWW" name="Valley National Bancorp" />
+	<company symbol="VMBS" name="Vanguard Mortgage-Backed Securities ETF" />
+	<company symbol="VMED" name="Virgin Media Inc." />
+	<company symbol="VNDA" name="Vanda Pharmaceuticals Inc." />
+	<company symbol="VNET" name="21Vianet Group, Inc." />
+	<company symbol="VNQI" name="Vanguard International Equity Index Funds Vanguard Global ex-U.S. Real Estate ETF" />
+	<company symbol="VOCS" name="Vocus, Inc." />
+	<company symbol="VOD" name="Vodafone Group Plc" />
+	<company symbol="VOLC" name="Volcano Corporation" />
+	<company symbol="VONE" name="Vanguard Scottsdale Funds Vanguard Russell 1000 ETF" />
+	<company symbol="VONG" name="Vanguard Scottsdale Funds Vanguard Russell 1000 Growth ETF" />
+	<company symbol="VONV" name="Vanguard Scottsdale Funds Vanguard Russell 1000 Value ETF" />
+	<company symbol="VOXX" name="Audiovox Corporation" />
+	<company symbol="VPF" name="Valpey Fisher Corporation" />
+	<company symbol="VPFG" name="ViewPoint Financial Group, Inc." />
+	<company symbol="VPHM" name="ViroPharma Incorporated" />
+	<company symbol="VPRT" name="Vistaprint N.V." />
+	<company symbol="VRA" name="Vera Bradley, Inc." />
+	<company symbol="VRML" name="Vermillion, Inc." />
+	<company symbol="VRNM" name="Verenium Corporation" />
+	<company symbol="VRNT" name="Verint Systems Inc." />
+	<company symbol="VRSK" name="Verisk Analytics, Inc." />
+	<company symbol="VRSN" name="VeriSign, Inc." />
+	<company symbol="VRTA" name="Vestin Realty Mortgage I, Inc." />
+	<company symbol="VRTB" name="Vestin Realty Mortgage II, Inc." />
+	<company symbol="VRTS" name="Virtus Investment Partners, Inc." />
+	<company symbol="VRTU" name="Virtusa Corporation" />
+	<company symbol="VRTX" name="Vertex Pharmaceuticals Incorporated" />
+	<company symbol="VRUS" name="Pharmasset, Inc." />
+	<company symbol="VSAT" name="ViaSat, Inc." />
+	<company symbol="VSBN" name="VSB Bancorp, Inc. (NY)" />
+	<company symbol="VSCI" name="Vision-Sciences, Inc." />
+	<company symbol="VSCP" name="VirtualScopics, Inc." />
+	<company symbol="VSEA" name="Varian Semiconductor Equipment Associates, Inc." />
+	<company symbol="VSEC" name="VSE Corporation" />
+	<company symbol="VSNT" name="Versant Corporation" />
+	<company symbol="VTHR" name="Vanguard Scottsdale Funds Vanguard Russell 3000 ETF" />
+	<company symbol="VTNC" name="Vitran Corporation, Inc." />
+	<company symbol="VTRO" name="Vertro, Inc" />
+	<company symbol="VTSS" name="Vitesse Semiconductor Corporation" />
+	<company symbol="VTUS" name="Ventrus Biosciences, Inc." />
+	<company symbol="VTWG" name="Vanguard Scottsdale Funds Vanguard Russell 2000 Growth ETF" />
+	<company symbol="VTWO" name="Vanguard Scottsdale Funds Vanguard Russell 2000 ETF" />
+	<company symbol="VTWV" name="Vanguard Scottsdale Funds Vanguard Russell 2000 Value ETF" />
+	<company symbol="VVTV" name="ValueVision Media, Inc." />
+	<company symbol="VVUS" name="Vivus, Inc." />
+	<company symbol="VXUS" name="Vanguard STAR Funds Vanguard Total International Stock ETF" />
+	<company symbol="VYFC" name="Valley Financial Corporation" />
+	<company symbol="WABC" name="Westamerica Bancorporation" />
+	<company symbol="WACLY" name="Wacoal Holdings Corporation" />
+	<company symbol="WASH" name="Washington Trust Bancorp, Inc." />
+	<company symbol="WATG" name="Wonder Auto Technology, Inc." />
+	<company symbol="WAVX" name="Wave Systems Corp." />
+	<company symbol="WAYN" name="Wayne Savings Bancshares Inc." />
+	<company symbol="WBCO" name="Washington Banking Company" />
+	<company symbol="WBKC" name="Wolverine Bancorp, Inc." />
+	<company symbol="WBMD" name="WebMD Health Corp" />
+	<company symbol="WBNK" name="Waccamaw Bankshares Inc" />
+	<company symbol="WBNKW" name="Waccamaw Bankshares Inc" />
+	<company symbol="WBSN" name="Websense, Inc." />
+	<company symbol="WBSTP" name="Webster Preferred Capital Corp" />
+	<company symbol="WCAA" name="WCA Waste Corporation" />
+	<company symbol="WCBO" name="West Coast Bancorp" />
+	<company symbol="WCRX" name="Warner Chilcott plc" />
+	<company symbol="WDFC" name="WD-40 Company" />
+	<company symbol="WEBM" name="WebMediaBrands Inc" />
+	<company symbol="WERN" name="Werner Enterprises, Inc." />
+	<company symbol="WEST" name="Westinghouse Solar, Inc." />
+	<company symbol="WETF" name="WisdomTree Investments, Inc." />
+	<company symbol="WEYS" name="Weyco Group, Inc." />
+	<company symbol="WFD" name="Westfield Financial, Inc." />
+	<company symbol="WFM" name="Whole Foods Market, Inc." />
+	<company symbol="WFSL" name="Washington Federal, Inc." />
+	<company symbol="WFSLW" name="Washington Federal, Inc." />
+	<company symbol="WHRT" name="World Heart Corporation" />
+	<company symbol="WIBC" name="Wilshire Bancorp, Inc." />
+	<company symbol="WIFI" name="Boingo Wireless, Inc." />
+	<company symbol="WILC" name="G. Willi-Food International,  Ltd." />
+	<company symbol="WILN" name="Wi-Lan Inc" />
+	<company symbol="WIN" name="Windstream Corporation" />
+	<company symbol="WINA" name="Winmark Corporation" />
+	<company symbol="WINN" name="Winn-Dixie Stores, Inc." />
+	<company symbol="WIRE" name="Encore Wire Corporation" />
+	<company symbol="WLB" name="Westmoreland Coal Company" />
+	<company symbol="WLBC" name="Western Liberty Bancorp" />
+	<company symbol="WLBPZ" name="Westmoreland Coal Company" />
+	<company symbol="WLDN" name="Willdan Group, Inc." />
+	<company symbol="WLFC" name="Willis Lease Finance Corporation" />
+	<company symbol="WLFCP" name="Willis Lease Finance Corporation" />
+	<company symbol="WMAR" name="West Marine, Inc." />
+	<company symbol="WMCO" name="Williams Controls, Inc." />
+	<company symbol="WMGI" name="Wright Medical Group, Inc." />
+	<company symbol="WOLF" name="Great Wolf Resorts, Inc." />
+	<company symbol="WOOD" name="iShares S&amp;P Global Timber &amp;Forestry Index Fund" />
+	<company symbol="WOOF" name="VCA Antech, Inc." />
+	<company symbol="WPCS" name="WPCS International Incorporated" />
+	<company symbol="WPPGY" name="WPP plc" />
+	<company symbol="WPRT" name="Westport Innovations Inc" />
+	<company symbol="WRES" name="Warren Resources, Inc." />
+	<company symbol="WRLD" name="World Acceptance Corporation" />
+	<company symbol="WRLS" name="Telular Corporation" />
+	<company symbol="WSB" name="WSB Holdings, Inc." />
+	<company symbol="WSBC" name="WesBanco, Inc." />
+	<company symbol="WSBF" name="Waterstone Financial, Inc." />
+	<company symbol="WSCI" name="WSI Industries Inc." />
+	<company symbol="WSFS" name="WSFS Financial Corporation" />
+	<company symbol="WSTG" name="Wayside Technology Group, Inc." />
+	<company symbol="WSTL" name="Westell Technologies, Inc." />
+	<company symbol="WTBA" name="West Bancorporation" />
+	<company symbol="WTFC" name="Wintrust Financial Corporation" />
+	<company symbol="WTFCW" name="Wintrust Financial Corporation" />
+	<company symbol="WTSLA" name="The Wet Seal, Inc." />
+	<company symbol="WUHN" name="Wuhan General Group (China), Inc." />
+	<company symbol="WVFC" name="WVS Financial Corp." />
+	<company symbol="WVVI" name="Willamette Valley Vineyards, Inc." />
+	<company symbol="WWAY" name="Westway Group, Inc." />
+	<company symbol="WWD" name="Woodward, Inc." />
+	<company symbol="WWIN" name="Winner Medical Group Inc." />
+	<company symbol="WWON" name="Westwood One, Inc." />
+	<company symbol="WWVY" name="Warwick Valley Telephone Company" />
+	<company symbol="WWWW" name="Web.com Group, Inc" />
+	<company symbol="WYNN" name="Wynn Resorts, Limited" />
+	<company symbol="XATA" name="XATA Corporation" />
+	<company symbol="XBKS" name="Xenith Bankshares, Inc." />
+	<company symbol="XIDE" name="Exide Technologies" />
+	<company symbol="XING" name="Qiao Xing Universal Resources, Inc." />
+	<company symbol="XLNX" name="Xilinx, Inc." />
+	<company symbol="XNPT" name="XenoPort, Inc." />
+	<company symbol="XOMA" name="XOMA Ltd." />
+	<company symbol="XRAY" name="DENTSPLY International Inc." />
+	<company symbol="XRIT" name="X-Rite, Incorporated" />
+	<company symbol="XRTX" name="Xyratex Ltd." />
+	<company symbol="XTEX" name="Crosstex Energy, L.P." />
+	<company symbol="XTXI" name="Crosstex Energy, Inc." />
+	<company symbol="XWES" name="World Energy Solutions Inc (DE)" />
+	<company symbol="XXIA" name="Ixia" />
+	<company symbol="YAVY" name="Yadkin Valley Financial Corporation" />
+	<company symbol="YDNT" name="Young Innovations, Inc." />
+	<company symbol="YHOO" name="Yahoo! Inc." />
+	<company symbol="YNDX" name="Yandex N.V." />
+	<company symbol="YONG" name="Yongye International, Inc." />
+	<company symbol="YORW" name="The York Water Company" />
+	<company symbol="YRCW" name="YRC Worldwide, Inc." />
+	<company symbol="YTEC" name="Yucheng Technologies Limited" />
+	<company symbol="Z" name="Zillow, Inc." />
+	<company symbol="ZAGG" name="ZAGG Incorporated" />
+	<company symbol="ZANE" name="Zanett Inc." />
+	<company symbol="ZBRA" name="Zebra Technologies Corporation" />
+	<company symbol="ZEUS" name="Olympic Steel, Inc." />
+	<company symbol="ZGNX" name="Zogenix, Inc." />
+	<company symbol="ZHNE" name="Zhone Technologies, Inc." />
+	<company symbol="ZIGO" name="Zygo Corporation" />
+	<company symbol="ZINC" name="Horsehead Holding Corp." />
+	<company symbol="ZION" name="Zions Bancorporation" />
+	<company symbol="ZIONW" name="Zions Bancorporation" />
+	<company symbol="ZIOP" name="ZIOPHARM Oncology Inc" />
+	<company symbol="ZIP" name="Zipcar, Inc." />
+	<company symbol="ZIPR" name="ZipRealty, Inc." />
+	<company symbol="ZIXI" name="Zix Corporation" />
+	<company symbol="ZLCS" name="Zalicus Inc." />
+	<company symbol="ZN" name="Zion Oil &amp; Gas Inc" />
+	<company symbol="ZNWAL" name="Zion Oil &amp; Gas Inc" />
+	<company symbol="ZNWAW" name="Zion Oil &amp; Gas Inc" />
+	<company symbol="ZNWAZ" name="Zion Oil &amp; Gas Inc" />
+	<company symbol="ZOLL" name="Zoll Medical Corporation" />
+	<company symbol="ZOLT" name="Zoltek Companies, Inc." />
+	<company symbol="ZOOG" name="Zoo Entertainment, Inc." />
+	<company symbol="ZOOM" name="Zoom Technologies, Inc." />
+	<company symbol="ZRAN" name="Zoran Corporation" />
+	<company symbol="ZSTN" name="ZST Digital Networks, Inc." />
+	<company symbol="ZUMZ" name="Zumiez Inc." />
+</companies>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009" 
+		xmlns:s="library://ns.adobe.com/flex/spark"
+		creationComplete="view_creationCompleteHandler(event)"
+		stateChangeComplete="view_stateChangeCompleteHandler(event)">
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.collections.ArrayCollection;
+			import mx.events.FlexEvent;
+			import mx.states.State;
+			import mx.utils.ObjectProxy;
+			
+			import spark.events.IndexChangeEvent;
+			import spark.events.TextOperationEvent;
+			import spark.managers.PersistenceManager;
+
+			[Bindable]
+			protected var companiesDataProvider:ArrayCollection = new ArrayCollection;
+			
+			protected var symbols:Array = [];
+			
+			protected var companiesByStockExchange:Dictionary = new Dictionary;
+
+			override public function set data(value:Object):void
+			{
+				super.data = value;
+				symbols = value as Array;
+			}
+
+			protected function view_creationCompleteHandler(event:FlexEvent):void
+			{
+				var symbol:String, name:String;
+				
+				var companiesXml:XML;
+				var companyProxy:ObjectProxy;
+				var stockExchangeCompanies:ArrayCollection;
+				for each(var state:State in states)
+				{
+					companiesXml = this[state.name + "Data"];
+					stockExchangeCompanies = new ArrayCollection;
+					for each(var company:XML in companiesXml.company)
+					{
+						name = String(company.@name);
+						symbol = String(company.@symbol);
+						
+						companyProxy = new ObjectProxy(
+							{
+								name: name, 
+								symbol: symbol, 
+								selected: symbols.indexOf(symbol) >= 0
+							});
+						stockExchangeCompanies.addItem(companyProxy);
+					}
+					companiesByStockExchange[state.name] = stockExchangeCompanies;
+				}
+				
+				companiesDataProvider = companiesByStockExchange[currentState];
+			}
+			
+			protected function btnDone_clickHandler(event:MouseEvent):void
+			{				
+				var selectedSymbols:Array = [];
+				for each(var companies:ArrayCollection in companiesByStockExchange)
+				{
+					companies.filterFunction = null;
+					companies.refresh();
+					
+					for each(var companyProxy:ObjectProxy in companies)
+					{
+						if (companyProxy.selected)
+							selectedSymbols.push(companyProxy.symbol);
+					}
+				}
+					
+				var persistence:PersistenceManager = new PersistenceManager;
+				persistence.setProperty("symbols", selectedSymbols);
+				persistence.save();
+				
+				navigator.popView();
+			}
+			
+			protected function companiesFilter(item:Object):Boolean
+			{
+				return String(item.symbol).toLowerCase().indexOf(txtSearch.text.toLowerCase()) > -1;
+			}
+			
+			protected function txtSearch_changeHandler(event:TextOperationEvent):void
+			{
+				companiesDataProvider.filterFunction = txtSearch.text ? companiesFilter : null; 
+				companiesDataProvider.refresh();
+			}
+			
+			protected function view_stateChangeCompleteHandler(event:FlexEvent):void
+			{
+			}
+			
+			protected function spinnerList_changeHandler(event:IndexChangeEvent):void
+			{
+				currentState = String(spinnerList.selectedItem).toLowerCase();
+				
+				companiesDataProvider = companiesByStockExchange[currentState];
+				
+				if (companiesDataProvider)
+				{
+					companiesDataProvider.filterFunction = txtSearch.text ? companiesFilter : null;
+					companiesDataProvider.refresh();
+				}
+			}
+		]]>
+	</fx:Script>
+	
+	<s:transitions>
+		<s:Transition fromState="*" toState="*">
+			<s:Sequence>
+				<s:Fade target="{dgCompanies}" alphaFrom="1" alphaTo="0.4" duration="200" />
+				<s:Fade target="{dgCompanies}" alphaFrom="0.4" alphaTo="1" duration="200" />
+			</s:Sequence>
+		</s:Transition>
+	</s:transitions>
+	
+	<s:states>
+		<s:State name="amex" />
+		<s:State name="nasdaq" />
+		<s:State name="nyse" />
+	</s:states>
+	
+	<s:navigationContent>
+		<s:TextInput id="txtSearch" width="170" prompt="Search by symbol..." change="txtSearch_changeHandler(event)" />
+	</s:navigationContent>
+	
+	<s:actionContent>
+		<s:Button id="btnDone" label="Done" click="btnDone_clickHandler(event)" />
+	</s:actionContent>
+	
+	<fx:Declarations>
+		<fx:XML id="amexData" source="assets/amex-companies.xml" />
+		<fx:XML id="nasdaqData" source="assets/nasdaq-companies.xml" />
+		<fx:XML id="nyseData" source="assets/nyse-companies.xml" />
+	</fx:Declarations>
+	
+	<s:Scroller width="100%" top="0" bottom="80" horizontalScrollPolicy="off">
+		<s:DataGroup id="dgCompanies" width="100%" dataProvider="{companiesDataProvider}"
+					 itemRenderer="com.adobe.demo.blueChips.skins.CompanySelectionItemRenderer">
+			<s:layout>
+				<s:VerticalLayout useVirtualLayout="true" />
+			</s:layout>
+		</s:DataGroup>
+	</s:Scroller>
+	
+	<s:SpinnerListContainer width="100%" height="80" bottom="0">
+		<s:SpinnerList id="spinnerList" width="100%" height="100%" wrapElements="false" change="spinnerList_changeHandler(event)">
+			<s:dataProvider>
+				<s:ArrayCollection>
+					<fx:String>AMEX</fx:String>
+					<fx:String>NASDAQ</fx:String>
+					<fx:String>NYSE</fx:String>
+				</s:ArrayCollection>
+			</s:dataProvider>
+		</s:SpinnerList>
+	</s:SpinnerListContainer>
+	
+</s:View>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:DataRenderer xmlns:fx="http://ns.adobe.com/mxml/2009" 
+				xmlns:s="library://ns.adobe.com/flex/spark" 
+				height="50" width="100%" cacheAsBitmap="true">
+
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	
+	<s:CheckBox id="chb" label="{data.symbol} - {data.name}" selected="@{data.selected}" 
+				left="15" right="15" verticalCenter="0" />
+
+</s:DataRenderer>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:View xmlns:fx="http://ns.adobe.com/mxml/2009"
+		xmlns:s="library://ns.adobe.com/flex/spark"
+		xmlns:mx="library://ns.adobe.com/flex/mx"
+		xmlns:components="com.adobe.demo.blueChips.components.*"
+		skinClass="com.adobe.demo.blueChips.skins.TransparentViewSkin"
+		resize="view_resizeHandler(event)" xmlns:assets="com.adobe.demo.blueChips.skins.assets.*">
+	
+	<s:title.loaded>{fullName}</s:title.loaded>
+	<s:title.loading>Loading quotes...</s:title.loading>
+	
+	<fx:Script>
+		<![CDATA[
+			import mx.core.FlexGlobals;
+			import mx.effects.Move;
+			import mx.events.EffectEvent;
+			import mx.events.ResizeEvent;
+			import mx.utils.ObjectProxy;
+			
+			import spark.events.DropDownEvent;
+			import spark.events.IndexChangeEvent;
+			import spark.formatters.DateTimeFormatter;
+			
+			[Bindable]
+			protected var symbol:String = "";
+	
+			[Bindable]
+			protected var quote:ObjectProxy;
+
+			[Bindable]
+			protected var fullName:String;
+			
+			protected var loadersCount:int;
+			
+			protected var rangeStartDate:Date;
+			
+			protected var rangeEndDate:Date;
+			
+			override public function set data(value:Object):void
+			{
+				super.data = value;
+				if (value)
+				{
+					symbol = value.Symbol;
+					
+					// Fake implementation
+					fullName = value.Name;
+					quote = new ObjectProxy({
+						ChangeRealtime: value.Change, 
+						LastTradePriceOnly: value.LastTradePriceOnly,
+						ChangePercentRealtime: value.Change
+					});
+					
+					title = "Loading " + symbol + " data...";
+					lblProgress.text = title;
+					loadData();
+				}
+			}
+			
+			protected var viewState:String;
+			override public function set currentState(value:String):void
+			{
+				viewState = !viewState ? "loading" : value;
+				super.currentState = FlexGlobals.topLevelApplication.aspectRatio + viewState;
+			}
+			protected function view_resizeHandler(event:ResizeEvent):void
+			{
+				if (currentState != FlexGlobals.topLevelApplication.aspectRatio + viewState)
+					currentState = viewState;
+			}
+
+			protected function loadData():void
+			{
+				currentState = "loading";
+				
+				loadersCount = 1;
+				// Yahoo implementation
+//				loadSymbolQuote();
+//				loadSymbolFullName();
+				
+				loadHistoricalData();
+			}
+			
+			protected function loadHistoricalData():void
+			{
+				if (!rangeStartDate)
+				{
+					rangeStartDate = new Date;
+					rangeStartDate.date += -10;
+					
+					rangeEndDate = new Date;
+				}
+				
+				var dtf:DateTimeFormatter = new DateTimeFormatter;
+				dtf.dateTimePattern = "yyyy-MM-dd";
+				// Yahoo implementation
+//				var query:String = "http://query.yahooapis.com/v1/public/yql?q=" + 
+//					"select * from yahoo.finance.historicaldata where symbol = \"" + symbol + "\"" +
+//					" and startDate = \"" + dtf.format(rangeStartDate) + "\" and endDate = \"" + dtf.format(rangeEndDate) 
+//					+ "\" | sort(field=\"Date\")&format=json&env=store://datatables.org/alltableswithkeys";
+				
+				// Fake implementation
+				var query:String = "http://riaspace.com/examples/quotes/historical.php?symbol=" + symbol + 
+					"&rangeStart=" + dtf.format(rangeStartDate) + 
+					"&rangeEnd=" + dtf.format(rangeEndDate);
+				
+				var loader:URLLoader = new URLLoader;
+				loader.addEventListener(Event.COMPLETE, historyLoader_completeHandler);
+				loader.addEventListener(IOErrorEvent.IO_ERROR, loader_errorHandler);
+				loader.addEventListener(SecurityErrorEvent.SECURITY_ERROR, loader_errorHandler);
+				loader.load(new URLRequest(encodeURI(query)));
+			}
+			
+			protected function loadSymbolQuote():void
+			{
+				var query:String = "http://query.yahooapis.com/v1/public/yql?q=" + 
+					"select * from yahoo.finance.quotes where symbol = \"" + symbol + "\"" +
+					"&format=json&env=store://datatables.org/alltableswithkeys";
+				
+				var loader:URLLoader = new URLLoader;
+				loader.addEventListener(Event.COMPLETE, quoteLoader_completeHandler);
+				loader.addEventListener(IOErrorEvent.IO_ERROR, loader_errorHandler);
+				loader.addEventListener(SecurityErrorEvent.SECURITY_ERROR, loader_errorHandler);
+				loader.load(new URLRequest(encodeURI(query)));
+			}
+
+			protected function loadSymbolFullName():void
+			{
+				var query:String = "http://query.yahooapis.com/v1/public/yql?q=" + 
+					"select * from yahoo.finance.stocks where symbol = \"" + symbol + "\"" +
+					"&format=json&env=store://datatables.org/alltableswithkeys";
+				
+				var loader:URLLoader = new URLLoader;
+				loader.addEventListener(Event.COMPLETE, fullNameLoader_completeHandler);
+				loader.addEventListener(IOErrorEvent.IO_ERROR, loader_errorHandler);
+				loader.addEventListener(SecurityErrorEvent.SECURITY_ERROR, loader_errorHandler);
+				loader.load(new URLRequest(encodeURI(query)));
+			}
+
+			protected function historyLoader_completeHandler(event:Event):void
+			{
+				var value:Number;
+				var results:Object = JSON.parse(String(URLLoader(event.target).data));
+				
+				if (results.query.results)
+					// Fake implementation
+					chart.series = results.query.results;
+					// Yahoo implementation
+//					chart.series = results.query.results.quote;
+				
+				loadersCount--;
+				if (loadersCount <= 0)
+					currentState = "loaded";
+			}
+			
+			protected function quoteLoader_completeHandler(event:Event):void
+			{
+				var result:Object = JSON.parse(String(URLLoader(event.target).data));
+				if (result.query.results)
+					quote = new ObjectProxy(result.query.results.quote);
+
+				loadersCount--;
+				if (loadersCount <= 0)
+					currentState = "loaded";
+			}
+			
+			protected function fullNameLoader_completeHandler(event:Event):void
+			{
+				var result:Object = JSON.parse(String(URLLoader(event.target).data));
+				if (result.query.results)
+					fullName = String(result.query.results.stock.CompanyName);
+
+				loadersCount--;
+				if (loadersCount <= 0)
+					currentState = "loaded";
+			}
+			
+			protected function loader_errorHandler(event:ErrorEvent):void
+			{
+				currentState = "error";
+				trace(event.text);
+			}
+			
+			protected function btnRetry_clickHandler(event:MouseEvent):void
+			{
+				loadData();
+			}
+
+			protected function btnRange_closeHandler(event:DropDownEvent):void
+			{
+				rangeStartDate = dsRangeStart.selectedDate;
+				rangeEndDate = dsRangeEnd.selectedDate;
+				
+				currentState = "loading";
+				loadersCount = 1;
+				loadHistoricalData();
+			}
+			
+			protected function btnBar_changeHandler(event:IndexChangeEvent):void
+			{
+				var selectedRange:Object = dateRanges.getItemAt(event.newIndex);
+				var value:Number = Number(selectedRange.value);
+				
+				var rangeStartDate:Date = new Date;
+				var rangeEndDate:Date = new Date;
+				
+				switch(selectedRange.unit)
+				{
+					case "day":
+					{
+						rangeStartDate.date -= value;
+						break;
+					}
+					case "month":
+					{
+						rangeStartDate.month -= value;
+						break;
+					}
+					case "year":
+					{
+						rangeStartDate.month -= value * 12;
+						break;
+					}
+				}
+				
+				btnBar.visible = false;
+				btnBar.selectedItem = null;
+
+				this.rangeStartDate = rangeStartDate;
+				this.rangeEndDate = rangeEndDate;
+				
+				currentState = "loading";
+				loadersCount = 1;
+				loadHistoricalData();
+			}
+			
+			protected function chartRulerLabelFunction(selection:Object):String
+			{
+				return "Open: " + selection.Open + 
+					"\nClose: " + selection.Close + 
+					"\nDate: " + chartXAxisLabelFunction(selection.Date);
+			}
+			
+			protected function chartXAxisLabelFunction(date:Object):String
+			{
+				var dateSplit:Array = date.split("-");
+				return dateSplit[1] + "." + dateSplit[2]
+			}
+			
+			[Bindable]
+			protected var detailsShown:Boolean = false;
+			
+			[Bindable]
+			[Embed(source="assets/images/ico-show.png")]
+			protected var showDetailsIcon:Class;
+			
+			[Bindable]
+			[Embed(source="assets/images/ico-hide.png")]
+			protected var hideDetailsIcon:Class;
+			
+			protected function lblShowHideDetails_clickHandler(event:MouseEvent):void
+			{
+				var effect:Move = new Move;
+				if (detailsShown)
+					effect.xTo = -(grpDetails.width - 40);
+				else
+					effect.xTo = 0;
+				effect.addEventListener(EffectEvent.EFFECT_END,
+					function(e:EffectEvent):void
+					{
+						detailsShown = !detailsShown;
+					});
+				effect.play([grpDetails]);
+			}
+		]]>
+	</fx:Script>
+	
+	<s:states>
+		<s:State name="portraitloading" stateGroups="portrait, loading" />
+		<s:State name="portraitloaded" stateGroups="portrait, loaded" />
+		<s:State name="portraiterror" stateGroups="portrait, error" />
+		
+		<s:State name="landscapeloading" stateGroups="landscape, loading" />
+		<s:State name="landscapeloaded" stateGroups="landscape, loaded" />
+		<s:State name="landscapeerror" stateGroups="landscape, error" />
+	</s:states>
+
+	<fx:Declarations>
+		<fx:String id="changeSign">{Number(quote.ChangeRealtime) == 0 ? 'neutral' : Number(quote.ChangeRealtime) > 0 ? 'positive' : 'negative'}</fx:String>
+	</fx:Declarations>
+	
+	<s:actionContent.loaded>
+		<s:CalloutButton id="btnRange" label="Range" close="btnRange_closeHandler(event)">
+			<s:calloutLayout>
+				<s:VerticalLayout paddingTop="12" gap="10" />
+			</s:calloutLayout>
+
+			<s:Label text="Range start:" paddingLeft="10" />
+			<s:DateSpinner id="dsRangeStart" minDate="{new Date(1970, 1, 1)}">
+				<s:creationComplete>
+					<![CDATA[
+						var rangeFromDate:Date = new Date;
+						rangeFromDate.date -= 10;
+						dsRangeStart.selectedDate = rangeFromDate;
+					]]>
+				</s:creationComplete>				
+			</s:DateSpinner>
+			<s:Label text="Range end:" paddingLeft="10" />
+			<s:DateSpinner id="dsRangeEnd" minDate="{new Date(1970, 1, 1)}">
+				<s:valueCommit>
+					<![CDATA[
+						var maxFromDate:Date = dsRangeEnd.selectedDate;
+						maxFromDate.date -= 1;
+						dsRangeStart.maxDate = maxFromDate;
+					]]>
+				</s:valueCommit>
+				<s:creationComplete>
+					<![CDATA[
+						var maxToDate:Date = new Date;
+						maxToDate.date -= 1;
+						dsRangeEnd.maxDate = maxToDate;
+						dsRangeEnd.selectedDate = maxToDate;
+					]]>
+				</s:creationComplete>
+			</s:DateSpinner>
+		</s:CalloutButton>
+	</s:actionContent.loaded>
+	
+	<components:SimpleAreaChart id="chart" width="100%"	height.landscape="100%" 
+								bottom.portrait="280" top.portrait="0"
+								doubleClickEnabled="true"
+								click="if (btnBar.visible) btnBar.visible = false"
+								doubleClick="if (!btnBar.visible) btnBar.visible = true" 
+								xAxisField="Date" yAxisField="Close"
+								xAxisLabelFunction="chartXAxisLabelFunction"
+								rulerLabelFunction="chartRulerLabelFunction"/>
+	
+	<s:Rect height="100%" width="300">
+		<s:fill>
+			<s:LinearGradient>
+				<s:GradientEntry color="#0471c1" alpha="0.5" />
+				<s:GradientEntry color="#0471c1" alpha="0.0" />
+			</s:LinearGradient>
+		</s:fill>
+	</s:Rect>
+
+	<s:ButtonBar id="btnBar" includeIn="loaded" horizontalCenter="0" visible="false"
+				 top="{chart.height - 150}" change="btnBar_changeHandler(event)">
+		<s:dataProvider>
+			<s:ArrayCollection id="dateRanges">
+				<fx:Object value="7" unit="day" label="5 days" />
+				<fx:Object value="1" unit="month" label="1 month" />
+				<fx:Object value="3" unit="month" label="3 months" />
+				<fx:Object value="6" unit="month" label="6 months" />
+			</s:ArrayCollection>
+		</s:dataProvider>
+	</s:ButtonBar>
+
+	<s:HGroup includeIn="loaded" left="15" top="20" gap="10" verticalAlign="bottom" fontSize="26" color="#A5F6FF">
+		<s:Label text="{symbol}" fontSize="32" fontWeight="bold" />
+		<s:Label text="{quote.LastTradePriceOnly}" />
+		<s:Label text="{changeSign == 'neutral' ? '' : (changeSign == 'positive') ? '▲ ' : '▼ '} {quote.ChangePercentRealtime} %" 
+				 color="{changeSign == 'neutral' ? 0xb1eeff : (changeSign == 'positive') ? 0x00FF00 : 0xFF0000}"/>
+	</s:HGroup>
+	<s:Label includeIn="loaded" text="({fullName})" fontSize="20" left="15" top="55" color="#83e4ff" />
+
+	<s:Group includeIn="landscapeloaded" clipAndEnableScrolling="true" x="15" y="160" width="340">
+		<s:Group id="grpDetails" width="100%" x="-300" color="#FFFFFF" fontSize="16">
+			<s:Label left="0" text="After Hours:" color="#83e4ff" />
+			<s:Label right="50" text="234.00 - 3%" />
+			
+			<s:Label left="0" top="32" text="Last Trade:" color="#83e4ff" />
+			<s:Label right="50" top="32" text="234.00" />
+			
+			<s:Label left="0" top="64" text="Trade Time:" color="#83e4ff" />
+			<s:Label right="50" top="64" text="4:00 pm" />
+			
+			<s:Label left="0" top="96" text="Change:" color="#83e4ff" />
+			<s:Label right="50" top="96" text="3%" />
+			
+			<s:Label left="0" top="128" text="Prev Close:" color="#83e4ff" />
+			<s:Label right="50" top="128" text="230.00" />
+			
+			<s:Label left="0" top="160" text="Bid:" color="#83e4ff" />
+			<s:Label right="50" top="160" text="N/A" />
+			
+			<s:Label left="0" top="192" text="Ask:" color="#83e4ff" />
+			<s:Label right="50" top="192" text="N/A" />
+			
+			<s:Label left="0" top="224" text="1y Target Est:" color="#83e4ff" />
+			<s:Label right="50" top="224" text="240.23" />
+			
+			<s:Label left="0" top="256" text="Day's Range:" color="#83e4ff" />
+			<s:Label right="50" top="256" text="7803" />
+			
+			<s:Label left="0" top="288" text="Average Daily Volume:" color="#83e4ff" />
+			<s:Label right="50" top="288" text="234532454" />
+			
+			<s:Label left="0" top="320" text="Market Cap:" color="#83e4ff" />
+			<s:Label right="50" top="320" text="230.8B" />
+			
+			<s:Label left="0" top="352" text="P/E (ttm):" color="#83e4ff" />
+			<s:Label right="50" top="352" text="14.30" />
+			
+			<s:Label left="0" top="384" text="Dividend Yield:" color="#83e4ff" />
+			<s:Label right="50" top="384" text="N/A" />
+			
+<!--			<s:Label left="0" text="After Hours:" color="#83e4ff" />
+			<s:Label right="50" text="{quote.AfterHoursChangeRealtime}" />
+			
+			<s:Label left="0" top="28" text="Last Trade:" color="#83e4ff" />
+			<s:Label right="50" top="28" text="{quote.LastTradePriceOnly}" />
+			
+			<s:Label left="0" top="56" text="Trade Time:" color="#83e4ff" />
+			<s:Label right="50" top="56" text="{quote.LastTradeDate} {quote.LastTradeTime}" />
+			
+			<s:Label left="0" top="84" text="Change:" color="#83e4ff" />
+			<s:Label right="50" top="84" text="{quote.Change_PercentChange}" />
+			
+			<s:Label left="0" top="112" text="Prev Close:" color="#83e4ff" />
+			<s:Label right="50" top="112" text="{quote.PreviousClose}" />
+			
+			<s:Label left="0" top="140" text="Bid:" color="#83e4ff" />
+			<s:Label right="50" top="140" text="{quote.Bid}" />
+			
+			<s:Label left="0" top="168" text="Ask:" color="#83e4ff" />
+			<s:Label right="50" top="168" text="{quote.Ask}" />
+			
+			<s:Label left="0" top="196" text="1y Target Est:" color="#83e4ff" />
+			<s:Label right="50" top="196" text="{quote.OneyrTargetPrice}" />
+			
+			<s:Label left="0" top="224" text="Day's Range:" color="#83e4ff" />
+			<s:Label right="50" top="224" text="{quote.Volume}" />
+			
+			<s:Label left="0" top="252" text="Average Daily Volume:" color="#83e4ff" />
+			<s:Label right="50" top="252" text="{quote.AverageDailyVolume}" />
+			
+			<s:Label left="0" top="280" text="Market Cap:" color="#83e4ff" />
+			<s:Label right="50" top="280" text="{quote.MarketCapitalization}" />
+			
+			<s:Label left="0" top="308" text="P/E (ttm):" color="#83e4ff" />
+			<s:Label right="50" top="308" text="{quote.PERatio}" />
+			
+			<s:Label left="0" top="336" text="Dividend Yield:" color="#83e4ff" />
+			<s:Label right="50" top="336" text="{quote.DividendYield}" />-->
+			
+			<s:HGroup bottom="115" right="0" rotation="-90" click="lblShowHideDetails_clickHandler(event)" 
+					  verticalAlign="middle">
+				<s:BitmapImage source="{detailsShown ? hideDetailsIcon : showDetailsIcon}" />
+				<s:Label color="#60dbff" alpha="0.3" 
+						 text="{detailsShown ? 'tap to hide details' : 'tap to show details'}" />
+			</s:HGroup>
+		</s:Group>
+	</s:Group>
+
+	<s:SkinnableContainer includeIn="portrait" width="100%" bottom="0" height="280" 
+			 backgroundColor="#000000" backgroundAlpha="0.5">
+		
+		<s:Line width="100%" top="0">
+			<s:stroke>
+				<s:SolidColorStroke color="#FFFFFF" alpha="0.1" />
+			</s:stroke>
+		</s:Line>
+		
+		<s:Group includeIn="portraitloaded" left="30" top="30" bottom="20"
+				 color="#FFFFFF" fontSize="16" width="300">
+			<s:Label left="0" text="After Hours:" color="#83e4ff" />
+			<s:Label right="0" text="234.00 - 3%" />
+			
+			<s:Label left="0" top="32" text="Last Trade:" color="#83e4ff" />
+			<s:Label right="0" top="32" text="234.00" />
+			
+			<s:Label left="0" top="64" text="Trade Time:" color="#83e4ff" />
+			<s:Label right="0" top="64" text="4:00 pm" />
+			
+			<s:Label left="0" top="96" text="Change:" color="#83e4ff" />
+			<s:Label right="0" top="96" text="3%" />
+			
+			<s:Label left="0" top="128" text="Prev Close:" color="#83e4ff" />
+			<s:Label right="0" top="128" text="230.00" />
+			
+			<s:Label left="0" top="160" text="Bid:" color="#83e4ff" />
+			<s:Label right="0" top="160" text="N/A" />
+			
+			<s:Label left="0" top="192" text="Ask:" color="#83e4ff" />
+			<s:Label right="0" top="192" text="N/A" />
+<!--			<s:Label left="0" text="After Hours:" color="#83e4ff" />
+			<s:Label right="0" text="{quote.AfterHoursChangeRealtime}" />
+			
+			<s:Label left="0" top="28" text="Last Trade:" color="#83e4ff" />
+			<s:Label right="0" top="28" text="{quote.LastTradePriceOnly}" />
+			
+			<s:Label left="0" top="56" text="Trade Time:" color="#83e4ff" />
+			<s:Label right="0" top="56" text="{quote.LastTradeDate} {quote.LastTradeTime}" />
+			
+			<s:Label left="0" top="84" text="Change:" color="#83e4ff" />
+			<s:Label right="0" top="84" text="{quote.Change_PercentChange}" />
+			
+			<s:Label left="0" top="112" text="Prev Close:" color="#83e4ff" />
+			<s:Label right="0" top="112" text="{quote.PreviousClose}" />
+			
+			<s:Label left="0" top="140" text="Bid:" color="#83e4ff" />
+			<s:Label right="0" top="140" text="{quote.Bid}" />
+			
+			<s:Label left="0" top="168" text="Ask:" color="#83e4ff" />
+			<s:Label right="0" top="168" text="{quote.Ask}" />-->
+		</s:Group>
+		<s:Line height="100%" horizontalCenter="0">
+			<s:stroke>
+				<s:SolidColorStroke color="#FFFFFF" alpha="0.1" />
+			</s:stroke>
+		</s:Line>
+		<s:Group includeIn="portraitloaded" right="30" top="30" bottom="20"
+				 color="#FFFFFF" fontSize="16" width="300">
+			<s:Label left="0" text="1y Target Est:" color="#83e4ff" />
+			<s:Label right="0" text="240.23" />
+			
+			<s:Label left="0" top="32" text="Day's Range:" color="#83e4ff" />
+			<s:Label right="0" top="32" text="7803" />
+			
+			<s:Label left="0" top="64" text="Average Daily Volume:" color="#83e4ff" />
+			<s:Label right="0" top="64" text="234532454" />
+			
+			<s:Label left="0" top="96" text="Market Cap:" color="#83e4ff" />
+			<s:Label right="0" top="96" text="230.8B" />
+			
+			<s:Label left="0" top="128" text="P/E (ttm):" color="#83e4ff" />
+			<s:Label right="0" top="128" text="14.30" />
+			
+			<s:Label left="0" top="160" text="Dividend Yield:" color="#83e4ff" />
+			<s:Label right="0" top="160" text="N/A" />
+<!--			<s:Label left="0" text="1y Target Est:" color="#83e4ff" />
+			<s:Label right="0" text="{quote.OneyrTargetPrice}" />
+			
+			<s:Label left="0" top="28" text="Day's Range:" color="#83e4ff" />
+			<s:Label right="0" top="28" text="{quote.Volume}" />
+			
+			<s:Label left="0" top="56" text="Average Daily Volume:" color="#83e4ff" />
+			<s:Label right="0" top="56" text="{quote.AverageDailyVolume}" />
+			
+			<s:Label left="0" top="84" text="Market Cap:" color="#83e4ff" />
+			<s:Label right="0" top="84" text="{quote.MarketCapitalization}" />
+			
+			<s:Label left="0" top="112" text="P/E (ttm):" color="#83e4ff" />
+			<s:Label right="0" top="112" text="{quote.PERatio}" />
+			
+			<s:Label left="0" top="140" text="Dividend Yield:" color="#83e4ff" />
+			<s:Label right="0" top="140" text="{quote.DividendYield}" />-->
+		</s:Group>
+		<s:BitmapImage source="assets/images/shine.png" horizontalCenter="0" bottom="0" />
+	</s:SkinnableContainer>
+
+	<s:SkinnableContainer id="progressContainer" includeIn="loading" width="100%" height="100%" backgroundColor="#000000" alpha="0.6">
+		<s:HGroup verticalCenter="0" horizontalCenter="0" verticalAlign="middle">
+			<s:BusyIndicator symbolColor="#FFFFFF" />
+			<s:Label id="lblProgress" text="Loading quotes..." color="#FFFFFF" visible="{symbol != null}" includeInLayout="{symbol != null}" />
+		</s:HGroup>
+	</s:SkinnableContainer>
+	
+	<s:SkinnableContainer id="errorContainer" includeIn="error" width="100%" height="100%" backgroundColor="#000000" alpha="0.6">
+		<s:HGroup verticalCenter="0" horizontalCenter="0" verticalAlign="middle">
+			<s:Label text="Error loading {symbol} data... " />
+			<s:Button label="Retry" click="btnRetry_clickHandler(event)" />
+		</s:HGroup>
+	</s:SkinnableContainer>
+	
+</s:View>
